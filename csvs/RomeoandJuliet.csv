@@ -1,0 +1,3096 @@
+,LineNos,Lines,Speakers
+0,/Shakespeare,Shakespeare homepage,
+1,/romeo_juliet/,Romeo and Juliet,
+2,1.0.1,"Two households, both alike in dignity,",
+3,1.0.2,"In fair Verona, where we lay our scene,",
+4,1.0.3,"From ancient grudge break to new mutiny,",
+5,1.0.4,Where civil blood makes civil hands unclean.,
+6,1.0.5,From forth the fatal loins of these two foes,
+7,1.0.6,A pair of star-cross'd lovers take their life;,
+8,1.0.7,Whose misadventured piteous overthrows,
+9,1.0.8,Do with their death bury their parents' strife.,
+10,1.0.9,"The fearful passage of their death-mark'd love,",
+11,1.0.10,"And the continuance of their parents' rage,",
+12,1.0.11,"Which, but their children's end, nought could remove,",
+13,1.0.12,Is now the two hours' traffic of our stage;,
+14,1.0.13,"The which if you with patient ears attend,",
+15,1.0.14,"What here shall miss, our toil shall strive to mend.",
+16,1.1.1,"Gregory, o' my word, we'll not carry coals.",SAMPSON
+17,1.1.2,"No, for then we should be colliers.",GREGORY
+18,1.1.3,"I mean, an we be in choler, we'll draw.",SAMPSON
+19,1.1.4,"Ay, while you live, draw your neck out o' the collar.",GREGORY
+20,1.1.5,"I strike quickly, being moved.",SAMPSON
+21,1.1.6,But thou art not quickly moved to strike.,GREGORY
+22,1.1.7,A dog of the house of Montague moves me.,SAMPSON
+23,1.1.8,To move is to stir; and to be valiant is to stand:,GREGORY
+24,1.1.9,"therefore, if thou art moved, thou runn'st away.",GREGORY
+25,1.1.10,A dog of that house shall move me to stand: I will,SAMPSON
+26,1.1.11,take the wall of any man or maid of Montague's.,SAMPSON
+27,1.1.12,That shows thee a weak slave; for the weakest goes,GREGORY
+28,1.1.13,to the wall.,GREGORY
+29,1.1.14,"True; and therefore women, being the weaker vessels,",SAMPSON
+30,1.1.15,are ever thrust to the wall: therefore I will push,SAMPSON
+31,1.1.16,"Montague's men from the wall, and thrust his maids",SAMPSON
+32,1.1.17,to the wall.,SAMPSON
+33,1.1.18,The quarrel is between our masters and us their men.,GREGORY
+34,1.1.19,"'Tis all one, I will show myself a tyrant: when I",SAMPSON
+35,1.1.20,"have fought with the men, I will be cruel with the",SAMPSON
+36,1.1.21,"maids, and cut off their heads.",SAMPSON
+37,1.1.22,The heads of the maids?,GREGORY
+38,1.1.23,"Ay, the heads of the maids, or their maidenheads;",SAMPSON
+39,1.1.24,take it in what sense thou wilt.,SAMPSON
+40,1.1.25,They must take it in sense that feel it.,GREGORY
+41,1.1.26,Me they shall feel while I am able to stand: and,SAMPSON
+42,1.1.27,'tis known I am a pretty piece of flesh.,SAMPSON
+43,1.1.28,"'Tis well thou art not fish; if thou hadst, thou",GREGORY
+44,1.1.29,hadst been poor John. Draw thy tool! here comes,GREGORY
+45,1.1.30,two of the house of the Montagues.,GREGORY
+46,1.1.31,"My naked weapon is out: quarrel, I will back thee.",SAMPSON
+47,1.1.32,How! turn thy back and run?,GREGORY
+48,1.1.33,Fear me not.,SAMPSON
+49,1.1.34,"No, marry; I fear thee!",GREGORY
+50,1.1.35,Let us take the law of our sides; let them begin.,SAMPSON
+51,1.1.36,"I will frown as I pass by, and let them take it as",GREGORY
+52,1.1.37,they list.,GREGORY
+53,1.1.38,"Nay, as they dare. I will bite my thumb at them;",SAMPSON
+54,1.1.39,"which is a disgrace to them, if they bear it.",SAMPSON
+55,1.1.40,"Do you bite your thumb at us, sir?",ABRAHAM
+56,1.1.41,"I do bite my thumb, sir.",SAMPSON
+57,1.1.42,"Do you bite your thumb at us, sir?",ABRAHAM
+58,1.1.43,"[Aside to GREGORY]  Is the law of our side, if I say",SAMPSON
+59,1.1.44,ay?,SAMPSON
+60,1.1.45,No.,GREGORY
+61,1.1.46,"No, sir, I do not bite my thumb at you, sir, but I",SAMPSON
+62,1.1.47,"bite my thumb, sir.",SAMPSON
+63,1.1.48,"Do you quarrel, sir?",GREGORY
+64,1.1.49,"Quarrel sir! no, sir.",ABRAHAM
+65,1.1.50,"If you do, sir, I am for you: I serve as good a man as you.",SAMPSON
+66,1.1.51,No better.,ABRAHAM
+67,1.1.52,"Well, sir.",SAMPSON
+68,1.1.53,Say 'better:' here comes one of my master's kinsmen.,GREGORY
+69,1.1.54,"Yes, better, sir.",SAMPSON
+70,1.1.55,You lie.,ABRAHAM
+71,1.1.56,"Draw, if you be men. Gregory, remember thy swashing blow.",SAMPSON
+72,1.1.57,"Part, fools!",BENVOLIO
+73,1.1.58,Put up your swords; you know not what you do.,BENVOLIO
+74,1.1.59,"What, art thou drawn among these heartless hinds?",TYBALT
+75,1.1.60,"Turn thee, Benvolio, look upon thy death.",TYBALT
+76,1.1.61,"I do but keep the peace: put up thy sword,",BENVOLIO
+77,1.1.62,Or manage it to part these men with me.,BENVOLIO
+78,1.1.63,"What, drawn, and talk of peace! I hate the word,",TYBALT
+79,1.1.64,"As I hate hell, all Montagues, and thee:",TYBALT
+80,1.1.65,"Have at thee, coward!",TYBALT
+81,1.1.66,"Clubs, bills, and partisans! strike! beat them down!",First Citizen
+82,1.1.67,Down with the Capulets! down with the Montagues!,First Citizen
+83,1.1.68,"What noise is this? Give me my long sword, ho!",CAPULET
+84,1.1.69,"A crutch, a crutch! why call you for a sword?",LADY CAPULET
+85,1.1.70,"My sword, I say! Old Montague is come,",CAPULET
+86,1.1.71,And flourishes his blade in spite of me.,CAPULET
+87,1.1.72,"Thou villain Capulet,--Hold me not, let me go.",MONTAGUE
+88,1.1.73,Thou shalt not stir a foot to seek a foe.,LADY MONTAGUE
+89,1.1.74,"Rebellious subjects, enemies to peace,",PRINCE
+90,1.1.75,"Profaners of this neighbour-stained steel,--",PRINCE
+91,1.1.76,"Will they not hear? What, ho! you men, you beasts,",PRINCE
+92,1.1.77,That quench the fire of your pernicious rage,PRINCE
+93,1.1.78,"With purple fountains issuing from your veins,",PRINCE
+94,1.1.79,"On pain of torture, from those bloody hands",PRINCE
+95,1.1.80,"Throw your mistemper'd weapons to the ground,",PRINCE
+96,1.1.81,And hear the sentence of your moved prince.,PRINCE
+97,1.1.82,"Three civil brawls, bred of an airy word,",PRINCE
+98,1.1.83,"By thee, old Capulet, and Montague,",PRINCE
+99,1.1.84,"Have thrice disturb'd the quiet of our streets,",PRINCE
+100,1.1.85,And made Verona's ancient citizens,PRINCE
+101,1.1.86,"Cast by their grave beseeming ornaments,",PRINCE
+102,1.1.87,"To wield old partisans, in hands as old,",PRINCE
+103,1.1.88,"Canker'd with peace, to part your canker'd hate:",PRINCE
+104,1.1.89,"If ever you disturb our streets again,",PRINCE
+105,1.1.90,Your lives shall pay the forfeit of the peace.,PRINCE
+106,1.1.91,"For this time, all the rest depart away:",PRINCE
+107,1.1.92,You Capulet; shall go along with me:,PRINCE
+108,1.1.93,"And, Montague, come you this afternoon,",PRINCE
+109,1.1.94,"To know our further pleasure in this case,",PRINCE
+110,1.1.95,"To old Free-town, our common judgment-place.",PRINCE
+111,1.1.96,"Once more, on pain of death, all men depart.",PRINCE
+112,1.1.97,Who set this ancient quarrel new abroach?,MONTAGUE
+113,1.1.98,"Speak, nephew, were you by when it began?",MONTAGUE
+114,1.1.99,"Here were the servants of your adversary,",BENVOLIO
+115,1.1.100,"And yours, close fighting ere I did approach:",BENVOLIO
+116,1.1.101,I drew to part them: in the instant came,BENVOLIO
+117,1.1.102,"The fiery Tybalt, with his sword prepared,",BENVOLIO
+118,1.1.103,"Which, as he breathed defiance to my ears,",BENVOLIO
+119,1.1.104,"He swung about his head and cut the winds,",BENVOLIO
+120,1.1.105,Who nothing hurt withal hiss'd him in scorn:,BENVOLIO
+121,1.1.106,"While we were interchanging thrusts and blows,",BENVOLIO
+122,1.1.107,"Came more and more and fought on part and part,",BENVOLIO
+123,1.1.108,"Till the prince came, who parted either part.",BENVOLIO
+124,1.1.109,"O, where is Romeo? saw you him to-day?",LADY MONTAGUE
+125,1.1.110,Right glad I am he was not at this fray.,LADY MONTAGUE
+126,1.1.111,"Madam, an hour before the worshipp'd sun",BENVOLIO
+127,1.1.112,"Peer'd forth the golden window of the east,",BENVOLIO
+128,1.1.113,A troubled mind drave me to walk abroad;,BENVOLIO
+129,1.1.114,"Where, underneath the grove of sycamore",BENVOLIO
+130,1.1.115,"That westward rooteth from the city's side,",BENVOLIO
+131,1.1.116,So early walking did I see your son:,BENVOLIO
+132,1.1.117,"Towards him I made, but he was ware of me",BENVOLIO
+133,1.1.118,And stole into the covert of the wood:,BENVOLIO
+134,1.1.119,"I, measuring his affections by my own,",BENVOLIO
+135,1.1.120,"That most are busied when they're most alone,",BENVOLIO
+136,1.1.121,"Pursued my humour not pursuing his,",BENVOLIO
+137,1.1.122,And gladly shunn'd who gladly fled from me.,BENVOLIO
+138,1.1.123,"Many a morning hath he there been seen,",MONTAGUE
+139,1.1.124,With tears augmenting the fresh morning dew.,MONTAGUE
+140,1.1.125,Adding to clouds more clouds with his deep sighs;,MONTAGUE
+141,1.1.126,But all so soon as the all-cheering sun,MONTAGUE
+142,1.1.127,Should in the furthest east begin to draw,MONTAGUE
+143,1.1.128,"The shady curtains from Aurora's bed,",MONTAGUE
+144,1.1.129,"Away from the light steals home my heavy son,",MONTAGUE
+145,1.1.130,"And private in his chamber pens himself,",MONTAGUE
+146,1.1.131,"Shuts up his windows, locks far daylight out",MONTAGUE
+147,1.1.132,And makes himself an artificial night:,MONTAGUE
+148,1.1.133,"Black and portentous must this humour prove,",MONTAGUE
+149,1.1.134,Unless good counsel may the cause remove.,MONTAGUE
+150,1.1.135,"My noble uncle, do you know the cause?",BENVOLIO
+151,1.1.136,I neither know it nor can learn of him.,MONTAGUE
+152,1.1.137,Have you importuned him by any means?,BENVOLIO
+153,1.1.138,Both by myself and many other friends:,MONTAGUE
+154,1.1.139,"But he, his own affections' counsellor,",MONTAGUE
+155,1.1.140,Is to himself--I will not say how true--,MONTAGUE
+156,1.1.141,"But to himself so secret and so close,",MONTAGUE
+157,1.1.142,"So far from sounding and discovery,",MONTAGUE
+158,1.1.143,"As is the bud bit with an envious worm,",MONTAGUE
+159,1.1.144,"Ere he can spread his sweet leaves to the air,",MONTAGUE
+160,1.1.145,Or dedicate his beauty to the sun.,MONTAGUE
+161,1.1.146,Could we but learn from whence his sorrows grow.,MONTAGUE
+162,1.1.147,We would as willingly give cure as know.,MONTAGUE
+163,1.1.148,"See, where he comes: so please you, step aside;",BENVOLIO
+164,1.1.149,"I'll know his grievance, or be much denied.",BENVOLIO
+165,1.1.150,"I would thou wert so happy by thy stay,",MONTAGUE
+166,1.1.151,"To hear true shrift. Come, madam, let's away.",MONTAGUE
+167,1.1.152,"Good-morrow, cousin.",BENVOLIO
+168,1.1.153,Is the day so young?,ROMEO
+169,1.1.154,But new struck nine.,BENVOLIO
+170,1.1.155,Ay me! sad hours seem long.,ROMEO
+171,1.1.156,Was that my father that went hence so fast?,ROMEO
+172,1.1.157,It was. What sadness lengthens Romeo's hours?,BENVOLIO
+173,1.1.158,"Not having that, which, having, makes them short.",ROMEO
+174,1.1.159,In love?,BENVOLIO
+175,1.1.160,Out--,ROMEO
+176,1.1.161,Of love?,BENVOLIO
+177,1.1.162,"Out of her favour, where I am in love.",ROMEO
+178,1.1.163,"Alas, that love, so gentle in his view,",BENVOLIO
+179,1.1.164,Should be so tyrannous and rough in proof!,BENVOLIO
+180,1.1.165,"Alas, that love, whose view is muffled still,",ROMEO
+181,1.1.166,"Should, without eyes, see pathways to his will!",ROMEO
+182,1.1.167,Where shall we dine? O me! What fray was here?,ROMEO
+183,1.1.168,"Yet tell me not, for I have heard it all.",ROMEO
+184,1.1.169,"Here's much to do with hate, but more with love.",ROMEO
+185,1.1.170,"Why, then, O brawling love! O loving hate!",ROMEO
+186,1.1.171,"O any thing, of nothing first create!",ROMEO
+187,1.1.172,O heavy lightness! serious vanity!,ROMEO
+188,1.1.173,Mis-shapen chaos of well-seeming forms!,ROMEO
+189,1.1.174,"Feather of lead, bright smoke, cold fire,",ROMEO
+190,1.1.175,sick health!,ROMEO
+191,1.1.176,"Still-waking sleep, that is not what it is!",ROMEO
+192,1.1.177,"This love feel I, that feel no love in this.",ROMEO
+193,1.1.178,Dost thou not laugh?,ROMEO
+194,1.1.179,"No, coz, I rather weep.",BENVOLIO
+195,1.1.180,"Good heart, at what?",ROMEO
+196,1.1.181,At thy good heart's oppression.,BENVOLIO
+197,1.1.182,"Why, such is love's transgression.",ROMEO
+198,1.1.183,"Griefs of mine own lie heavy in my breast,",ROMEO
+199,1.1.184,"Which thou wilt propagate, to have it prest",ROMEO
+200,1.1.185,With more of thine: this love that thou hast shown,ROMEO
+201,1.1.186,Doth add more grief to too much of mine own.,ROMEO
+202,1.1.187,Love is a smoke raised with the fume of sighs;,ROMEO
+203,1.1.188,"Being purged, a fire sparkling in lovers' eyes;",ROMEO
+204,1.1.189,Being vex'd a sea nourish'd with lovers' tears:,ROMEO
+205,1.1.190,"What is it else? a madness most discreet,",ROMEO
+206,1.1.191,A choking gall and a preserving sweet.,ROMEO
+207,1.1.192,"Farewell, my coz.",ROMEO
+208,1.1.193,                  Soft! I will go along;,BENVOLIO
+209,1.1.194,"An if you leave me so, you do me wrong.",BENVOLIO
+210,1.1.195,"Tut, I have lost myself; I am not here;",ROMEO
+211,1.1.196,"This is not Romeo, he's some other where.",ROMEO
+212,1.1.197,"Tell me in sadness, who is that you love.",BENVOLIO
+213,1.1.198,"What, shall I groan and tell thee?",ROMEO
+214,1.1.199,"Groan! why, no.",BENVOLIO
+215,1.1.200,But sadly tell me who.,BENVOLIO
+216,1.1.201,Bid a sick man in sadness make his will:,ROMEO
+217,1.1.202,"Ah, word ill urged to one that is so ill!",ROMEO
+218,1.1.203,"In sadness, cousin, I do love a woman.",ROMEO
+219,1.1.204,"I aim'd so near, when I supposed you loved.",BENVOLIO
+220,1.1.205,A right good mark-man! And she's fair I love.,ROMEO
+221,1.1.206,"A right fair mark, fair coz, is soonest hit.",BENVOLIO
+222,1.1.207,"Well, in that hit you miss: she'll not be hit",ROMEO
+223,1.1.208,With Cupid's arrow; she hath Dian's wit;,ROMEO
+224,1.1.209,"And, in strong proof of chastity well arm'd,",ROMEO
+225,1.1.210,From love's weak childish bow she lives unharm'd.,ROMEO
+226,1.1.211,"She will not stay the siege of loving terms,",ROMEO
+227,1.1.212,"Nor bide the encounter of assailing eyes,",ROMEO
+228,1.1.213,Nor ope her lap to saint-seducing gold:,ROMEO
+229,1.1.214,"O, she is rich in beauty, only poor,",ROMEO
+230,1.1.215,That when she dies with beauty dies her store.,ROMEO
+231,1.1.216,Then she hath sworn that she will still live chaste?,BENVOLIO
+232,1.1.217,"She hath, and in that sparing makes huge waste,",ROMEO
+233,1.1.218,For beauty starved with her severity,ROMEO
+234,1.1.219,Cuts beauty off from all posterity.,ROMEO
+235,1.1.220,"She is too fair, too wise, wisely too fair,",ROMEO
+236,1.1.221,To merit bliss by making me despair:,ROMEO
+237,1.1.222,"She hath forsworn to love, and in that vow",ROMEO
+238,1.1.223,Do I live dead that live to tell it now.,ROMEO
+239,1.1.224,"Be ruled by me, forget to think of her.",BENVOLIO
+240,1.1.225,"O, teach me how I should forget to think.",ROMEO
+241,1.1.226,By giving liberty unto thine eyes;,BENVOLIO
+242,1.1.227,Examine other beauties.,BENVOLIO
+243,1.1.228,'Tis the way,ROMEO
+244,1.1.229,"To call hers exquisite, in question more:",ROMEO
+245,1.1.230,These happy masks that kiss fair ladies' brows,ROMEO
+246,1.1.231,Being black put us in mind they hide the fair;,ROMEO
+247,1.1.232,He that is strucken blind cannot forget,ROMEO
+248,1.1.233,The precious treasure of his eyesight lost:,ROMEO
+249,1.1.234,"Show me a mistress that is passing fair,",ROMEO
+250,1.1.235,"What doth her beauty serve, but as a note",ROMEO
+251,1.1.236,Where I may read who pass'd that passing fair?,ROMEO
+252,1.1.237,Farewell: thou canst not teach me to forget.,ROMEO
+253,1.1.238,"I'll pay that doctrine, or else die in debt.",BENVOLIO
+254,1.2.1,"But Montague is bound as well as I,",CAPULET
+255,1.2.2,"In penalty alike; and 'tis not hard, I think,",CAPULET
+256,1.2.3,For men so old as we to keep the peace.,CAPULET
+257,1.2.4,Of honourable reckoning are you both;,PARIS
+258,1.2.5,And pity 'tis you lived at odds so long.,PARIS
+259,1.2.6,"But now, my lord, what say you to my suit?",PARIS
+260,1.2.7,But saying o'er what I have said before:,CAPULET
+261,1.2.8,My child is yet a stranger in the world;,CAPULET
+262,1.2.9,"She hath not seen the change of fourteen years,",CAPULET
+263,1.2.10,"Let two more summers wither in their pride,",CAPULET
+264,1.2.11,Ere we may think her ripe to be a bride.,CAPULET
+265,1.2.12,Younger than she are happy mothers made.,PARIS
+266,1.2.13,And too soon marr'd are those so early made.,CAPULET
+267,1.2.14,"The earth hath swallow'd all my hopes but she,",CAPULET
+268,1.2.15,She is the hopeful lady of my earth:,CAPULET
+269,1.2.16,"But woo her, gentle Paris, get her heart,",CAPULET
+270,1.2.17,My will to her consent is but a part;,CAPULET
+271,1.2.18,"An she agree, within her scope of choice",CAPULET
+272,1.2.19,Lies my consent and fair according voice.,CAPULET
+273,1.2.20,"This night I hold an old accustom'd feast,",CAPULET
+274,1.2.21,"Whereto I have invited many a guest,",CAPULET
+275,1.2.22,"Such as I love; and you, among the store,",CAPULET
+276,1.2.23,"One more, most welcome, makes my number more.",CAPULET
+277,1.2.24,At my poor house look to behold this night,CAPULET
+278,1.2.25,Earth-treading stars that make dark heaven light:,CAPULET
+279,1.2.26,Such comfort as do lusty young men feel,CAPULET
+280,1.2.27,When well-apparell'd April on the heel,CAPULET
+281,1.2.28,"Of limping winter treads, even such delight",CAPULET
+282,1.2.29,Among fresh female buds shall you this night,CAPULET
+283,1.2.30,"Inherit at my house; hear all, all see,",CAPULET
+284,1.2.31,And like her most whose merit most shall be:,CAPULET
+285,1.2.32,"Which on more view, of many mine being one",CAPULET
+286,1.2.33,"May stand in number, though in reckoning none,",CAPULET
+287,1.2.34,"Come, go with me.",CAPULET
+288,1.2.35,"Go, sirrah, trudge about",CAPULET
+289,1.2.36,Through fair Verona; find those persons out,CAPULET
+290,1.2.37,"Whose names are written there, and to them say,",CAPULET
+291,1.2.38,My house and welcome on their pleasure stay.,CAPULET
+292,1.2.39,Find them out whose names are written here! It is,Servant
+293,1.2.40,"written, that the shoemaker should meddle with his",Servant
+294,1.2.41,"yard, and the tailor with his last, the fisher with",Servant
+295,1.2.42,"his pencil, and the painter with his nets; but I am",Servant
+296,1.2.43,sent to find those persons whose names are here,Servant
+297,1.2.44,"writ, and can never find what names the writing",Servant
+298,1.2.45,person hath here writ. I must to the learned.--In good time.,Servant
+299,1.2.46,"Tut, man, one fire burns out another's burning,",BENVOLIO
+300,1.2.47,One pain is lessen'd by another's anguish;,BENVOLIO
+301,1.2.48,"Turn giddy, and be holp by backward turning;",BENVOLIO
+302,1.2.49,One desperate grief cures with another's languish:,BENVOLIO
+303,1.2.50,"Take thou some new infection to thy eye,",BENVOLIO
+304,1.2.51,And the rank poison of the old will die.,BENVOLIO
+305,1.2.52,Your plaintain-leaf is excellent for that.,ROMEO
+306,1.2.53,"For what, I pray thee?",BENVOLIO
+307,1.2.54,For your broken shin.,ROMEO
+308,1.2.55,"Why, Romeo, art thou mad?",BENVOLIO
+309,1.2.56,"Not mad, but bound more than a mad-man is;",ROMEO
+310,1.2.57,"Shut up in prison, kept without my food,",ROMEO
+311,1.2.58,"Whipp'd and tormented and--God-den, good fellow.",ROMEO
+312,1.2.59,"God gi' god-den. I pray, sir, can you read?",Servant
+313,1.2.60,"Ay, mine own fortune in my misery.",ROMEO
+314,1.2.61,"Perhaps you have learned it without book: but, I",Servant
+315,1.2.62,"pray, can you read any thing you see?",Servant
+316,1.2.63,"Ay, if I know the letters and the language.",ROMEO
+317,1.2.64,Ye say honestly: rest you merry!,Servant
+318,1.2.65,"Stay, fellow; I can read.",ROMEO
+319,1.2.66,'Signior Martino and his wife and daughters;,ROMEO
+320,1.2.67,County Anselme and his beauteous sisters; the lady,ROMEO
+321,1.2.68,widow of Vitravio; Signior Placentio and his lovely,ROMEO
+322,1.2.69,nieces; Mercutio and his brother Valentine; mine,ROMEO
+323,1.2.70,"uncle Capulet, his wife and daughters; my fair niece",ROMEO
+324,1.2.71,Rosaline; Livia; Signior Valentio and his cousin,ROMEO
+325,1.2.72,"Tybalt, Lucio and the lively Helena.' A fair",ROMEO
+326,1.2.73,assembly: whither should they come?,ROMEO
+327,1.2.74,Up.,Servant
+328,1.2.75,Whither?,ROMEO
+329,1.2.76,To supper; to our house.,Servant
+330,1.2.77,Whose house?,ROMEO
+331,1.2.78,My master's.,Servant
+332,1.2.79,"Indeed, I should have ask'd you that before.",ROMEO
+333,1.2.80,Now I'll tell you without asking: my master is the,Servant
+334,1.2.81,great rich Capulet; and if you be not of the house,Servant
+335,1.2.82,"of Montagues, I pray, come and crush a cup of wine.",Servant
+336,1.2.83,Rest you merry!,Servant
+337,1.2.84,At this same ancient feast of Capulet's,BENVOLIO
+338,1.2.85,"Sups the fair Rosaline whom thou so lovest,",BENVOLIO
+339,1.2.86,With all the admired beauties of Verona:,BENVOLIO
+340,1.2.87,"Go thither; and, with unattainted eye,",BENVOLIO
+341,1.2.88,"Compare her face with some that I shall show,",BENVOLIO
+342,1.2.89,And I will make thee think thy swan a crow.,BENVOLIO
+343,1.2.90,When the devout religion of mine eye,ROMEO
+344,1.2.91,"Maintains such falsehood, then turn tears to fires;",ROMEO
+345,1.2.92,"And these, who often drown'd could never die,",ROMEO
+346,1.2.93,"Transparent heretics, be burnt for liars!",ROMEO
+347,1.2.94,One fairer than my love! the all-seeing sun,ROMEO
+348,1.2.95,Ne'er saw her match since first the world begun.,ROMEO
+349,1.2.96,"Tut, you saw her fair, none else being by,",BENVOLIO
+350,1.2.97,Herself poised with herself in either eye:,BENVOLIO
+351,1.2.98,But in that crystal scales let there be weigh'd,BENVOLIO
+352,1.2.99,Your lady's love against some other maid,BENVOLIO
+353,1.2.100,"That I will show you shining at this feast,",BENVOLIO
+354,1.2.101,And she shall scant show well that now shows best.,BENVOLIO
+355,1.2.102,"I'll go along, no such sight to be shown,",ROMEO
+356,1.2.103,But to rejoice in splendor of mine own.,ROMEO
+357,1.3.1,"Nurse, where's my daughter? call her forth to me.",LADY CAPULET
+358,1.3.2,"Now, by my maidenhead, at twelve year old,",Nurse
+359,1.3.3,"I bade her come. What, lamb! what, ladybird!",Nurse
+360,1.3.4,"God forbid! Where's this girl? What, Juliet!",Nurse
+361,1.3.5,How now! who calls?,JULIET
+362,1.3.6,Your mother.,Nurse
+363,1.3.7,"Madam, I am here.",JULIET
+364,1.3.8,What is your will?,JULIET
+365,1.3.9,"This is the matter:--Nurse, give leave awhile,",LADY CAPULET
+366,1.3.10,"We must talk in secret:--nurse, come back again;",LADY CAPULET
+367,1.3.11,"I have remember'd me, thou's hear our counsel.",LADY CAPULET
+368,1.3.12,Thou know'st my daughter's of a pretty age.,LADY CAPULET
+369,1.3.13,"Faith, I can tell her age unto an hour.",Nurse
+370,1.3.14,She's not fourteen.,LADY CAPULET
+371,1.3.15,"I'll lay fourteen of my teeth,--",Nurse
+372,1.3.16,"And yet, to my teeth be it spoken, I have but four--",Nurse
+373,1.3.17,She is not fourteen. How long is it now,Nurse
+374,1.3.18,To Lammas-tide?,Nurse
+375,1.3.19,                  A fortnight and odd days.,LADY CAPULET
+376,1.3.20,"Even or odd, of all days in the year,",Nurse
+377,1.3.21,Come Lammas-eve at night shall she be fourteen.,Nurse
+378,1.3.22,Susan and she--God rest all Christian souls!--,Nurse
+379,1.3.23,"Were of an age: well, Susan is with God;",Nurse
+380,1.3.24,"She was too good for me: but, as I said,",Nurse
+381,1.3.25,On Lammas-eve at night shall she be fourteen;,Nurse
+382,1.3.26,"That shall she, marry; I remember it well.",Nurse
+383,1.3.27,'Tis since the earthquake now eleven years;,Nurse
+384,1.3.28,"And she was wean'd,--I never shall forget it,--",Nurse
+385,1.3.29,"Of all the days of the year, upon that day:",Nurse
+386,1.3.30,"For I had then laid wormwood to my dug,",Nurse
+387,1.3.31,Sitting in the sun under the dove-house wall;,Nurse
+388,1.3.32,My lord and you were then at Mantua:--,Nurse
+389,1.3.33,"Nay, I do bear a brain:--but, as I said,",Nurse
+390,1.3.34,When it did taste the wormwood on the nipple,Nurse
+391,1.3.35,"Of my dug and felt it bitter, pretty fool,",Nurse
+392,1.3.36,To see it tetchy and fall out with the dug!,Nurse
+393,1.3.37,"Shake quoth the dove-house: 'twas no need, I trow,",Nurse
+394,1.3.38,To bid me trudge:,Nurse
+395,1.3.39,And since that time it is eleven years;,Nurse
+396,1.3.40,"For then she could stand alone; nay, by the rood,",Nurse
+397,1.3.41,She could have run and waddled all about;,Nurse
+398,1.3.42,"For even the day before, she broke her brow:",Nurse
+399,1.3.43,And then my husband--God be with his soul!,Nurse
+400,1.3.44,A' was a merry man--took up the child:,Nurse
+401,1.3.45,"'Yea,' quoth he, 'dost thou fall upon thy face?",Nurse
+402,1.3.46,Thou wilt fall backward when thou hast more wit;,Nurse
+403,1.3.47,"Wilt thou not, Jule?' and, by my holidame,",Nurse
+404,1.3.48,The pretty wretch left crying and said 'Ay.',Nurse
+405,1.3.49,"To see, now, how a jest shall come about!",Nurse
+406,1.3.50,"I warrant, an I should live a thousand years,",Nurse
+407,1.3.51,"I never should forget it: 'Wilt thou not, Jule?' quoth he;",Nurse
+408,1.3.52,"And, pretty fool, it stinted and said 'Ay.'",Nurse
+409,1.3.53,"Enough of this; I pray thee, hold thy peace.",LADY CAPULET
+410,1.3.54,"Yes, madam: yet I cannot choose but laugh,",Nurse
+411,1.3.55,To think it should leave crying and say 'Ay.',Nurse
+412,1.3.56,"And yet, I warrant, it had upon its brow",Nurse
+413,1.3.57,A bump as big as a young cockerel's stone;,Nurse
+414,1.3.58,A parlous knock; and it cried bitterly:,Nurse
+415,1.3.59,"'Yea,' quoth my husband,'fall'st upon thy face?",Nurse
+416,1.3.60,Thou wilt fall backward when thou comest to age;,Nurse
+417,1.3.61,"Wilt thou not, Jule?' it stinted and said 'Ay.'",Nurse
+418,1.3.62,"And stint thou too, I pray thee, nurse, say I.",JULIET
+419,1.3.63,"Peace, I have done. God mark thee to his grace!",Nurse
+420,1.3.64,Thou wast the prettiest babe that e'er I nursed:,Nurse
+421,1.3.65,"An I might live to see thee married once,",Nurse
+422,1.3.66,I have my wish.,Nurse
+423,1.3.67,"Marry, that 'marry' is the very theme",LADY CAPULET
+424,1.3.68,"I came to talk of. Tell me, daughter Juliet,",LADY CAPULET
+425,1.3.69,How stands your disposition to be married?,LADY CAPULET
+426,1.3.70,It is an honour that I dream not of.,JULIET
+427,1.3.71,"An honour! were not I thine only nurse,",Nurse
+428,1.3.72,I would say thou hadst suck'd wisdom from thy teat.,Nurse
+429,1.3.73,"Well, think of marriage now; younger than you,",LADY CAPULET
+430,1.3.74,"Here in Verona, ladies of esteem,",LADY CAPULET
+431,1.3.75,"Are made already mothers: by my count,",LADY CAPULET
+432,1.3.76,I was your mother much upon these years,LADY CAPULET
+433,1.3.77,That you are now a maid. Thus then in brief:,LADY CAPULET
+434,1.3.78,The valiant Paris seeks you for his love.,LADY CAPULET
+435,1.3.79,"A man, young lady! lady, such a man",Nurse
+436,1.3.80,"As all the world--why, he's a man of wax.",Nurse
+437,1.3.81,Verona's summer hath not such a flower.,LADY CAPULET
+438,1.3.82,"Nay, he's a flower; in faith, a very flower.",Nurse
+439,1.3.83,What say you? can you love the gentleman?,LADY CAPULET
+440,1.3.84,This night you shall behold him at our feast;,LADY CAPULET
+441,1.3.85,"Read o'er the volume of young Paris' face,",LADY CAPULET
+442,1.3.86,And find delight writ there with beauty's pen;,LADY CAPULET
+443,1.3.87,"Examine every married lineament,",LADY CAPULET
+444,1.3.88,And see how one another lends content,LADY CAPULET
+445,1.3.89,And what obscured in this fair volume lies,LADY CAPULET
+446,1.3.90,Find written in the margent of his eyes.,LADY CAPULET
+447,1.3.91,"This precious book of love, this unbound lover,",LADY CAPULET
+448,1.3.92,"To beautify him, only lacks a cover:",LADY CAPULET
+449,1.3.93,"The fish lives in the sea, and 'tis much pride",LADY CAPULET
+450,1.3.94,For fair without the fair within to hide:,LADY CAPULET
+451,1.3.95,"That book in many's eyes doth share the glory,",LADY CAPULET
+452,1.3.96,That in gold clasps locks in the golden story;,LADY CAPULET
+453,1.3.97,"So shall you share all that he doth possess,",LADY CAPULET
+454,1.3.98,"By having him, making yourself no less.",LADY CAPULET
+455,1.3.99,"No less! nay, bigger; women grow by men.",Nurse
+456,1.3.100,"Speak briefly, can you like of Paris' love?",LADY CAPULET
+457,1.3.101,"I'll look to like, if looking liking move:",JULIET
+458,1.3.102,But no more deep will I endart mine eye,JULIET
+459,1.3.103,Than your consent gives strength to make it fly.,JULIET
+460,1.3.104,"Madam, the guests are come, supper served up, you",Servant
+461,1.3.105,"called, my young lady asked for, the nurse cursed in",Servant
+462,1.3.106,"the pantry, and every thing in extremity. I must",Servant
+463,1.3.107,"hence to wait; I beseech you, follow straight.",Servant
+464,1.3.108,We follow thee.,LADY CAPULET
+465,1.3.109,"Juliet, the county stays.",LADY CAPULET
+466,1.3.110,"Go, girl, seek happy nights to happy days.",Nurse
+467,1.4.1,"What, shall this speech be spoke for our excuse?",ROMEO
+468,1.4.2,Or shall we on without a apology?,ROMEO
+469,1.4.3,The date is out of such prolixity:,BENVOLIO
+470,1.4.4,"We'll have no Cupid hoodwink'd with a scarf,",BENVOLIO
+471,1.4.5,"Bearing a Tartar's painted bow of lath,",BENVOLIO
+472,1.4.6,Scaring the ladies like a crow-keeper;,BENVOLIO
+473,1.4.7,"Nor no without-book prologue, faintly spoke",BENVOLIO
+474,1.4.8,"After the prompter, for our entrance:",BENVOLIO
+475,1.4.9,But let them measure us by what they will;,BENVOLIO
+476,1.4.10,"We'll measure them a measure, and be gone.",BENVOLIO
+477,1.4.11,Give me a torch: I am not for this ambling;,ROMEO
+478,1.4.12,"Being but heavy, I will bear the light.",ROMEO
+479,1.4.13,"Nay, gentle Romeo, we must have you dance.",MERCUTIO
+480,1.4.14,"Not I, believe me: you have dancing shoes",ROMEO
+481,1.4.15,With nimble soles: I have a soul of lead,ROMEO
+482,1.4.16,So stakes me to the ground I cannot move.,ROMEO
+483,1.4.17,"You are a lover; borrow Cupid's wings,",MERCUTIO
+484,1.4.18,And soar with them above a common bound.,MERCUTIO
+485,1.4.19,I am too sore enpierced with his shaft,ROMEO
+486,1.4.20,"To soar with his light feathers, and so bound,",ROMEO
+487,1.4.21,I cannot bound a pitch above dull woe:,ROMEO
+488,1.4.22,Under love's heavy burden do I sink.,ROMEO
+489,1.4.23,"And, to sink in it, should you burden love;",MERCUTIO
+490,1.4.24,Too great oppression for a tender thing.,MERCUTIO
+491,1.4.25,"Is love a tender thing? it is too rough,",ROMEO
+492,1.4.26,"Too rude, too boisterous, and it pricks like thorn.",ROMEO
+493,1.4.27,"If love be rough with you, be rough with love;",MERCUTIO
+494,1.4.28,"Prick love for pricking, and you beat love down.",MERCUTIO
+495,1.4.29,Give me a case to put my visage in:,MERCUTIO
+496,1.4.30,A visor for a visor! what care I,MERCUTIO
+497,1.4.31,What curious eye doth quote deformities?,MERCUTIO
+498,1.4.32,Here are the beetle brows shall blush for me.,MERCUTIO
+499,1.4.33,"Come, knock and enter; and no sooner in,",BENVOLIO
+500,1.4.34,But every man betake him to his legs.,BENVOLIO
+501,1.4.35,A torch for me: let wantons light of heart,ROMEO
+502,1.4.36,"Tickle the senseless rushes with their heels,",ROMEO
+503,1.4.37,For I am proverb'd with a grandsire phrase;,ROMEO
+504,1.4.38,"I'll be a candle-holder, and look on.",ROMEO
+505,1.4.39,"The game was ne'er so fair, and I am done.",ROMEO
+506,1.4.40,"Tut, dun's the mouse, the constable's own word:",MERCUTIO
+507,1.4.41,"If thou art dun, we'll draw thee from the mire",MERCUTIO
+508,1.4.42,"Of this sir-reverence love, wherein thou stick'st",MERCUTIO
+509,1.4.43,"Up to the ears. Come, we burn daylight, ho!",MERCUTIO
+510,1.4.44,"Nay, that's not so.",ROMEO
+511,1.4.45,"I mean, sir, in delay",MERCUTIO
+512,1.4.46,"We waste our lights in vain, like lamps by day.",MERCUTIO
+513,1.4.47,"Take our good meaning, for our judgment sits",MERCUTIO
+514,1.4.48,Five times in that ere once in our five wits.,MERCUTIO
+515,1.4.49,And we mean well in going to this mask;,ROMEO
+516,1.4.50,But 'tis no wit to go.,ROMEO
+517,1.4.51,"Why, may one ask?",MERCUTIO
+518,1.4.52,I dream'd a dream to-night.,ROMEO
+519,1.4.53,And so did I.,MERCUTIO
+520,1.4.54,"Well, what was yours?",ROMEO
+521,1.4.55,That dreamers often lie.,MERCUTIO
+522,1.4.56,"In bed asleep, while they do dream things true.",ROMEO
+523,1.4.57,"O, then, I see Queen Mab hath been with you.",MERCUTIO
+524,1.4.58,"She is the fairies' midwife, and she comes",MERCUTIO
+525,1.4.59,In shape no bigger than an agate-stone,MERCUTIO
+526,1.4.60,"On the fore-finger of an alderman,",MERCUTIO
+527,1.4.61,Drawn with a team of little atomies,MERCUTIO
+528,1.4.62,Athwart men's noses as they lie asleep;,MERCUTIO
+529,1.4.63,"Her wagon-spokes made of long spiders' legs,",MERCUTIO
+530,1.4.64,"The cover of the wings of grasshoppers,",MERCUTIO
+531,1.4.65,"The traces of the smallest spider's web,",MERCUTIO
+532,1.4.66,"The collars of the moonshine's watery beams,",MERCUTIO
+533,1.4.67,"Her whip of cricket's bone, the lash of film,",MERCUTIO
+534,1.4.68,"Her wagoner a small grey-coated gnat,",MERCUTIO
+535,1.4.69,Not so big as a round little worm,MERCUTIO
+536,1.4.70,Prick'd from the lazy finger of a maid;,MERCUTIO
+537,1.4.71,Her chariot is an empty hazel-nut,MERCUTIO
+538,1.4.72,"Made by the joiner squirrel or old grub,",MERCUTIO
+539,1.4.73,Time out o' mind the fairies' coachmakers.,MERCUTIO
+540,1.4.74,And in this state she gallops night by night,MERCUTIO
+541,1.4.75,"Through lovers' brains, and then they dream of love;",MERCUTIO
+542,1.4.76,"O'er courtiers' knees, that dream on court'sies straight,",MERCUTIO
+543,1.4.77,"O'er lawyers' fingers, who straight dream on fees,",MERCUTIO
+544,1.4.78,"O'er ladies ' lips, who straight on kisses dream,",MERCUTIO
+545,1.4.79,"Which oft the angry Mab with blisters plagues,",MERCUTIO
+546,1.4.80,Because their breaths with sweetmeats tainted are:,MERCUTIO
+547,1.4.81,"Sometime she gallops o'er a courtier's nose,",MERCUTIO
+548,1.4.82,And then dreams he of smelling out a suit;,MERCUTIO
+549,1.4.83,And sometime comes she with a tithe-pig's tail,MERCUTIO
+550,1.4.84,"Tickling a parson's nose as a' lies asleep,",MERCUTIO
+551,1.4.85,"Then dreams, he of another benefice:",MERCUTIO
+552,1.4.86,"Sometime she driveth o'er a soldier's neck,",MERCUTIO
+553,1.4.87,"And then dreams he of cutting foreign throats,",MERCUTIO
+554,1.4.88,"Of breaches, ambuscadoes, Spanish blades,",MERCUTIO
+555,1.4.89,Of healths five-fathom deep; and then anon,MERCUTIO
+556,1.4.90,"Drums in his ear, at which he starts and wakes,",MERCUTIO
+557,1.4.91,And being thus frighted swears a prayer or two,MERCUTIO
+558,1.4.92,And sleeps again. This is that very Mab,MERCUTIO
+559,1.4.93,"That plats the manes of horses in the night,",MERCUTIO
+560,1.4.94,"And bakes the elflocks in foul sluttish hairs,",MERCUTIO
+561,1.4.95,"Which once untangled, much misfortune bodes:",MERCUTIO
+562,1.4.96,"This is the hag, when maids lie on their backs,",MERCUTIO
+563,1.4.97,"That presses them and learns them first to bear,",MERCUTIO
+564,1.4.98,Making them women of good carriage:,MERCUTIO
+565,1.4.99,This is she--,MERCUTIO
+566,1.4.100,"                  Peace, peace, Mercutio, peace!",ROMEO
+567,1.4.101,Thou talk'st of nothing.,ROMEO
+568,1.4.102,"True, I talk of dreams,",MERCUTIO
+569,1.4.103,"Which are the children of an idle brain,",MERCUTIO
+570,1.4.104,"Begot of nothing but vain fantasy,",MERCUTIO
+571,1.4.105,Which is as thin of substance as the air,MERCUTIO
+572,1.4.106,"And more inconstant than the wind, who wooes",MERCUTIO
+573,1.4.107,"Even now the frozen bosom of the north,",MERCUTIO
+574,1.4.108,"And, being anger'd, puffs away from thence,",MERCUTIO
+575,1.4.109,Turning his face to the dew-dropping south.,MERCUTIO
+576,1.4.110,"This wind, you talk of, blows us from ourselves;",BENVOLIO
+577,1.4.111,"Supper is done, and we shall come too late.",BENVOLIO
+578,1.4.112,"I fear, too early: for my mind misgives",ROMEO
+579,1.4.113,Some consequence yet hanging in the stars,ROMEO
+580,1.4.114,Shall bitterly begin his fearful date,ROMEO
+581,1.4.115,With this night's revels and expire the term,ROMEO
+582,1.4.116,Of a despised life closed in my breast,ROMEO
+583,1.4.117,By some vile forfeit of untimely death.,ROMEO
+584,1.4.118,"But He, that hath the steerage of my course,",ROMEO
+585,1.4.119,"Direct my sail! On, lusty gentlemen.",ROMEO
+586,1.4.120,"Strike, drum.",BENVOLIO
+587,1.5.1,"Where's Potpan, that he helps not to take away? He",First Servant
+588,1.5.2,shift a trencher? he scrape a trencher!,First Servant
+589,1.5.3,When good manners shall lie all in one or two men's,Second Servant
+590,1.5.4,"hands and they unwashed too, 'tis a foul thing.",Second Servant
+591,1.5.5,"Away with the joint-stools, remove the",First Servant
+592,1.5.6,"court-cupboard, look to the plate. Good thou, save",First Servant
+593,1.5.7,"me a piece of marchpane; and, as thou lovest me, let",First Servant
+594,1.5.8,the porter let in Susan Grindstone and Nell.,First Servant
+595,1.5.9,"Antony, and Potpan!",First Servant
+596,1.5.10,"Ay, boy, ready.",Second Servant
+597,1.5.11,"You are looked for and called for, asked for and",First Servant
+598,1.5.12,"sought for, in the great chamber.",First Servant
+599,1.5.13,"We cannot be here and there too. Cheerly, boys; be",Second Servant
+600,1.5.14,"brisk awhile, and the longer liver take all.",Second Servant
+601,1.5.15,"Welcome, gentlemen! ladies that have their toes",CAPULET
+602,1.5.16,Unplagued with corns will have a bout with you.,CAPULET
+603,1.5.17,"Ah ha, my mistresses! which of you all",CAPULET
+604,1.5.18,"Will now deny to dance? she that makes dainty,",CAPULET
+605,1.5.19,"She, I'll swear, hath corns; am I come near ye now?",CAPULET
+606,1.5.20,"Welcome, gentlemen! I have seen the day",CAPULET
+607,1.5.21,That I have worn a visor and could tell,CAPULET
+608,1.5.22,"A whispering tale in a fair lady's ear,",CAPULET
+609,1.5.23,"Such as would please: 'tis gone, 'tis gone, 'tis gone:",CAPULET
+610,1.5.24,"You are welcome, gentlemen! come, musicians, play.",CAPULET
+611,1.5.25,"A hall, a hall! give room! and foot it, girls.",CAPULET
+612,1.5.26,"More light, you knaves; and turn the tables up,",CAPULET
+613,1.5.27,"And quench the fire, the room is grown too hot.",CAPULET
+614,1.5.28,"Ah, sirrah, this unlook'd-for sport comes well.",CAPULET
+615,1.5.29,"Nay, sit, nay, sit, good cousin Capulet;",CAPULET
+616,1.5.30,For you and I are past our dancing days:,CAPULET
+617,1.5.31,How long is't now since last yourself and I,CAPULET
+618,1.5.32,Were in a mask?,CAPULET
+619,1.5.33,"                  By'r lady, thirty years.",Second Capulet
+620,1.5.34,"What, man! 'tis not so much, 'tis not so much:",CAPULET
+621,1.5.35,"'Tis since the nuptials of Lucentio,",CAPULET
+622,1.5.36,"Come pentecost as quickly as it will,",CAPULET
+623,1.5.37,Some five and twenty years; and then we mask'd.,CAPULET
+624,1.5.38,"'Tis more, 'tis more, his son is elder, sir;",Second Capulet
+625,1.5.39,His son is thirty.,Second Capulet
+626,1.5.40,                  Will you tell me that?,CAPULET
+627,1.5.41,His son was but a ward two years ago.,CAPULET
+628,1.5.42,"[To a Servingman]  What lady is that, which doth",ROMEO
+629,1.5.43,enrich the hand,ROMEO
+630,1.5.44,Of yonder knight?,ROMEO
+631,1.5.45,"I know not, sir.",Servant
+632,1.5.46,"O, she doth teach the torches to burn bright!",ROMEO
+633,1.5.47,It seems she hangs upon the cheek of night,ROMEO
+634,1.5.48,Like a rich jewel in an Ethiope's ear;,ROMEO
+635,1.5.49,"Beauty too rich for use, for earth too dear!",ROMEO
+636,1.5.50,"So shows a snowy dove trooping with crows,",ROMEO
+637,1.5.51,As yonder lady o'er her fellows shows.,ROMEO
+638,1.5.52,"The measure done, I'll watch her place of stand,",ROMEO
+639,1.5.53,"And, touching hers, make blessed my rude hand.",ROMEO
+640,1.5.54,"Did my heart love till now? forswear it, sight!",ROMEO
+641,1.5.55,For I ne'er saw true beauty till this night.,ROMEO
+642,1.5.56,"This, by his voice, should be a Montague.",TYBALT
+643,1.5.57,"Fetch me my rapier, boy. What dares the slave",TYBALT
+644,1.5.58,"Come hither, cover'd with an antic face,",TYBALT
+645,1.5.59,To fleer and scorn at our solemnity?,TYBALT
+646,1.5.60,"Now, by the stock and honour of my kin,",TYBALT
+647,1.5.61,"To strike him dead, I hold it not a sin.",TYBALT
+648,1.5.62,"Why, how now, kinsman! wherefore storm you so?",CAPULET
+649,1.5.63,"Uncle, this is a Montague, our foe,",TYBALT
+650,1.5.64,"A villain that is hither come in spite,",TYBALT
+651,1.5.65,To scorn at our solemnity this night.,TYBALT
+652,1.5.66,Young Romeo is it?,CAPULET
+653,1.5.67,"'Tis he, that villain Romeo.",TYBALT
+654,1.5.68,"Content thee, gentle coz, let him alone;",CAPULET
+655,1.5.69,He bears him like a portly gentleman;,CAPULET
+656,1.5.70,"And, to say truth, Verona brags of him",CAPULET
+657,1.5.71,To be a virtuous and well-govern'd youth:,CAPULET
+658,1.5.72,I would not for the wealth of all the town,CAPULET
+659,1.5.73,Here in my house do him disparagement:,CAPULET
+660,1.5.74,"Therefore be patient, take no note of him:",CAPULET
+661,1.5.75,"It is my will, the which if thou respect,",CAPULET
+662,1.5.76,"Show a fair presence and put off these frowns,",CAPULET
+663,1.5.77,And ill-beseeming semblance for a feast.,CAPULET
+664,1.5.78,"It fits, when such a villain is a guest:",TYBALT
+665,1.5.79,I'll not endure him.,TYBALT
+666,1.5.80,He shall be endured:,CAPULET
+667,1.5.81,"What, goodman boy! I say, he shall: go to;",CAPULET
+668,1.5.82,"Am I the master here, or you? go to.",CAPULET
+669,1.5.83,You'll not endure him! God shall mend my soul!,CAPULET
+670,1.5.84,You'll make a mutiny among my guests!,CAPULET
+671,1.5.85,You will set cock-a-hoop! you'll be the man!,CAPULET
+672,1.5.86,"Why, uncle, 'tis a shame.",TYBALT
+673,1.5.87,"Go to, go to;",CAPULET
+674,1.5.88,"You are a saucy boy: is't so, indeed?",CAPULET
+675,1.5.89,"This trick may chance to scathe you, I know what:",CAPULET
+676,1.5.90,"You must contrary me! marry, 'tis time.",CAPULET
+677,1.5.91,"Well said, my hearts! You are a princox; go:",CAPULET
+678,1.5.92,"Be quiet, or--More light, more light! For shame!",CAPULET
+679,1.5.93,"I'll make you quiet. What, cheerly, my hearts!",CAPULET
+680,1.5.94,Patience perforce with wilful choler meeting,TYBALT
+681,1.5.95,Makes my flesh tremble in their different greeting.,TYBALT
+682,1.5.96,I will withdraw: but this intrusion shall,TYBALT
+683,1.5.97,Now seeming sweet convert to bitter gall.,TYBALT
+684,1.5.98,[To JULIET]  If I profane with my unworthiest hand,ROMEO
+685,1.5.99,"This holy shrine, the gentle fine is this:",ROMEO
+686,1.5.100,"My lips, two blushing pilgrims, ready stand",ROMEO
+687,1.5.101,To smooth that rough touch with a tender kiss.,ROMEO
+688,1.5.102,"Good pilgrim, you do wrong your hand too much,",JULIET
+689,1.5.103,Which mannerly devotion shows in this;,JULIET
+690,1.5.104,"For saints have hands that pilgrims' hands do touch,",JULIET
+691,1.5.105,And palm to palm is holy palmers' kiss.,JULIET
+692,1.5.106,"Have not saints lips, and holy palmers too?",ROMEO
+693,1.5.107,"Ay, pilgrim, lips that they must use in prayer.",JULIET
+694,1.5.108,"O, then, dear saint, let lips do what hands do;",ROMEO
+695,1.5.109,"They pray, grant thou, lest faith turn to despair.",ROMEO
+696,1.5.110,"Saints do not move, though grant for prayers' sake.",JULIET
+697,1.5.111,"Then move not, while my prayer's effect I take.",ROMEO
+698,1.5.112,"Thus from my lips, by yours, my sin is purged.",ROMEO
+699,1.5.113,Then have my lips the sin that they have took.,JULIET
+700,1.5.114,Sin from thy lips? O trespass sweetly urged!,ROMEO
+701,1.5.115,Give me my sin again.,ROMEO
+702,1.5.116,You kiss by the book.,JULIET
+703,1.5.117,"Madam, your mother craves a word with you.",Nurse
+704,1.5.118,What is her mother?,ROMEO
+705,1.5.119,"Marry, bachelor,",Nurse
+706,1.5.120,"Her mother is the lady of the house,",Nurse
+707,1.5.121,"And a good lady, and a wise and virtuous",Nurse
+708,1.5.122,"I nursed her daughter, that you talk'd withal;",Nurse
+709,1.5.123,"I tell you, he that can lay hold of her",Nurse
+710,1.5.124,Shall have the chinks.,Nurse
+711,1.5.125,Is she a Capulet?,ROMEO
+712,1.5.126,O dear account! my life is my foe's debt.,ROMEO
+713,1.5.127,"Away, begone; the sport is at the best.",BENVOLIO
+714,1.5.128,"Ay, so I fear; the more is my unrest.",ROMEO
+715,1.5.129,"Nay, gentlemen, prepare not to be gone;",CAPULET
+716,1.5.130,We have a trifling foolish banquet towards.,CAPULET
+717,1.5.131,"Is it e'en so? why, then, I thank you all",CAPULET
+718,1.5.132,"I thank you, honest gentlemen; good night.",CAPULET
+719,1.5.133,"More torches here! Come on then, let's to bed.",CAPULET
+720,1.5.134,"Ah, sirrah, by my fay, it waxes late:",CAPULET
+721,1.5.135,I'll to my rest.,CAPULET
+722,1.5.136,"Come hither, nurse. What is yond gentleman?",JULIET
+723,1.5.137,The son and heir of old Tiberio.,Nurse
+724,1.5.138,What's he that now is going out of door?,JULIET
+725,1.5.139,"Marry, that, I think, be young Petrucio.",Nurse
+726,1.5.140,"What's he that follows there, that would not dance?",JULIET
+727,1.5.141,I know not.,Nurse
+728,1.5.142,Go ask his name: if he be married.,JULIET
+729,1.5.143,My grave is like to be my wedding bed.,JULIET
+730,1.5.144,"His name is Romeo, and a Montague;",Nurse
+731,1.5.145,The only son of your great enemy.,Nurse
+732,1.5.146,My only love sprung from my only hate!,JULIET
+733,1.5.147,"Too early seen unknown, and known too late!",JULIET
+734,1.5.148,"Prodigious birth of love it is to me,",JULIET
+735,1.5.149,That I must love a loathed enemy.,JULIET
+736,1.5.150,What's this? what's this?,Nurse
+737,1.5.151,A rhyme I learn'd even now,JULIET
+738,1.5.152,Of one I danced withal.,JULIET
+739,1.5.153,"Anon, anon!",Nurse
+740,1.5.154,"Come, let's away; the strangers all are gone.",Nurse
+741,2.0.1,"Now old desire doth in his death-bed lie,",Chorus
+742,2.0.2,And young affection gapes to be his heir;,Chorus
+743,2.0.3,"That fair for which love groan'd for and would die,",Chorus
+744,2.0.4,"With tender Juliet match'd, is now not fair.",Chorus
+745,2.0.5,"Now Romeo is beloved and loves again,",Chorus
+746,2.0.6,"Alike betwitched by the charm of looks,",Chorus
+747,2.0.7,"But to his foe supposed he must complain,",Chorus
+748,2.0.8,And she steal love's sweet bait from fearful hooks:,Chorus
+749,2.0.9,"Being held a foe, he may not have access",Chorus
+750,2.0.10,To breathe such vows as lovers use to swear;,Chorus
+751,2.0.11,"And she as much in love, her means much less",Chorus
+752,2.0.12,To meet her new-beloved any where:,Chorus
+753,2.0.13,"But passion lends them power, time means, to meet",Chorus
+754,2.0.14,Tempering extremities with extreme sweet.,Chorus
+755,2.1.1,Can I go forward when my heart is here?,ROMEO
+756,2.1.2,"Turn back, dull earth, and find thy centre out.",ROMEO
+757,2.1.3,Romeo! my cousin Romeo!,BENVOLIO
+758,2.1.4,He is wise;,MERCUTIO
+759,2.1.5,"And, on my lie, hath stol'n him home to bed.",MERCUTIO
+760,2.1.6,"He ran this way, and leap'd this orchard wall:",BENVOLIO
+761,2.1.7,"Call, good Mercutio.",BENVOLIO
+762,2.1.8,"Nay, I'll conjure too.",MERCUTIO
+763,2.1.9,Romeo! humours! madman! passion! lover!,MERCUTIO
+764,2.1.10,Appear thou in the likeness of a sigh:,MERCUTIO
+765,2.1.11,"Speak but one rhyme, and I am satisfied;",MERCUTIO
+766,2.1.12,Cry but 'Ay me!' pronounce but 'love' and 'dove;',MERCUTIO
+767,2.1.13,"Speak to my gossip Venus one fair word,",MERCUTIO
+768,2.1.14,"One nick-name for her purblind son and heir,",MERCUTIO
+769,2.1.15,"Young Adam Cupid, he that shot so trim,",MERCUTIO
+770,2.1.16,When King Cophetua loved the beggar-maid!,MERCUTIO
+771,2.1.17,"He heareth not, he stirreth not, he moveth not;",MERCUTIO
+772,2.1.18,"The ape is dead, and I must conjure him.",MERCUTIO
+773,2.1.19,"I conjure thee by Rosaline's bright eyes,",MERCUTIO
+774,2.1.20,"By her high forehead and her scarlet lip,",MERCUTIO
+775,2.1.21,"By her fine foot, straight leg and quivering thigh",MERCUTIO
+776,2.1.22,"And the demesnes that there adjacent lie,",MERCUTIO
+777,2.1.23,That in thy likeness thou appear to us!,MERCUTIO
+778,2.1.24,"And if he hear thee, thou wilt anger him.",BENVOLIO
+779,2.1.25,This cannot anger him: 'twould anger him,MERCUTIO
+780,2.1.26,To raise a spirit in his mistress' circle,MERCUTIO
+781,2.1.27,"Of some strange nature, letting it there stand",MERCUTIO
+782,2.1.28,Till she had laid it and conjured it down;,MERCUTIO
+783,2.1.29,That were some spite: my invocation,MERCUTIO
+784,2.1.30,"Is fair and honest, and in his mistres s' name",MERCUTIO
+785,2.1.31,I conjure only but to raise up him.,MERCUTIO
+786,2.1.32,"Come, he hath hid himself among these trees,",BENVOLIO
+787,2.1.33,To be consorted with the humorous night:,BENVOLIO
+788,2.1.34,Blind is his love and best befits the dark.,BENVOLIO
+789,2.1.35,"If love be blind, love cannot hit the mark.",MERCUTIO
+790,2.1.36,"Now will he sit under a medlar tree,",MERCUTIO
+791,2.1.37,And wish his mistress were that kind of fruit,MERCUTIO
+792,2.1.38,"As maids call medlars, when they laugh alone.",MERCUTIO
+793,2.1.39,"Romeo, that she were, O, that she were",MERCUTIO
+794,2.1.40,"An open et caetera, thou a poperin pear!",MERCUTIO
+795,2.1.41,"Romeo, good night: I'll to my truckle-bed;",MERCUTIO
+796,2.1.42,This field-bed is too cold for me to sleep:,MERCUTIO
+797,2.1.43,"Come, shall we go?",MERCUTIO
+798,2.1.44,"                  Go, then; for 'tis in vain",BENVOLIO
+799,2.1.45,To seek him here that means not to be found.,BENVOLIO
+800,2.2.1,He jests at scars that never felt a wound.,ROMEO
+801,2.2.2,"But, soft! what light through yonder window breaks?",ROMEO
+802,2.2.3,"It is the east, and Juliet is the sun.",ROMEO
+803,2.2.4,"Arise, fair sun, and kill the envious moon,",ROMEO
+804,2.2.5,"Who is already sick and pale with grief,",ROMEO
+805,2.2.6,That thou her maid art far more fair than she:,ROMEO
+806,2.2.7,"Be not her maid, since she is envious;",ROMEO
+807,2.2.8,Her vestal livery is but sick and green,ROMEO
+808,2.2.9,And none but fools do wear it; cast it off.,ROMEO
+809,2.2.10,"It is my lady, O, it is my love!",ROMEO
+810,2.2.11,"O, that she knew she were!",ROMEO
+811,2.2.12,She speaks yet she says nothing: what of that?,ROMEO
+812,2.2.13,Her eye discourses; I will answer it.,ROMEO
+813,2.2.14,"I am too bold, 'tis not to me she speaks:",ROMEO
+814,2.2.15,"Two of the fairest stars in all the heaven,",ROMEO
+815,2.2.16,"Having some business, do entreat her eyes",ROMEO
+816,2.2.17,To twinkle in their spheres till they return.,ROMEO
+817,2.2.18,"What if her eyes were there, they in her head?",ROMEO
+818,2.2.19,"The brightness of her cheek would shame those stars,",ROMEO
+819,2.2.20,As daylight doth a lamp; her eyes in heaven,ROMEO
+820,2.2.21,Would through the airy region stream so bright,ROMEO
+821,2.2.22,That birds would sing and think it were not night.,ROMEO
+822,2.2.23,"See, how she leans her cheek upon her hand!",ROMEO
+823,2.2.24,"O, that I were a glove upon that hand,",ROMEO
+824,2.2.25,That I might touch that cheek!,ROMEO
+825,2.2.26,Ay me!,JULIET
+826,2.2.27,She speaks:,ROMEO
+827,2.2.28,"O, speak again, bright angel! for thou art",ROMEO
+828,2.2.29,"As glorious to this night, being o'er my head",ROMEO
+829,2.2.30,As is a winged messenger of heaven,ROMEO
+830,2.2.31,Unto the white-upturned wondering eyes,ROMEO
+831,2.2.32,Of mortals that fall back to gaze on him,ROMEO
+832,2.2.33,When he bestrides the lazy-pacing clouds,ROMEO
+833,2.2.34,And sails upon the bosom of the air.,ROMEO
+834,2.2.35,"O Romeo, Romeo! wherefore art thou Romeo?",JULIET
+835,2.2.36,Deny thy father and refuse thy name;,JULIET
+836,2.2.37,"Or, if thou wilt not, be but sworn my love,",JULIET
+837,2.2.38,And I'll no longer be a Capulet.,JULIET
+838,2.2.39,"[Aside]  Shall I hear more, or shall I speak at this?",ROMEO
+839,2.2.40,'Tis but thy name that is my enemy;,JULIET
+840,2.2.41,"Thou art thyself, though not a Montague.",JULIET
+841,2.2.42,"What's Montague? it is nor hand, nor foot,",JULIET
+842,2.2.43,"Nor arm, nor face, nor any other part",JULIET
+843,2.2.44,"Belonging to a man. O, be some other name!",JULIET
+844,2.2.45,What's in a name? that which we call a rose,JULIET
+845,2.2.46,By any other name would smell as sweet;,JULIET
+846,2.2.47,"So Romeo would, were he not Romeo call'd,",JULIET
+847,2.2.48,Retain that dear perfection which he owes,JULIET
+848,2.2.49,"Without that title. Romeo, doff thy name,",JULIET
+849,2.2.50,And for that name which is no part of thee,JULIET
+850,2.2.51,Take all myself.,JULIET
+851,2.2.52,                  I take thee at thy word:,ROMEO
+852,2.2.53,"Call me but love, and I'll be new baptized;",ROMEO
+853,2.2.54,Henceforth I never will be Romeo.,ROMEO
+854,2.2.55,What man art thou that thus bescreen'd in night,JULIET
+855,2.2.56,So stumblest on my counsel?,JULIET
+856,2.2.57,By a name,ROMEO
+857,2.2.58,I know not how to tell thee who I am:,ROMEO
+858,2.2.59,"My name, dear saint, is hateful to myself,",ROMEO
+859,2.2.60,Because it is an enemy to thee;,ROMEO
+860,2.2.61,"Had I it written, I would tear the word.",ROMEO
+861,2.2.62,My ears have not yet drunk a hundred words,JULIET
+862,2.2.63,"Of that tongue's utterance, yet I know the sound:",JULIET
+863,2.2.64,Art thou not Romeo and a Montague?,JULIET
+864,2.2.65,"Neither, fair saint, if either thee dislike.",ROMEO
+865,2.2.66,"How camest thou hither, tell me, and wherefore?",JULIET
+866,2.2.67,"The orchard walls are high and hard to climb,",JULIET
+867,2.2.68,"And the place death, considering who thou art,",JULIET
+868,2.2.69,If any of my kinsmen find thee here.,JULIET
+869,2.2.70,With love's light wings did I o'er-perch these walls;,ROMEO
+870,2.2.71,"For stony limits cannot hold love out,",ROMEO
+871,2.2.72,And what love can do that dares love attempt;,ROMEO
+872,2.2.73,Therefore thy kinsmen are no let to me.,ROMEO
+873,2.2.74,"If they do see thee, they will murder thee.",JULIET
+874,2.2.75,"Alack, there lies more peril in thine eye",ROMEO
+875,2.2.76,"Than twenty of their swords: look thou but sweet,",ROMEO
+876,2.2.77,And I am proof against their enmity.,ROMEO
+877,2.2.78,I would not for the world they saw thee here.,JULIET
+878,2.2.79,I have night's cloak to hide me from their sight;,ROMEO
+879,2.2.80,"And but thou love me, let them find me here:",ROMEO
+880,2.2.81,"My life were better ended by their hate,",ROMEO
+881,2.2.82,"Than death prorogued, wanting of thy love.",ROMEO
+882,2.2.83,By whose direction found'st thou out this place?,JULIET
+883,2.2.84,"By love, who first did prompt me to inquire;",ROMEO
+884,2.2.85,He lent me counsel and I lent him eyes.,ROMEO
+885,2.2.86,"I am no pilot; yet, wert thou as far",ROMEO
+886,2.2.87,"As that vast shore wash'd with the farthest sea,",ROMEO
+887,2.2.88,I would adventure for such merchandise.,ROMEO
+888,2.2.89,"Thou know'st the mask of night is on my face,",JULIET
+889,2.2.90,Else would a maiden blush bepaint my cheek,JULIET
+890,2.2.91,For that which thou hast heard me speak to-night,JULIET
+891,2.2.92,"Fain would I dwell on form, fain, fain deny",JULIET
+892,2.2.93,What I have spoke: but farewell compliment!,JULIET
+893,2.2.94,"Dost thou love me? I know thou wilt say 'Ay,'",JULIET
+894,2.2.95,"And I will take thy word: yet if thou swear'st,",JULIET
+895,2.2.96,Thou mayst prove false; at lovers' perjuries,JULIET
+896,2.2.97,"Then say, Jove laughs. O gentle Romeo,",JULIET
+897,2.2.98,"If thou dost love, pronounce it faithfully:",JULIET
+898,2.2.99,"Or if thou think'st I am too quickly won,",JULIET
+899,2.2.100,"I'll frown and be perverse an say thee nay,",JULIET
+900,2.2.101,"So thou wilt woo; but else, not for the world.",JULIET
+901,2.2.102,"In truth, fair Montague, I am too fond,",JULIET
+902,2.2.103,And therefore thou mayst think my 'havior light:,JULIET
+903,2.2.104,"But trust me, gentleman, I'll prove more true",JULIET
+904,2.2.105,Than those that have more cunning to be strange.,JULIET
+905,2.2.106,"I should have been more strange, I must confess,",JULIET
+906,2.2.107,"But that thou overheard'st, ere I was ware,",JULIET
+907,2.2.108,"My true love's passion: therefore pardon me,",JULIET
+908,2.2.109,"And not impute this yielding to light love,",JULIET
+909,2.2.110,Which the dark night hath so discovered.,JULIET
+910,2.2.111,"Lady, by yonder blessed moon I swear",ROMEO
+911,2.2.112,That tips with silver all these fruit-tree tops--,ROMEO
+912,2.2.113,"O, swear not by the moon, the inconstant moon,",JULIET
+913,2.2.114,"That monthly changes in her circled orb,",JULIET
+914,2.2.115,Lest that thy love prove likewise variable.,JULIET
+915,2.2.116,What shall I swear by?,ROMEO
+916,2.2.117,Do not swear at all;,JULIET
+917,2.2.118,"Or, if thou wilt, swear by thy gracious self,",JULIET
+918,2.2.119,"Which is the god of my idolatry,",JULIET
+919,2.2.120,And I'll believe thee.,JULIET
+920,2.2.121,If my heart's dear love--,ROMEO
+921,2.2.122,"Well, do not swear: although I joy in thee,",JULIET
+922,2.2.123,I have no joy of this contract to-night:,JULIET
+923,2.2.124,"It is too rash, too unadvised, too sudden;",JULIET
+924,2.2.125,"Too like the lightning, which doth cease to be",JULIET
+925,2.2.126,"Ere one can say 'It lightens.' Sweet, good night!",JULIET
+926,2.2.127,"This bud of love, by summer's ripening breath,",JULIET
+927,2.2.128,May prove a beauteous flower when next we meet.,JULIET
+928,2.2.129,"Good night, good night! as sweet repose and rest",JULIET
+929,2.2.130,Come to thy heart as that within my breast!,JULIET
+930,2.2.131,"O, wilt thou leave me so unsatisfied?",ROMEO
+931,2.2.132,What satisfaction canst thou have to-night?,JULIET
+932,2.2.133,The exchange of thy love's faithful vow for mine.,ROMEO
+933,2.2.134,I gave thee mine before thou didst request it:,JULIET
+934,2.2.135,And yet I would it were to give again.,JULIET
+935,2.2.136,"Wouldst thou withdraw it? for what purpose, love?",ROMEO
+936,2.2.137,"But to be frank, and give it thee again.",JULIET
+937,2.2.138,And yet I wish but for the thing I have:,JULIET
+938,2.2.139,"My bounty is as boundless as the sea,",JULIET
+939,2.2.140,"My love as deep; the more I give to thee,",JULIET
+940,2.2.141,"The more I have, for both are infinite.",JULIET
+941,2.2.142,"I hear some noise within; dear love, adieu!",JULIET
+942,2.2.143,"Anon, good nurse! Sweet Montague, be true.",JULIET
+943,2.2.144,"Stay but a little, I will come again.",JULIET
+944,2.2.145,"O blessed, blessed night! I am afeard.",ROMEO
+945,2.2.146,"Being in night, all this is but a dream,",ROMEO
+946,2.2.147,Too flattering-sweet to be substantial.,ROMEO
+947,2.2.148,"Three words, dear Romeo, and good night indeed.",JULIET
+948,2.2.149,"If that thy bent of love be honourable,",JULIET
+949,2.2.150,"Thy purpose marriage, send me word to-morrow,",JULIET
+950,2.2.151,"By one that I'll procure to come to thee,",JULIET
+951,2.2.152,Where and what time thou wilt perform the rite;,JULIET
+952,2.2.153,And all my fortunes at thy foot I'll lay,JULIET
+953,2.2.154,And follow thee my lord throughout the world.,JULIET
+954,2.2.155,[Within]  Madam!,Nurse
+955,2.2.156,"I come, anon.--But if thou mean'st not well,",JULIET
+956,2.2.157,I do beseech thee--,JULIET
+957,2.2.158,[Within]  Madam!,Nurse
+958,2.2.159,"By and by, I come:--",JULIET
+959,2.2.160,"To cease thy suit, and leave me to my grief:",JULIET
+960,2.2.161,To-morrow will I send.,JULIET
+961,2.2.162,So thrive my soul--,ROMEO
+962,2.2.163,A thousand times good night!,JULIET
+963,2.2.164,"A thousand times the worse, to want thy light.",ROMEO
+964,2.2.165,"Love goes toward love, as schoolboys from",ROMEO
+965,2.2.166,"their books,",ROMEO
+966,2.2.167,"But love from love, toward school with heavy looks.",ROMEO
+967,2.2.168,"Hist! Romeo, hist! O, for a falconer's voice,",JULIET
+968,2.2.169,To lure this tassel-gentle back again!,JULIET
+969,2.2.170,"Bondage is hoarse, and may not speak aloud;",JULIET
+970,2.2.171,"Else would I tear the cave where Echo lies,",JULIET
+971,2.2.172,"And make her airy tongue more hoarse than mine,",JULIET
+972,2.2.173,With repetition of my Romeo's name.,JULIET
+973,2.2.174,It is my soul that calls upon my name:,ROMEO
+974,2.2.175,"How silver-sweet sound lovers' tongues by night,",ROMEO
+975,2.2.176,Like softest music to attending ears!,ROMEO
+976,2.2.177,Romeo!,JULIET
+977,2.2.178,     My dear?,ROMEO
+978,2.2.179,                  At what o'clock to-morrow,JULIET
+979,2.2.180,Shall I send to thee?,JULIET
+980,2.2.181,At the hour of nine.,ROMEO
+981,2.2.182,I will not fail: 'tis twenty years till then.,JULIET
+982,2.2.183,I have forgot why I did call thee back.,JULIET
+983,2.2.184,Let me stand here till thou remember it.,ROMEO
+984,2.2.185,"I shall forget, to have thee still stand there,",JULIET
+985,2.2.186,Remembering how I love thy company.,JULIET
+986,2.2.187,"And I'll still stay, to have thee still forget,",ROMEO
+987,2.2.188,Forgetting any other home but this.,ROMEO
+988,2.2.189,'Tis almost morning; I would have thee gone:,JULIET
+989,2.2.190,And yet no further than a wanton's bird;,JULIET
+990,2.2.191,"Who lets it hop a little from her hand,",JULIET
+991,2.2.192,"Like a poor prisoner in his twisted gyves,",JULIET
+992,2.2.193,"And with a silk thread plucks it back again,",JULIET
+993,2.2.194,So loving-jealous of his liberty.,JULIET
+994,2.2.195,I would I were thy bird.,ROMEO
+995,2.2.196,"Sweet, so would I:",JULIET
+996,2.2.197,Yet I should kill thee with much cherishing.,JULIET
+997,2.2.198,"Good night, good night! parting is such",JULIET
+998,2.2.199,"sweet sorrow,",JULIET
+999,2.2.200,That I shall say good night till it be morrow.,JULIET
+1000,2.2.201,"Sleep dwell upon thine eyes, peace in thy breast!",ROMEO
+1001,2.2.202,"Would I were sleep and peace, so sweet to rest!",ROMEO
+1002,2.2.203,"Hence will I to my ghostly father's cell,",ROMEO
+1003,2.2.204,"His help to crave, and my dear hap to tell.",ROMEO
+1004,2.3.1,"The grey-eyed morn smiles on the frowning night,",FRIAR LAURENCE
+1005,2.3.2,"Chequering the eastern clouds with streaks of light,",FRIAR LAURENCE
+1006,2.3.3,And flecked darkness like a drunkard reels,FRIAR LAURENCE
+1007,2.3.4,From forth day's path and Titan's fiery wheels:,FRIAR LAURENCE
+1008,2.3.5,"Now, ere the sun advance his burning eye,",FRIAR LAURENCE
+1009,2.3.6,"The day to cheer and night's dank dew to dry,",FRIAR LAURENCE
+1010,2.3.7,I must up-fill this osier cage of ours,FRIAR LAURENCE
+1011,2.3.8,With baleful weeds and precious-juiced flowers.,FRIAR LAURENCE
+1012,2.3.9,The earth that's nature's mother is her tomb;,FRIAR LAURENCE
+1013,2.3.10,"What is her burying grave that is her womb,",FRIAR LAURENCE
+1014,2.3.11,And from her womb children of divers kind,FRIAR LAURENCE
+1015,2.3.12,"We sucking on her natural bosom find,",FRIAR LAURENCE
+1016,2.3.13,"Many for many virtues excellent,",FRIAR LAURENCE
+1017,2.3.14,None but for some and yet all different.,FRIAR LAURENCE
+1018,2.3.15,"O, mickle is the powerful grace that lies",FRIAR LAURENCE
+1019,2.3.16,"In herbs, plants, stones, and their true qualities:",FRIAR LAURENCE
+1020,2.3.17,For nought so vile that on the earth doth live,FRIAR LAURENCE
+1021,2.3.18,"But to the earth some special good doth give,",FRIAR LAURENCE
+1022,2.3.19,Nor aught so good but strain'd from that fair use,FRIAR LAURENCE
+1023,2.3.20,"Revolts from true birth, stumbling on abuse:",FRIAR LAURENCE
+1024,2.3.21,"Virtue itself turns vice, being misapplied;",FRIAR LAURENCE
+1025,2.3.22,And vice sometimes by action dignified.,FRIAR LAURENCE
+1026,2.3.23,Within the infant rind of this small flower,FRIAR LAURENCE
+1027,2.3.24,Poison hath residence and medicine power:,FRIAR LAURENCE
+1028,2.3.25,"For this, being smelt, with that part cheers each part;",FRIAR LAURENCE
+1029,2.3.26,"Being tasted, slays all senses with the heart.",FRIAR LAURENCE
+1030,2.3.27,Two such opposed kings encamp them still,FRIAR LAURENCE
+1031,2.3.28,"In man as well as herbs, grace and rude will;",FRIAR LAURENCE
+1032,2.3.29,"And where the worser is predominant,",FRIAR LAURENCE
+1033,2.3.30,Full soon the canker death eats up that plant.,FRIAR LAURENCE
+1034,2.3.31,"Good morrow, father.",ROMEO
+1035,2.3.32,Benedicite!,FRIAR LAURENCE
+1036,2.3.33,What early tongue so sweet saluteth me?,FRIAR LAURENCE
+1037,2.3.34,"Young son, it argues a distemper'd head",FRIAR LAURENCE
+1038,2.3.35,So soon to bid good morrow to thy bed:,FRIAR LAURENCE
+1039,2.3.36,"Care keeps his watch in every old man's eye,",FRIAR LAURENCE
+1040,2.3.37,"And where care lodges, sleep will never lie;",FRIAR LAURENCE
+1041,2.3.38,But where unbruised youth with unstuff'd brain,FRIAR LAURENCE
+1042,2.3.39,"Doth couch his limbs, there golden sleep doth reign:",FRIAR LAURENCE
+1043,2.3.40,Therefore thy earliness doth me assure,FRIAR LAURENCE
+1044,2.3.41,Thou art up-roused by some distemperature;,FRIAR LAURENCE
+1045,2.3.42,"Or if not so, then here I hit it right,",FRIAR LAURENCE
+1046,2.3.43,Our Romeo hath not been in bed to-night.,FRIAR LAURENCE
+1047,2.3.44,That last is true; the sweeter rest was mine.,ROMEO
+1048,2.3.45,God pardon sin! wast thou with Rosaline?,FRIAR LAURENCE
+1049,2.3.46,"With Rosaline, my ghostly father? no;",ROMEO
+1050,2.3.47,"I have forgot that name, and that name's woe.",ROMEO
+1051,2.3.48,"That's my good son: but where hast thou been, then?",FRIAR LAURENCE
+1052,2.3.49,"I'll tell thee, ere thou ask it me again.",ROMEO
+1053,2.3.50,"I have been feasting with mine enemy,",ROMEO
+1054,2.3.51,"Where on a sudden one hath wounded me,",ROMEO
+1055,2.3.52,That's by me wounded: both our remedies,ROMEO
+1056,2.3.53,Within thy help and holy physic lies:,ROMEO
+1057,2.3.54,"I bear no hatred, blessed man, for, lo,",ROMEO
+1058,2.3.55,My intercession likewise steads my foe.,ROMEO
+1059,2.3.56,"Be plain, good son, and homely in thy drift;",FRIAR LAURENCE
+1060,2.3.57,Riddling confession finds but riddling shrift.,FRIAR LAURENCE
+1061,2.3.58,Then plainly know my heart's dear love is set,ROMEO
+1062,2.3.59,On the fair daughter of rich Capulet:,ROMEO
+1063,2.3.60,"As mine on hers, so hers is set on mine;",ROMEO
+1064,2.3.61,"And all combined, save what thou must combine",ROMEO
+1065,2.3.62,By holy marriage: when and where and how,ROMEO
+1066,2.3.63,"We met, we woo'd and made exchange of vow,",ROMEO
+1067,2.3.64,"I'll tell thee as we pass; but this I pray,",ROMEO
+1068,2.3.65,That thou consent to marry us to-day.,ROMEO
+1069,2.3.66,"Holy Saint Francis, what a change is here!",FRIAR LAURENCE
+1070,2.3.67,"Is Rosaline, whom thou didst love so dear,",FRIAR LAURENCE
+1071,2.3.68,So soon forsaken? young men's love then lies,FRIAR LAURENCE
+1072,2.3.69,"Not truly in their hearts, but in their eyes.",FRIAR LAURENCE
+1073,2.3.70,"Jesu Maria, what a deal of brine",FRIAR LAURENCE
+1074,2.3.71,Hath wash'd thy sallow cheeks for Rosaline!,FRIAR LAURENCE
+1075,2.3.72,"How much salt water thrown away in waste,",FRIAR LAURENCE
+1076,2.3.73,"To season love, that of it doth not taste!",FRIAR LAURENCE
+1077,2.3.74,"The sun not yet thy sighs from heaven clears,",FRIAR LAURENCE
+1078,2.3.75,Thy old groans ring yet in my ancient ears;,FRIAR LAURENCE
+1079,2.3.76,"Lo, here upon thy cheek the stain doth sit",FRIAR LAURENCE
+1080,2.3.77,Of an old tear that is not wash'd off yet:,FRIAR LAURENCE
+1081,2.3.78,"If e'er thou wast thyself and these woes thine,",FRIAR LAURENCE
+1082,2.3.79,Thou and these woes were all for Rosaline:,FRIAR LAURENCE
+1083,2.3.80,"And art thou changed? pronounce this sentence then,",FRIAR LAURENCE
+1084,2.3.81,"Women may fall, when there's no strength in men.",FRIAR LAURENCE
+1085,2.3.82,Thou chid'st me oft for loving Rosaline.,ROMEO
+1086,2.3.83,"For doting, not for loving, pupil mine.",FRIAR LAURENCE
+1087,2.3.84,And bad'st me bury love.,ROMEO
+1088,2.3.85,"Not in a grave,",FRIAR LAURENCE
+1089,2.3.86,"To lay one in, another out to have.",FRIAR LAURENCE
+1090,2.3.87,"I pray thee, chide not; she whom I love now",ROMEO
+1091,2.3.88,Doth grace for grace and love for love allow;,ROMEO
+1092,2.3.89,The other did not so.,ROMEO
+1093,2.3.90,"O, she knew well",FRIAR LAURENCE
+1094,2.3.91,Thy love did read by rote and could not spell.,FRIAR LAURENCE
+1095,2.3.92,"But come, young waverer, come, go with me,",FRIAR LAURENCE
+1096,2.3.93,In one respect I'll thy assistant be;,FRIAR LAURENCE
+1097,2.3.94,"For this alliance may so happy prove,",FRIAR LAURENCE
+1098,2.3.95,To turn your households' rancour to pure love.,FRIAR LAURENCE
+1099,2.3.96,"O, let us hence; I stand on sudden haste.",ROMEO
+1100,2.3.97,Wisely and slow; they stumble that run fast.,FRIAR LAURENCE
+1101,2.4.1,Where the devil should this Romeo be?,MERCUTIO
+1102,2.4.2,Came he not home to-night?,MERCUTIO
+1103,2.4.3,Not to his father's; I spoke with his man.,BENVOLIO
+1104,2.4.4,"Ah, that same pale hard-hearted wench, that Rosaline.",MERCUTIO
+1105,2.4.5,"Torments him so, that he will sure run mad.",MERCUTIO
+1106,2.4.6,"Tybalt, the kinsman of old Capulet,",BENVOLIO
+1107,2.4.7,Hath sent a letter to his father's house.,BENVOLIO
+1108,2.4.8,"A challenge, on my life.",MERCUTIO
+1109,2.4.9,Romeo will answer it.,BENVOLIO
+1110,2.4.10,Any man that can write may answer a letter.,MERCUTIO
+1111,2.4.11,"Nay, he will answer the letter's master, how he",BENVOLIO
+1112,2.4.12,"dares, being dared.",BENVOLIO
+1113,2.4.13,Alas poor Romeo! he is already dead; stabbed with a,MERCUTIO
+1114,2.4.14,white wench's black eye; shot through the ear with a,MERCUTIO
+1115,2.4.15,love-song; the very pin of his heart cleft with the,MERCUTIO
+1116,2.4.16,blind bow-boy's butt-shaft: and is he a man to,MERCUTIO
+1117,2.4.17,encounter Tybalt?,MERCUTIO
+1118,2.4.18,"Why, what is Tybalt?",BENVOLIO
+1119,2.4.19,"More than prince of cats, I can tell you. O, he is",MERCUTIO
+1120,2.4.20,the courageous captain of compliments. He fights as,MERCUTIO
+1121,2.4.21,"you sing prick-song, keeps time, distance, and",MERCUTIO
+1122,2.4.22,"proportion; rests me his minim rest, one, two, and",MERCUTIO
+1123,2.4.23,the third in your bosom: the very butcher of a silk,MERCUTIO
+1124,2.4.24,"button, a duellist, a duellist; a gentleman of the",MERCUTIO
+1125,2.4.25,"very first house, of the first and second cause:",MERCUTIO
+1126,2.4.26,"ah, the immortal passado! the punto reverso! the",MERCUTIO
+1127,2.4.27,hai!,MERCUTIO
+1128,2.4.28,The what?,BENVOLIO
+1129,2.4.29,"The pox of such antic, lisping, affecting",MERCUTIO
+1130,2.4.30,"fantasticoes; these new tuners of accents! 'By Jesu,",MERCUTIO
+1131,2.4.31,a very good blade! a very tall man! a very good,MERCUTIO
+1132,2.4.32,"whore!' Why, is not this a lamentable thing,",MERCUTIO
+1133,2.4.33,"grandsire, that we should be thus afflicted with",MERCUTIO
+1134,2.4.34,"these strange flies, these fashion-mongers, these",MERCUTIO
+1135,2.4.35,"perdona-mi's, who stand so much on the new form,",MERCUTIO
+1136,2.4.36,"that they cannot at ease on the old bench? O, their",MERCUTIO
+1137,2.4.37,"bones, their bones!",MERCUTIO
+1138,2.4.38,"Here comes Romeo, here comes Romeo.",BENVOLIO
+1139,2.4.39,"Without his roe, like a dried herring: flesh, flesh,",MERCUTIO
+1140,2.4.40,how art thou fishified! Now is he for the numbers,MERCUTIO
+1141,2.4.41,that Petrarch flowed in: Laura to his lady was but a,MERCUTIO
+1142,2.4.42,"kitchen-wench; marry, she had a better love to",MERCUTIO
+1143,2.4.43,be-rhyme her; Dido a dowdy; Cleopatra a gipsy;,MERCUTIO
+1144,2.4.44,Helen and Hero hildings and harlots; Thisbe a grey,MERCUTIO
+1145,2.4.45,"eye or so, but not to the purpose. Signior",MERCUTIO
+1146,2.4.46,"Romeo, bon jour! there's a French salutation",MERCUTIO
+1147,2.4.47,to your French slop. You gave us the counterfeit,MERCUTIO
+1148,2.4.48,fairly last night.,MERCUTIO
+1149,2.4.49,Good morrow to you both. What counterfeit did I give you?,ROMEO
+1150,2.4.50,"The ship, sir, the slip; can you not conceive?",MERCUTIO
+1151,2.4.51,"Pardon, good Mercutio, my business was great; and in",ROMEO
+1152,2.4.52,such a case as mine a man may strain courtesy.,ROMEO
+1153,2.4.53,"That's as much as to say, such a case as yours",MERCUTIO
+1154,2.4.54,constrains a man to bow in the hams.,MERCUTIO
+1155,2.4.55,"Meaning, to court'sy.",ROMEO
+1156,2.4.56,Thou hast most kindly hit it.,MERCUTIO
+1157,2.4.57,A most courteous exposition.,ROMEO
+1158,2.4.58,"Nay, I am the very pink of courtesy.",MERCUTIO
+1159,2.4.59,Pink for flower.,ROMEO
+1160,2.4.60,Right.,MERCUTIO
+1161,2.4.61,"Why, then is my pump well flowered.",ROMEO
+1162,2.4.62,Well said: follow me this jest now till thou hast,MERCUTIO
+1163,2.4.63,"worn out thy pump, that when the single sole of it",MERCUTIO
+1164,2.4.64,"is worn, the jest may remain after the wearing sole singular.",MERCUTIO
+1165,2.4.65,"O single-soled jest, solely singular for the",ROMEO
+1166,2.4.66,singleness.,ROMEO
+1167,2.4.67,"Come between us, good Benvolio; my wits faint.",MERCUTIO
+1168,2.4.68,"Switch and spurs, switch and spurs; or I'll cry a match.",ROMEO
+1169,2.4.69,"Nay, if thy wits run the wild-goose chase, I have",MERCUTIO
+1170,2.4.70,"done, for thou hast more of the wild-goose in one of",MERCUTIO
+1171,2.4.71,"thy wits than, I am sure, I have in my whole five:",MERCUTIO
+1172,2.4.72,was I with you there for the goose?,MERCUTIO
+1173,2.4.73,Thou wast never with me for any thing when thou wast,ROMEO
+1174,2.4.74,not there for the goose.,ROMEO
+1175,2.4.75,I will bite thee by the ear for that jest.,MERCUTIO
+1176,2.4.76,"Nay, good goose, bite not.",ROMEO
+1177,2.4.77,Thy wit is a very bitter sweeting; it is a most,MERCUTIO
+1178,2.4.78,sharp sauce.,MERCUTIO
+1179,2.4.79,And is it not well served in to a sweet goose?,ROMEO
+1180,2.4.80,"O here's a wit of cheveril, that stretches from an",MERCUTIO
+1181,2.4.81,inch narrow to an ell broad!,MERCUTIO
+1182,2.4.82,I stretch it out for that word 'broad;' which added,ROMEO
+1183,2.4.83,"to the goose, proves thee far and wide a broad goose.",ROMEO
+1184,2.4.84,"Why, is not this better now than groaning for love?",MERCUTIO
+1185,2.4.85,"now art thou sociable, now art thou Romeo; now art",MERCUTIO
+1186,2.4.86,"thou what thou art, by art as well as by nature:",MERCUTIO
+1187,2.4.87,"for this drivelling love is like a great natural,",MERCUTIO
+1188,2.4.88,that runs lolling up and down to hide his bauble in a hole.,MERCUTIO
+1189,2.4.89,"Stop there, stop there.",BENVOLIO
+1190,2.4.90,Thou desirest me to stop in my tale against the hair.,MERCUTIO
+1191,2.4.91,Thou wouldst else have made thy tale large.,BENVOLIO
+1192,2.4.92,"O, thou art deceived; I would have made it short:",MERCUTIO
+1193,2.4.93,for I was come to the whole depth of my tale; and,MERCUTIO
+1194,2.4.94,"meant, indeed, to occupy the argument no longer.",MERCUTIO
+1195,2.4.95,Here's goodly gear!,ROMEO
+1196,2.4.96,"A sail, a sail!",MERCUTIO
+1197,2.4.97,"Two, two; a shirt and a smock.",BENVOLIO
+1198,2.4.98,Peter!,Nurse
+1199,2.4.99,Anon!,PETER
+1200,2.4.100,"My fan, Peter.",Nurse
+1201,2.4.101,"Good Peter, to hide her face; for her fan's the",MERCUTIO
+1202,2.4.102,fairer face.,MERCUTIO
+1203,2.4.103,"God ye good morrow, gentlemen.",Nurse
+1204,2.4.104,"God ye good den, fair gentlewoman.",MERCUTIO
+1205,2.4.105,Is it good den?,Nurse
+1206,2.4.106,"'Tis no less, I tell you, for the bawdy hand of the",MERCUTIO
+1207,2.4.107,dial is now upon the prick of noon.,MERCUTIO
+1208,2.4.108,Out upon you! what a man are you!,Nurse
+1209,2.4.109,"One, gentlewoman, that God hath made for himself to",ROMEO
+1210,2.4.110,mar.,ROMEO
+1211,2.4.111,"By my troth, it is well said; 'for himself to mar,'",Nurse
+1212,2.4.112,"quoth a'? Gentlemen, can any of you tell me where I",Nurse
+1213,2.4.113,may find the young Romeo?,Nurse
+1214,2.4.114,I can tell you; but young Romeo will be older when,ROMEO
+1215,2.4.115,you have found him than he was when you sought him:,ROMEO
+1216,2.4.116,"I am the youngest of that name, for fault of a worse.",ROMEO
+1217,2.4.117,You say well.,Nurse
+1218,2.4.118,"Yea, is the worst well? very well took, i' faith;",MERCUTIO
+1219,2.4.119,"wisely, wisely.",MERCUTIO
+1220,2.4.120,"if you be he, sir, I desire some confidence with",Nurse
+1221,2.4.121,you.,Nurse
+1222,2.4.122,She will indite him to some supper.,BENVOLIO
+1223,2.4.123,"A bawd, a bawd, a bawd! so ho!",MERCUTIO
+1224,2.4.124,What hast thou found?,ROMEO
+1225,2.4.125,"No hare, sir; unless a hare, sir, in a lenten pie,",MERCUTIO
+1226,2.4.126,that is something stale and hoar ere it be spent.,MERCUTIO
+1227,2.4.127,"An old hare hoar,",MERCUTIO
+1228,2.4.128,"And an old hare hoar,",MERCUTIO
+1229,2.4.129,Is very good meat in lent,MERCUTIO
+1230,2.4.130,But a hare that is hoar,MERCUTIO
+1231,2.4.131,"Is too much for a score,",MERCUTIO
+1232,2.4.132,When it hoars ere it be spent.,MERCUTIO
+1233,2.4.133,"Romeo, will you come to your father's? we'll",MERCUTIO
+1234,2.4.134,"to dinner, thither.",MERCUTIO
+1235,2.4.135,I will follow you.,ROMEO
+1236,2.4.136,"Farewell, ancient lady; farewell,",MERCUTIO
+1237,2.4.137,"'lady, lady, lady.'",MERCUTIO
+1238,2.4.138,"Marry, farewell! I pray you, sir, what saucy",Nurse
+1239,2.4.139,"merchant was this, that was so full of his ropery?",Nurse
+1240,2.4.140,"A gentleman, nurse, that loves to hear himself talk,",ROMEO
+1241,2.4.141,and will speak more in a minute than he will stand,ROMEO
+1242,2.4.142,to in a month.,ROMEO
+1243,2.4.143,"An a' speak any thing against me, I'll take him",Nurse
+1244,2.4.144,"down, an a' were lustier than he is, and twenty such",Nurse
+1245,2.4.145,"Jacks; and if I cannot, I'll find those that shall.",Nurse
+1246,2.4.146,Scurvy knave! I am none of his flirt-gills; I am,Nurse
+1247,2.4.147,none of his skains-mates. And thou must stand by,Nurse
+1248,2.4.148,"too, and suffer every knave to use me at his pleasure?",Nurse
+1249,2.4.149,"I saw no man use you a pleasure; if I had, my weapon",PETER
+1250,2.4.150,"should quickly have been out, I warrant you: I dare",PETER
+1251,2.4.151,"draw as soon as another man, if I see occasion in a",PETER
+1252,2.4.152,"good quarrel, and the law on my side.",PETER
+1253,2.4.153,"Now, afore God, I am so vexed, that every part about",Nurse
+1254,2.4.154,"me quivers. Scurvy knave! Pray you, sir, a word:",Nurse
+1255,2.4.155,"and as I told you, my young lady bade me inquire you",Nurse
+1256,2.4.156,"out; what she bade me say, I will keep to myself:",Nurse
+1257,2.4.157,"but first let me tell ye, if ye should lead her into",Nurse
+1258,2.4.158,"a fool's paradise, as they say, it were a very gross",Nurse
+1259,2.4.159,"kind of behavior, as they say: for the gentlewoman",Nurse
+1260,2.4.160,"is young; and, therefore, if you should deal double",Nurse
+1261,2.4.161,"with her, truly it were an ill thing to be offered",Nurse
+1262,2.4.162,"to any gentlewoman, and very weak dealing.",Nurse
+1263,2.4.163,"Nurse, commend me to thy lady and mistress. I",ROMEO
+1264,2.4.164,protest unto thee--,ROMEO
+1265,2.4.165,"Good heart, and, i' faith, I will tell her as much:",Nurse
+1266,2.4.166,"Lord, Lord, she will be a joyful woman.",Nurse
+1267,2.4.167,"What wilt thou tell her, nurse? thou dost not mark me.",ROMEO
+1268,2.4.168,"I will tell her, sir, that you do protest; which, as",Nurse
+1269,2.4.169,"I take it, is a gentlemanlike offer.",Nurse
+1270,2.4.170,Bid her devise,ROMEO
+1271,2.4.171,Some means to come to shrift this afternoon;,ROMEO
+1272,2.4.172,And there she shall at Friar Laurence' cell,ROMEO
+1273,2.4.173,Be shrived and married. Here is for thy pains.,ROMEO
+1274,2.4.174,No truly sir; not a penny.,Nurse
+1275,2.4.175,Go to; I say you shall.,ROMEO
+1276,2.4.176,"This afternoon, sir? well, she shall be there.",Nurse
+1277,2.4.177,"And stay, good nurse, behind the abbey wall:",ROMEO
+1278,2.4.178,Within this hour my man shall be with thee,ROMEO
+1279,2.4.179,And bring thee cords made like a tackled stair;,ROMEO
+1280,2.4.180,Which to the high top-gallant of my joy,ROMEO
+1281,2.4.181,Must be my convoy in the secret night.,ROMEO
+1282,2.4.182,"Farewell; be trusty, and I'll quit thy pains:",ROMEO
+1283,2.4.183,Farewell; commend me to thy mistress.,ROMEO
+1284,2.4.184,"Now God in heaven bless thee! Hark you, sir.",Nurse
+1285,2.4.185,"What say'st thou, my dear nurse?",ROMEO
+1286,2.4.186,"Is your man secret? Did you ne'er hear say,",Nurse
+1287,2.4.187,"Two may keep counsel, putting one away?",Nurse
+1288,2.4.188,"I warrant thee, my man's as true as steel.",ROMEO
+1289,2.4.189,"Well, sir; my mistress is the sweetest lady--Lord,",NURSE
+1290,2.4.190,"Lord! when 'twas a little prating thing:--O, there",NURSE
+1291,2.4.191,"is a nobleman in town, one Paris, that would fain",NURSE
+1292,2.4.192,"lay knife aboard; but she, good soul, had as lief",NURSE
+1293,2.4.193,"see a toad, a very toad, as see him. I anger her",NURSE
+1294,2.4.194,sometimes and tell her that Paris is the properer,NURSE
+1295,2.4.195,"man; but, I'll warrant you, when I say so, she looks",NURSE
+1296,2.4.196,as pale as any clout in the versal world. Doth not,NURSE
+1297,2.4.197,rosemary and Romeo begin both with a letter?,NURSE
+1298,2.4.198,"Ay, nurse; what of that? both with an R.",ROMEO
+1299,2.4.199,Ah. mocker! that's the dog's name; R is for,Nurse
+1300,2.4.200,the--No; I know it begins with some other,Nurse
+1301,2.4.201,letter:--and she hath the prettiest sententious of,Nurse
+1302,2.4.202,"it, of you and rosemary, that it would do you good",Nurse
+1303,2.4.203,to hear it.,Nurse
+1304,2.4.204,Commend me to thy lady.,ROMEO
+1305,2.4.205,"Ay, a thousand times.",Nurse
+1306,2.4.206,Peter!,Nurse
+1307,2.4.207,Anon!,PETER
+1308,2.4.208,"Peter, take my fan, and go before and apace.",Nurse
+1309,2.5.1,The clock struck nine when I did send the nurse;,JULIET
+1310,2.5.2,In half an hour she promised to return.,JULIET
+1311,2.5.3,Perchance she cannot meet him: that's not so.,JULIET
+1312,2.5.4,"O, she is lame! love's heralds should be thoughts,",JULIET
+1313,2.5.5,"Which ten times faster glide than the sun's beams,",JULIET
+1314,2.5.6,Driving back shadows over louring hills:,JULIET
+1315,2.5.7,"Therefore do nimble-pinion'd doves draw love,",JULIET
+1316,2.5.8,And therefore hath the wind-swift Cupid wings.,JULIET
+1317,2.5.9,Now is the sun upon the highmost hill,JULIET
+1318,2.5.10,"Of this day's journey, and from nine till twelve",JULIET
+1319,2.5.11,"Is three long hours, yet she is not come.",JULIET
+1320,2.5.12,"Had she affections and warm youthful blood,",JULIET
+1321,2.5.13,She would be as swift in motion as a ball;,JULIET
+1322,2.5.14,"My words would bandy her to my sweet love,",JULIET
+1323,2.5.15,And his to me:,JULIET
+1324,2.5.16,"But old folks, many feign as they were dead;",JULIET
+1325,2.5.17,"Unwieldy, slow, heavy and pale as lead.",JULIET
+1326,2.5.18,"O God, she comes!",JULIET
+1327,2.5.19,"O honey nurse, what news?",JULIET
+1328,2.5.20,Hast thou met with him? Send thy man away.,JULIET
+1329,2.5.21,"Peter, stay at the gate.",Nurse
+1330,2.5.22,"Now, good sweet nurse,--O Lord, why look'st thou sad?",JULIET
+1331,2.5.23,"Though news be sad, yet tell them merrily;",JULIET
+1332,2.5.24,"If good, thou shamest the music of sweet news",JULIET
+1333,2.5.25,By playing it to me with so sour a face.,JULIET
+1334,2.5.26,"I am a-weary, give me leave awhile:",Nurse
+1335,2.5.27,"Fie, how my bones ache! what a jaunt have I had!",Nurse
+1336,2.5.28,"I would thou hadst my bones, and I thy news:",JULIET
+1337,2.5.29,"Nay, come, I pray thee, speak; good, good nurse, speak.",JULIET
+1338,2.5.30,"Jesu, what haste? can you not stay awhile?",Nurse
+1339,2.5.31,Do you not see that I am out of breath?,Nurse
+1340,2.5.32,"How art thou out of breath, when thou hast breath",JULIET
+1341,2.5.33,To say to me that thou art out of breath?,JULIET
+1342,2.5.34,The excuse that thou dost make in this delay,JULIET
+1343,2.5.35,Is longer than the tale thou dost excuse.,JULIET
+1344,2.5.36,"Is thy news good, or bad? answer to that;",JULIET
+1345,2.5.37,"Say either, and I'll stay the circumstance:",JULIET
+1346,2.5.38,"Let me be satisfied, is't good or bad?",JULIET
+1347,2.5.39,"Well, you have made a simple choice; you know not",Nurse
+1348,2.5.40,"how to choose a man: Romeo! no, not he; though his",Nurse
+1349,2.5.41,"face be better than any man's, yet his leg excels",Nurse
+1350,2.5.42,"all men's; and for a hand, and a foot, and a body,",Nurse
+1351,2.5.43,"though they be not to be talked on, yet they are",Nurse
+1352,2.5.44,"past compare: he is not the flower of courtesy,",Nurse
+1353,2.5.45,"but, I'll warrant him, as gentle as a lamb. Go thy",Nurse
+1354,2.5.46,"ways, wench; serve God. What, have you dined at home?",Nurse
+1355,2.5.47,"No, no: but all this did I know before.",JULIET
+1356,2.5.48,What says he of our marriage? what of that?,JULIET
+1357,2.5.49,"Lord, how my head aches! what a head have I!",Nurse
+1358,2.5.50,It beats as it would fall in twenty pieces.,Nurse
+1359,2.5.51,"My back o' t' other side,--O, my back, my back!",Nurse
+1360,2.5.52,"Beshrew your heart for sending me about,",Nurse
+1361,2.5.53,To catch my death with jaunting up and down!,Nurse
+1362,2.5.54,"I' faith, I am sorry that thou art not well.",JULIET
+1363,2.5.55,"Sweet, sweet, sweet nurse, tell me, what says my love?",JULIET
+1364,2.5.56,"Your love says, like an honest gentleman, and a",Nurse
+1365,2.5.57,"courteous, and a kind, and a handsome, and, I",Nurse
+1366,2.5.58,"warrant, a virtuous,--Where is your mother?",Nurse
+1367,2.5.59,"Where is my mother! why, she is within;",JULIET
+1368,2.5.60,Where should she be? How oddly thou repliest!,JULIET
+1369,2.5.61,"'Your love says, like an honest gentleman,",JULIET
+1370,2.5.62,Where is your mother?',JULIET
+1371,2.5.63,O God's lady dear!,Nurse
+1372,2.5.64,"Are you so hot? marry, come up, I trow;",Nurse
+1373,2.5.65,Is this the poultice for my aching bones?,Nurse
+1374,2.5.66,Henceforward do your messages yourself.,Nurse
+1375,2.5.67,"Here's such a coil! come, what says Romeo?",JULIET
+1376,2.5.68,Have you got leave to go to shrift to-day?,Nurse
+1377,2.5.69,I have.,JULIET
+1378,2.5.70,Then hie you hence to Friar Laurence' cell;,Nurse
+1379,2.5.71,There stays a husband to make you a wife:,Nurse
+1380,2.5.72,"Now comes the wanton blood up in your cheeks,",Nurse
+1381,2.5.73,They'll be in scarlet straight at any news.,Nurse
+1382,2.5.74,"Hie you to church; I must another way,",Nurse
+1383,2.5.75,"To fetch a ladder, by the which your love",Nurse
+1384,2.5.76,Must climb a bird's nest soon when it is dark:,Nurse
+1385,2.5.77,"I am the drudge and toil in your delight,",Nurse
+1386,2.5.78,But you shall bear the burden soon at night.,Nurse
+1387,2.5.79,Go; I'll to dinner: hie you to the cell.,Nurse
+1388,2.5.80,"Hie to high fortune! Honest nurse, farewell.",JULIET
+1389,2.6.1,"So smile the heavens upon this holy act,",FRIAR LAURENCE
+1390,2.6.2,That after hours with sorrow chide us not!,FRIAR LAURENCE
+1391,2.6.3,"Amen, amen! but come what sorrow can,",ROMEO
+1392,2.6.4,It cannot countervail the exchange of joy,ROMEO
+1393,2.6.5,That one short minute gives me in her sight:,ROMEO
+1394,2.6.6,"Do thou but close our hands with holy words,",ROMEO
+1395,2.6.7,Then love-devouring death do what he dare;,ROMEO
+1396,2.6.8,It is enough I may but call her mine.,ROMEO
+1397,2.6.9,These violent delights have violent ends,FRIAR LAURENCE
+1398,2.6.10,"And in their triumph die, like fire and powder,",FRIAR LAURENCE
+1399,2.6.11,Which as they kiss consume: the sweetest honey,FRIAR LAURENCE
+1400,2.6.12,Is loathsome in his own deliciousness,FRIAR LAURENCE
+1401,2.6.13,And in the taste confounds the appetite:,FRIAR LAURENCE
+1402,2.6.14,Therefore love moderately; long love doth so;,FRIAR LAURENCE
+1403,2.6.15,Too swift arrives as tardy as too slow.,FRIAR LAURENCE
+1404,2.6.16,"Here comes the lady: O, so light a foot",FRIAR LAURENCE
+1405,2.6.17,Will ne'er wear out the everlasting flint:,FRIAR LAURENCE
+1406,2.6.18,A lover may bestride the gossamer,FRIAR LAURENCE
+1407,2.6.19,"That idles in the wanton summer air,",FRIAR LAURENCE
+1408,2.6.20,And yet not fall; so light is vanity.,FRIAR LAURENCE
+1409,2.6.21,Good even to my ghostly confessor.,JULIET
+1410,2.6.22,"Romeo shall thank thee, daughter, for us both.",FRIAR LAURENCE
+1411,2.6.23,"As much to him, else is his thanks too much.",JULIET
+1412,2.6.24,"Ah, Juliet, if the measure of thy joy",ROMEO
+1413,2.6.25,Be heap'd like mine and that thy skill be more,ROMEO
+1414,2.6.26,"To blazon it, then sweeten with thy breath",ROMEO
+1415,2.6.27,"This neighbour air, and let rich music's tongue",ROMEO
+1416,2.6.28,Unfold the imagined happiness that both,ROMEO
+1417,2.6.29,Receive in either by this dear encounter.,ROMEO
+1418,2.6.30,"Conceit, more rich in matter than in words,",JULIET
+1419,2.6.31,"Brags of his substance, not of ornament:",JULIET
+1420,2.6.32,They are but beggars that can count their worth;,JULIET
+1421,2.6.33,But my true love is grown to such excess,JULIET
+1422,2.6.34,I cannot sum up sum of half my wealth.,JULIET
+1423,2.6.35,"Come, come with me, and we will make short work;",FRIAR LAURENCE
+1424,2.6.36,"For, by your leaves, you shall not stay alone",FRIAR LAURENCE
+1425,2.6.37,Till holy church incorporate two in one.,FRIAR LAURENCE
+1426,3.1.1,"I pray thee, good Mercutio, let's retire:",BENVOLIO
+1427,3.1.2,"The day is hot, the Capulets abroad,",BENVOLIO
+1428,3.1.3,"And, if we meet, we shall not scape a brawl;",BENVOLIO
+1429,3.1.4,"For now, these hot days, is the mad blood stirring.",BENVOLIO
+1430,3.1.5,Thou art like one of those fellows that when he,MERCUTIO
+1431,3.1.6,enters the confines of a tavern claps me his sword,MERCUTIO
+1432,3.1.7,upon the table and says 'God send me no need of,MERCUTIO
+1433,3.1.8,thee!' and by the operation of the second cup draws,MERCUTIO
+1434,3.1.9,"it on the drawer, when indeed there is no need.",MERCUTIO
+1435,3.1.10,Am I like such a fellow?,BENVOLIO
+1436,3.1.11,"Come, come, thou art as hot a Jack in thy mood as",MERCUTIO
+1437,3.1.12,"any in Italy, and as soon moved to be moody, and as",MERCUTIO
+1438,3.1.13,soon moody to be moved.,MERCUTIO
+1439,3.1.14,And what to?,BENVOLIO
+1440,3.1.15,"Nay, an there were two such, we should have none",MERCUTIO
+1441,3.1.16,"shortly, for one would kill the other. Thou! why,",MERCUTIO
+1442,3.1.17,"thou wilt quarrel with a man that hath a hair more,",MERCUTIO
+1443,3.1.18,"or a hair less, in his beard, than thou hast: thou",MERCUTIO
+1444,3.1.19,"wilt quarrel with a man for cracking nuts, having no",MERCUTIO
+1445,3.1.20,other reason but because thou hast hazel eyes: what,MERCUTIO
+1446,3.1.21,eye but such an eye would spy out such a quarrel?,MERCUTIO
+1447,3.1.22,Thy head is as fun of quarrels as an egg is full of,MERCUTIO
+1448,3.1.23,"meat, and yet thy head hath been beaten as addle as",MERCUTIO
+1449,3.1.24,an egg for quarrelling: thou hast quarrelled with a,MERCUTIO
+1450,3.1.25,"man for coughing in the street, because he hath",MERCUTIO
+1451,3.1.26,wakened thy dog that hath lain asleep in the sun:,MERCUTIO
+1452,3.1.27,didst thou not fall out with a tailor for wearing,MERCUTIO
+1453,3.1.28,"his new doublet before Easter? with another, for",MERCUTIO
+1454,3.1.29,tying his new shoes with old riband? and yet thou,MERCUTIO
+1455,3.1.30,wilt tutor me from quarrelling!,MERCUTIO
+1456,3.1.31,"An I were so apt to quarrel as thou art, any man",BENVOLIO
+1457,3.1.32,should buy the fee-simple of my life for an hour and a quarter.,BENVOLIO
+1458,3.1.33,The fee-simple! O simple!,MERCUTIO
+1459,3.1.34,"By my head, here come the Capulets.",BENVOLIO
+1460,3.1.35,"By my heel, I care not.",MERCUTIO
+1461,3.1.36,"Follow me close, for I will speak to them.",TYBALT
+1462,3.1.37,"Gentlemen, good den: a word with one of you.",TYBALT
+1463,3.1.38,And but one word with one of us? couple it with,MERCUTIO
+1464,3.1.39,something; make it a word and a blow.,MERCUTIO
+1465,3.1.40,"You shall find me apt enough to that, sir, an you",TYBALT
+1466,3.1.41,will give me occasion.,TYBALT
+1467,3.1.42,Could you not take some occasion without giving?,MERCUTIO
+1468,3.1.43,"Mercutio, thou consort'st with Romeo,--",TYBALT
+1469,3.1.44,"Consort! what, dost thou make us minstrels? an",MERCUTIO
+1470,3.1.45,"thou make minstrels of us, look to hear nothing but",MERCUTIO
+1471,3.1.46,discords: here's my fiddlestick; here's that shall,MERCUTIO
+1472,3.1.47,"make you dance. 'Zounds, consort!",MERCUTIO
+1473,3.1.48,We talk here in the public haunt of men:,BENVOLIO
+1474,3.1.49,"Either withdraw unto some private place,",BENVOLIO
+1475,3.1.50,"And reason coldly of your grievances,",BENVOLIO
+1476,3.1.51,Or else depart; here all eyes gaze on us.,BENVOLIO
+1477,3.1.52,"Men's eyes were made to look, and let them gaze;",MERCUTIO
+1478,3.1.53,"I will not budge for no man's pleasure, I.",MERCUTIO
+1479,3.1.54,"Well, peace be with you, sir: here comes my man.",TYBALT
+1480,3.1.55,"But I'll be hanged, sir, if he wear your livery:",MERCUTIO
+1481,3.1.56,"Marry, go before to field, he'll be your follower;",MERCUTIO
+1482,3.1.57,Your worship in that sense may call him 'man.',MERCUTIO
+1483,3.1.58,"Romeo, the hate I bear thee can afford",TYBALT
+1484,3.1.59,"No better term than this,--thou art a villain.",TYBALT
+1485,3.1.60,"Tybalt, the reason that I have to love thee",ROMEO
+1486,3.1.61,Doth much excuse the appertaining rage,ROMEO
+1487,3.1.62,To such a greeting: villain am I none;,ROMEO
+1488,3.1.63,Therefore farewell; I see thou know'st me not.,ROMEO
+1489,3.1.64,"Boy, this shall not excuse the injuries",TYBALT
+1490,3.1.65,That thou hast done me; therefore turn and draw.,TYBALT
+1491,3.1.66,"I do protest, I never injured thee,",ROMEO
+1492,3.1.67,"But love thee better than thou canst devise,",ROMEO
+1493,3.1.68,Till thou shalt know the reason of my love:,ROMEO
+1494,3.1.69,"And so, good Capulet,--which name I tender",ROMEO
+1495,3.1.70,"As dearly as my own,--be satisfied.",ROMEO
+1496,3.1.71,"O calm, dishonourable, vile submission!",MERCUTIO
+1497,3.1.72,Alla stoccata carries it away.,MERCUTIO
+1498,3.1.73,"Tybalt, you rat-catcher, will you walk?",MERCUTIO
+1499,3.1.74,What wouldst thou have with me?,TYBALT
+1500,3.1.75,"Good king of cats, nothing but one of your nine",MERCUTIO
+1501,3.1.76,"lives; that I mean to make bold withal, and as you",MERCUTIO
+1502,3.1.77,"shall use me hereafter, drybeat the rest of the",MERCUTIO
+1503,3.1.78,eight. Will you pluck your sword out of his pitcher,MERCUTIO
+1504,3.1.79,"by the ears? make haste, lest mine be about your",MERCUTIO
+1505,3.1.80,ears ere it be out.,MERCUTIO
+1506,3.1.81,I am for you.,TYBALT
+1507,3.1.82,"Gentle Mercutio, put thy rapier up.",ROMEO
+1508,3.1.83,"Come, sir, your passado.",MERCUTIO
+1509,3.1.84,"Draw, Benvolio; beat down their weapons.",ROMEO
+1510,3.1.85,"Gentlemen, for shame, forbear this outrage!",ROMEO
+1511,3.1.86,"Tybalt, Mercutio, the prince expressly hath",ROMEO
+1512,3.1.87,Forbidden bandying in Verona streets:,ROMEO
+1513,3.1.88,"Hold, Tybalt! good Mercutio!",ROMEO
+1514,3.1.89,I am hurt.,MERCUTIO
+1515,3.1.90,A plague o' both your houses! I am sped.,MERCUTIO
+1516,3.1.91,"Is he gone, and hath nothing?",MERCUTIO
+1517,3.1.92,"What, art thou hurt?",BENVOLIO
+1518,3.1.93,"Ay, ay, a scratch, a scratch; marry, 'tis enough.",MERCUTIO
+1519,3.1.94,"Where is my page? Go, villain, fetch a surgeon.",MERCUTIO
+1520,3.1.95,"Courage, man; the hurt cannot be much.",ROMEO
+1521,3.1.96,"No, 'tis not so deep as a well, nor so wide as a",MERCUTIO
+1522,3.1.97,"church-door; but 'tis enough,'twill serve: ask for",MERCUTIO
+1523,3.1.98,"me to-morrow, and you shall find me a grave man. I",MERCUTIO
+1524,3.1.99,"am peppered, I warrant, for this world. A plague o'",MERCUTIO
+1525,3.1.100,"both your houses! 'Zounds, a dog, a rat, a mouse, a",MERCUTIO
+1526,3.1.101,"cat, to scratch a man to death! a braggart, a",MERCUTIO
+1527,3.1.102,"rogue, a villain, that fights by the book of",MERCUTIO
+1528,3.1.103,arithmetic! Why the devil came you between us? I,MERCUTIO
+1529,3.1.104,was hurt under your arm.,MERCUTIO
+1530,3.1.105,I thought all for the best.,ROMEO
+1531,3.1.106,"Help me into some house, Benvolio,",MERCUTIO
+1532,3.1.107,Or I shall faint. A plague o' both your houses!,MERCUTIO
+1533,3.1.108,"They have made worms' meat of me: I have it,",MERCUTIO
+1534,3.1.109,And soundly too: your houses!,MERCUTIO
+1535,3.1.110,"This gentleman, the prince's near ally,",ROMEO
+1536,3.1.111,"My very friend, hath got his mortal hurt",ROMEO
+1537,3.1.112,In my behalf; my reputation stain'd,ROMEO
+1538,3.1.113,"With Tybalt's slander,--Tybalt, that an hour",ROMEO
+1539,3.1.114,"Hath been my kinsman! O sweet Juliet,",ROMEO
+1540,3.1.115,Thy beauty hath made me effeminate,ROMEO
+1541,3.1.116,And in my temper soften'd valour's steel!,ROMEO
+1542,3.1.117,"O Romeo, Romeo, brave Mercutio's dead!",BENVOLIO
+1543,3.1.118,"That gallant spirit hath aspired the clouds,",BENVOLIO
+1544,3.1.119,Which too untimely here did scorn the earth.,BENVOLIO
+1545,3.1.120,This day's black fate on more days doth depend;,ROMEO
+1546,3.1.121,"This but begins the woe, others must end.",ROMEO
+1547,3.1.122,Here comes the furious Tybalt back again.,BENVOLIO
+1548,3.1.123,"Alive, in triumph! and Mercutio slain!",ROMEO
+1549,3.1.124,"Away to heaven, respective lenity,",ROMEO
+1550,3.1.125,And fire-eyed fury be my conduct now!,ROMEO
+1551,3.1.126,"Now, Tybalt, take the villain back again,",ROMEO
+1552,3.1.127,That late thou gavest me; for Mercutio's soul,ROMEO
+1553,3.1.128,"Is but a little way above our heads,",ROMEO
+1554,3.1.129,Staying for thine to keep him company:,ROMEO
+1555,3.1.130,"Either thou, or I, or both, must go with him.",ROMEO
+1556,3.1.131,"Thou, wretched boy, that didst consort him here,",TYBALT
+1557,3.1.132,Shalt with him hence.,TYBALT
+1558,3.1.133,This shall determine that.,ROMEO
+1559,3.1.134,"Romeo, away, be gone!",BENVOLIO
+1560,3.1.135,"The citizens are up, and Tybalt slain.",BENVOLIO
+1561,3.1.136,"Stand not amazed: the prince will doom thee death,",BENVOLIO
+1562,3.1.137,"If thou art taken: hence, be gone, away!",BENVOLIO
+1563,3.1.138,"O, I am fortune's fool!",ROMEO
+1564,3.1.139,Why dost thou stay?,BENVOLIO
+1565,3.1.140,Which way ran he that kill'd Mercutio?,First Citizen
+1566,3.1.141,"Tybalt, that murderer, which way ran he?",First Citizen
+1567,3.1.142,There lies that Tybalt.,BENVOLIO
+1568,3.1.143,"Up, sir, go with me;",First Citizen
+1569,3.1.144,"I charge thee in the princes name, obey.",First Citizen
+1570,3.1.145,Where are the vile beginners of this fray?,PRINCE
+1571,3.1.146,"O noble prince, I can discover all",BENVOLIO
+1572,3.1.147,The unlucky manage of this fatal brawl:,BENVOLIO
+1573,3.1.148,"There lies the man, slain by young Romeo,",BENVOLIO
+1574,3.1.149,"That slew thy kinsman, brave Mercutio.",BENVOLIO
+1575,3.1.150,"Tybalt, my cousin! O my brother's child!",LADY CAPULET
+1576,3.1.151,"O prince! O cousin! husband! O, the blood is spilt",LADY CAPULET
+1577,3.1.152,"O my dear kinsman! Prince, as thou art true,",LADY CAPULET
+1578,3.1.153,"For blood of ours, shed blood of Montague.",LADY CAPULET
+1579,3.1.154,"O cousin, cousin!",LADY CAPULET
+1580,3.1.155,"Benvolio, who began this bloody fray?",PRINCE
+1581,3.1.156,"Tybalt, here slain, whom Romeo's hand did slay;",BENVOLIO
+1582,3.1.157,"Romeo that spoke him fair, bade him bethink",BENVOLIO
+1583,3.1.158,"How nice the quarrel was, and urged withal",BENVOLIO
+1584,3.1.159,Your high displeasure: all this uttered,BENVOLIO
+1585,3.1.160,"With gentle breath, calm look, knees humbly bow'd,",BENVOLIO
+1586,3.1.161,Could not take truce with the unruly spleen,BENVOLIO
+1587,3.1.162,"Of Tybalt deaf to peace, but that he tilts",BENVOLIO
+1588,3.1.163,"With piercing steel at bold Mercutio's breast,",BENVOLIO
+1589,3.1.164,"Who all as hot, turns deadly point to point,",BENVOLIO
+1590,3.1.165,"And, with a martial scorn, with one hand beats",BENVOLIO
+1591,3.1.166,"Cold death aside, and with the other sends",BENVOLIO
+1592,3.1.167,"It back to Tybalt, whose dexterity,",BENVOLIO
+1593,3.1.168,"Retorts it: Romeo he cries aloud,",BENVOLIO
+1594,3.1.169,"'Hold, friends! friends, part!' and, swifter than",BENVOLIO
+1595,3.1.170,"his tongue,",BENVOLIO
+1596,3.1.171,"His agile arm beats down their fatal points,",BENVOLIO
+1597,3.1.172,And 'twixt them rushes; underneath whose arm,BENVOLIO
+1598,3.1.173,An envious thrust from Tybalt hit the life,BENVOLIO
+1599,3.1.174,"Of stout Mercutio, and then Tybalt fled;",BENVOLIO
+1600,3.1.175,"But by and by comes back to Romeo,",BENVOLIO
+1601,3.1.176,"Who had but newly entertain'd revenge,",BENVOLIO
+1602,3.1.177,"And to 't they go like lightning, for, ere I",BENVOLIO
+1603,3.1.178,"Could draw to part them, was stout Tybalt slain.",BENVOLIO
+1604,3.1.179,"And, as he fell, did Romeo turn and fly.",BENVOLIO
+1605,3.1.180,"This is the truth, or let Benvolio die.",BENVOLIO
+1606,3.1.181,He is a kinsman to the Montague;,LADY CAPULET
+1607,3.1.182,Affection makes him false; he speaks not true:,LADY CAPULET
+1608,3.1.183,"Some twenty of them fought in this black strife,",LADY CAPULET
+1609,3.1.184,And all those twenty could but kill one life.,LADY CAPULET
+1610,3.1.185,"I beg for justice, which thou, prince, must give;",LADY CAPULET
+1611,3.1.186,"Romeo slew Tybalt, Romeo must not live.",LADY CAPULET
+1612,3.1.187,"Romeo slew him, he slew Mercutio;",PRINCE
+1613,3.1.188,Who now the price of his dear blood doth owe?,PRINCE
+1614,3.1.189,"Not Romeo, prince, he was Mercutio's friend;",MONTAGUE
+1615,3.1.190,"His fault concludes but what the law should end,",MONTAGUE
+1616,3.1.191,The life of Tybalt.,MONTAGUE
+1617,3.1.192,And for that offence,PRINCE
+1618,3.1.193,Immediately we do exile him hence:,PRINCE
+1619,3.1.194,"I have an interest in your hate's proceeding,",PRINCE
+1620,3.1.195,My blood for your rude brawls doth lie a-bleeding;,PRINCE
+1621,3.1.196,But I'll amerce you with so strong a fine,PRINCE
+1622,3.1.197,That you shall all repent the loss of mine:,PRINCE
+1623,3.1.198,I will be deaf to pleading and excuses;,PRINCE
+1624,3.1.199,Nor tears nor prayers shall purchase out abuses:,PRINCE
+1625,3.1.200,"Therefore use none: let Romeo hence in haste,",PRINCE
+1626,3.1.201,"Else, when he's found, that hour is his last.",PRINCE
+1627,3.1.202,Bear hence this body and attend our will:,PRINCE
+1628,3.1.203,"Mercy but murders, pardoning those that kill.",PRINCE
+1629,3.2.1,"Gallop apace, you fiery-footed steeds,",JULIET
+1630,3.2.2,Towards Phoebus' lodging: such a wagoner,JULIET
+1631,3.2.3,"As Phaethon would whip you to the west,",JULIET
+1632,3.2.4,And bring in cloudy night immediately.,JULIET
+1633,3.2.5,"Spread thy close curtain, love-performing night,",JULIET
+1634,3.2.6,That runaway's eyes may wink and Romeo,JULIET
+1635,3.2.7,"Leap to these arms, untalk'd of and unseen.",JULIET
+1636,3.2.8,Lovers can see to do their amorous rites,JULIET
+1637,3.2.9,"By their own beauties; or, if love be blind,",JULIET
+1638,3.2.10,"It best agrees with night. Come, civil night,",JULIET
+1639,3.2.11,"Thou sober-suited matron, all in black,",JULIET
+1640,3.2.12,"And learn me how to lose a winning match,",JULIET
+1641,3.2.13,Play'd for a pair of stainless maidenhoods:,JULIET
+1642,3.2.14,"Hood my unmann'd blood, bating in my cheeks,",JULIET
+1643,3.2.15,"With thy black mantle; till strange love, grown bold,",JULIET
+1644,3.2.16,Think true love acted simple modesty.,JULIET
+1645,3.2.17,"Come, night; come, Romeo; come, thou day in night;",JULIET
+1646,3.2.18,For thou wilt lie upon the wings of night,JULIET
+1647,3.2.19,Whiter than new snow on a raven's back.,JULIET
+1648,3.2.20,"Come, gentle night, come, loving, black-brow'd night,",JULIET
+1649,3.2.21,"Give me my Romeo; and, when he shall die,",JULIET
+1650,3.2.22,"Take him and cut him out in little stars,",JULIET
+1651,3.2.23,And he will make the face of heaven so fine,JULIET
+1652,3.2.24,That all the world will be in love with night,JULIET
+1653,3.2.25,And pay no worship to the garish sun.,JULIET
+1654,3.2.26,"O, I have bought the mansion of a love,",JULIET
+1655,3.2.27,"But not possess'd it, and, though I am sold,",JULIET
+1656,3.2.28,Not yet enjoy'd: so tedious is this day,JULIET
+1657,3.2.29,As is the night before some festival,JULIET
+1658,3.2.30,To an impatient child that hath new robes,JULIET
+1659,3.2.31,"And may not wear them. O, here comes my nurse,",JULIET
+1660,3.2.32,And she brings news; and every tongue that speaks,JULIET
+1661,3.2.33,But Romeo's name speaks heavenly eloquence.,JULIET
+1662,3.2.34,"Now, nurse, what news? What hast thou there? the cords",JULIET
+1663,3.2.35,That Romeo bid thee fetch?,JULIET
+1664,3.2.36,"Ay, ay, the cords.",Nurse
+1665,3.2.37,Ay me! what news? why dost thou wring thy hands?,JULIET
+1666,3.2.38,"Ah, well-a-day! he's dead, he's dead, he's dead!",Nurse
+1667,3.2.39,"We are undone, lady, we are undone!",Nurse
+1668,3.2.40,"Alack the day! he's gone, he's kill'd, he's dead!",Nurse
+1669,3.2.41,Can heaven be so envious?,JULIET
+1670,3.2.42,"Romeo can,",Nurse
+1671,3.2.43,"Though heaven cannot: O Romeo, Romeo!",Nurse
+1672,3.2.44,Who ever would have thought it? Romeo!,Nurse
+1673,3.2.45,"What devil art thou, that dost torment me thus?",JULIET
+1674,3.2.46,This torture should be roar'd in dismal hell.,JULIET
+1675,3.2.47,"Hath Romeo slain himself? say thou but 'I,'",JULIET
+1676,3.2.48,And that bare vowel 'I' shall poison more,JULIET
+1677,3.2.49,Than the death-darting eye of cockatrice:,JULIET
+1678,3.2.50,"I am not I, if there be such an I;",JULIET
+1679,3.2.51,"Or those eyes shut, that make thee answer 'I.'",JULIET
+1680,3.2.52,"If he be slain, say 'I'; or if not, no:",JULIET
+1681,3.2.53,Brief sounds determine of my weal or woe.,JULIET
+1682,3.2.54,"I saw the wound, I saw it with mine eyes,--",Nurse
+1683,3.2.55,God save the mark!--here on his manly breast:,Nurse
+1684,3.2.56,"A piteous corse, a bloody piteous corse;",Nurse
+1685,3.2.57,"Pale, pale as ashes, all bedaub'd in blood,",Nurse
+1686,3.2.58,All in gore-blood; I swounded at the sight.,Nurse
+1687,3.2.59,"O, break, my heart! poor bankrupt, break at once!",JULIET
+1688,3.2.60,"To prison, eyes, ne'er look on liberty!",JULIET
+1689,3.2.61,"Vile earth, to earth resign; end motion here;",JULIET
+1690,3.2.62,And thou and Romeo press one heavy bier!,JULIET
+1691,3.2.63,"O Tybalt, Tybalt, the best friend I had!",Nurse
+1692,3.2.64,O courteous Tybalt! honest gentleman!,Nurse
+1693,3.2.65,That ever I should live to see thee dead!,Nurse
+1694,3.2.66,What storm is this that blows so contrary?,JULIET
+1695,3.2.67,"Is Romeo slaughter'd, and is Tybalt dead?",JULIET
+1696,3.2.68,"My dear-loved cousin, and my dearer lord?",JULIET
+1697,3.2.69,"Then, dreadful trumpet, sound the general doom!",JULIET
+1698,3.2.70,"For who is living, if those two are gone?",JULIET
+1699,3.2.71,"Tybalt is gone, and Romeo banished;",Nurse
+1700,3.2.72,"Romeo that kill'd him, he is banished.",Nurse
+1701,3.2.73,O God! did Romeo's hand shed Tybalt's blood?,JULIET
+1702,3.2.74,"It did, it did; alas the day, it did!",Nurse
+1703,3.2.75,"O serpent heart, hid with a flowering face!",JULIET
+1704,3.2.76,Did ever dragon keep so fair a cave?,JULIET
+1705,3.2.77,Beautiful tyrant! fiend angelical!,JULIET
+1706,3.2.78,Dove-feather'd raven! wolvish-ravening lamb!,JULIET
+1707,3.2.79,Despised substance of divinest show!,JULIET
+1708,3.2.80,"Just opposite to what thou justly seem'st,",JULIET
+1709,3.2.81,"A damned saint, an honourable villain!",JULIET
+1710,3.2.82,"O nature, what hadst thou to do in hell,",JULIET
+1711,3.2.83,When thou didst bower the spirit of a fiend,JULIET
+1712,3.2.84,In moral paradise of such sweet flesh?,JULIET
+1713,3.2.85,Was ever book containing such vile matter,JULIET
+1714,3.2.86,So fairly bound? O that deceit should dwell,JULIET
+1715,3.2.87,In such a gorgeous palace!,JULIET
+1716,3.2.88,"There's no trust,",Nurse
+1717,3.2.89,"No faith, no honesty in men; all perjured,",Nurse
+1718,3.2.90,"All forsworn, all naught, all dissemblers.",Nurse
+1719,3.2.91,"Ah, where's my man? give me some aqua vitae:",Nurse
+1720,3.2.92,"These griefs, these woes, these sorrows make me old.",Nurse
+1721,3.2.93,Shame come to Romeo!,Nurse
+1722,3.2.94,Blister'd be thy tongue,JULIET
+1723,3.2.95,For such a wish! he was not born to shame:,JULIET
+1724,3.2.96,Upon his brow shame is ashamed to sit;,JULIET
+1725,3.2.97,For 'tis a throne where honour may be crown'd,JULIET
+1726,3.2.98,Sole monarch of the universal earth.,JULIET
+1727,3.2.99,"O, what a beast was I to chide at him!",JULIET
+1728,3.2.100,Will you speak well of him that kill'd your cousin?,Nurse
+1729,3.2.101,Shall I speak ill of him that is my husband?,JULIET
+1730,3.2.102,"Ah, poor my lord, what tongue shall smooth thy name,",JULIET
+1731,3.2.103,"When I, thy three-hours wife, have mangled it?",JULIET
+1732,3.2.104,"But, wherefore, villain, didst thou kill my cousin?",JULIET
+1733,3.2.105,That villain cousin would have kill'd my husband:,JULIET
+1734,3.2.106,"Back, foolish tears, back to your native spring;",JULIET
+1735,3.2.107,"Your tributary drops belong to woe,",JULIET
+1736,3.2.108,"Which you, mistaking, offer up to joy.",JULIET
+1737,3.2.109,"My husband lives, that Tybalt would have slain;",JULIET
+1738,3.2.110,"And Tybalt's dead, that would have slain my husband:",JULIET
+1739,3.2.111,All this is comfort; wherefore weep I then?,JULIET
+1740,3.2.112,"Some word there was, worser than Tybalt's death,",JULIET
+1741,3.2.113,That murder'd me: I would forget it fain;,JULIET
+1742,3.2.114,"But, O, it presses to my memory,",JULIET
+1743,3.2.115,Like damned guilty deeds to sinners' minds:,JULIET
+1744,3.2.116,"'Tybalt is dead, and Romeo--banished;'",JULIET
+1745,3.2.117,"That 'banished,' that one word 'banished,'",JULIET
+1746,3.2.118,Hath slain ten thousand Tybalts. Tybalt's death,JULIET
+1747,3.2.119,"Was woe enough, if it had ended there:",JULIET
+1748,3.2.120,"Or, if sour woe delights in fellowship",JULIET
+1749,3.2.121,"And needly will be rank'd with other griefs,",JULIET
+1750,3.2.122,"Why follow'd not, when she said 'Tybalt's dead,'",JULIET
+1751,3.2.123,"Thy father, or thy mother, nay, or both,",JULIET
+1752,3.2.124,Which modern lamentations might have moved?,JULIET
+1753,3.2.125,"But with a rear-ward following Tybalt's death,",JULIET
+1754,3.2.126,"'Romeo is banished,' to speak that word,",JULIET
+1755,3.2.127,"Is father, mother, Tybalt, Romeo, Juliet,",JULIET
+1756,3.2.128,"All slain, all dead. 'Romeo is banished!'",JULIET
+1757,3.2.129,"There is no end, no limit, measure, bound,",JULIET
+1758,3.2.130,In that word's death; no words can that woe sound.,JULIET
+1759,3.2.131,"Where is my father, and my mother, nurse?",JULIET
+1760,3.2.132,Weeping and wailing over Tybalt's corse:,Nurse
+1761,3.2.133,Will you go to them? I will bring you thither.,Nurse
+1762,3.2.134,"Wash they his wounds with tears: mine shall be spent,",JULIET
+1763,3.2.135,"When theirs are dry, for Romeo's banishment.",JULIET
+1764,3.2.136,"Take up those cords: poor ropes, you are beguiled,",JULIET
+1765,3.2.137,Both you and I; for Romeo is exiled:,JULIET
+1766,3.2.138,He made you for a highway to my bed;,JULIET
+1767,3.2.139,"But I, a maid, die maiden-widowed.",JULIET
+1768,3.2.140,"Come, cords, come, nurse; I'll to my wedding-bed;",JULIET
+1769,3.2.141,"And death, not Romeo, take my maidenhead!",JULIET
+1770,3.2.142,Hie to your chamber: I'll find Romeo,Nurse
+1771,3.2.143,To comfort you: I wot well where he is.,Nurse
+1772,3.2.144,"Hark ye, your Romeo will be here at night:",Nurse
+1773,3.2.145,I'll to him; he is hid at Laurence' cell.,Nurse
+1774,3.2.146,"O, find him! give this ring to my true knight,",JULIET
+1775,3.2.147,And bid him come to take his last farewell.,JULIET
+1776,3.3.1,"Romeo, come forth; come forth, thou fearful man:",FRIAR LAURENCE
+1777,3.3.2,"Affliction is enamour'd of thy parts,",FRIAR LAURENCE
+1778,3.3.3,And thou art wedded to calamity.,FRIAR LAURENCE
+1779,3.3.4,"Father, what news? what is the prince's doom?",ROMEO
+1780,3.3.5,"What sorrow craves acquaintance at my hand,",ROMEO
+1781,3.3.6,That I yet know not?,ROMEO
+1782,3.3.7,Too familiar,FRIAR LAURENCE
+1783,3.3.8,Is my dear son with such sour company:,FRIAR LAURENCE
+1784,3.3.9,I bring thee tidings of the prince's doom.,FRIAR LAURENCE
+1785,3.3.10,What less than dooms-day is the prince's doom?,ROMEO
+1786,3.3.11,"A gentler judgment vanish'd from his lips,",FRIAR LAURENCE
+1787,3.3.12,"Not body's death, but body's banishment.",FRIAR LAURENCE
+1788,3.3.13,"Ha, banishment! be merciful, say 'death;'",ROMEO
+1789,3.3.14,"For exile hath more terror in his look,",ROMEO
+1790,3.3.15,Much more than death: do not say 'banishment.',ROMEO
+1791,3.3.16,Hence from Verona art thou banished:,FRIAR LAURENCE
+1792,3.3.17,"Be patient, for the world is broad and wide.",FRIAR LAURENCE
+1793,3.3.18,"There is no world without Verona walls,",ROMEO
+1794,3.3.19,"But purgatory, torture, hell itself.",ROMEO
+1795,3.3.20,"Hence-banished is banish'd from the world,",ROMEO
+1796,3.3.21,"And world's exile is death: then banished,",ROMEO
+1797,3.3.22,"Is death mis-term'd: calling death banishment,",ROMEO
+1798,3.3.23,"Thou cutt'st my head off with a golden axe,",ROMEO
+1799,3.3.24,And smilest upon the stroke that murders me.,ROMEO
+1800,3.3.25,O deadly sin! O rude unthankfulness!,FRIAR LAURENCE
+1801,3.3.26,"Thy fault our law calls death; but the kind prince,",FRIAR LAURENCE
+1802,3.3.27,"Taking thy part, hath rush'd aside the law,",FRIAR LAURENCE
+1803,3.3.28,And turn'd that black word death to banishment:,FRIAR LAURENCE
+1804,3.3.29,"This is dear mercy, and thou seest it not.",FRIAR LAURENCE
+1805,3.3.30,"'Tis torture, and not mercy: heaven is here,",ROMEO
+1806,3.3.31,Where Juliet lives; and every cat and dog,ROMEO
+1807,3.3.32,"And little mouse, every unworthy thing,",ROMEO
+1808,3.3.33,Live here in heaven and may look on her;,ROMEO
+1809,3.3.34,"But Romeo may not: more validity,",ROMEO
+1810,3.3.35,"More honourable state, more courtship lives",ROMEO
+1811,3.3.36,In carrion-flies than Romeo: they my seize,ROMEO
+1812,3.3.37,On the white wonder of dear Juliet's hand,ROMEO
+1813,3.3.38,"And steal immortal blessing from her lips,",ROMEO
+1814,3.3.39,"Who even in pure and vestal modesty,",ROMEO
+1815,3.3.40,"Still blush, as thinking their own kisses sin;",ROMEO
+1816,3.3.41,But Romeo may not; he is banished:,ROMEO
+1817,3.3.42,"Flies may do this, but I from this must fly:",ROMEO
+1818,3.3.43,"They are free men, but I am banished.",ROMEO
+1819,3.3.44,And say'st thou yet that exile is not death?,ROMEO
+1820,3.3.45,"Hadst thou no poison mix'd, no sharp-ground knife,",ROMEO
+1821,3.3.46,"No sudden mean of death, though ne'er so mean,",ROMEO
+1822,3.3.47,But 'banished' to kill me?--'banished'?,ROMEO
+1823,3.3.48,"O friar, the damned use that word in hell;",ROMEO
+1824,3.3.49,"Howlings attend it: how hast thou the heart,",ROMEO
+1825,3.3.50,"Being a divine, a ghostly confessor,",ROMEO
+1826,3.3.51,"A sin-absolver, and my friend profess'd,",ROMEO
+1827,3.3.52,To mangle me with that word 'banished'?,ROMEO
+1828,3.3.53,"Thou fond mad man, hear me but speak a word.",FRIAR LAURENCE
+1829,3.3.54,"O, thou wilt speak again of banishment.",ROMEO
+1830,3.3.55,I'll give thee armour to keep off that word:,FRIAR LAURENCE
+1831,3.3.56,"Adversity's sweet milk, philosophy,",FRIAR LAURENCE
+1832,3.3.57,"To comfort thee, though thou art banished.",FRIAR LAURENCE
+1833,3.3.58,Yet 'banished'? Hang up philosophy!,ROMEO
+1834,3.3.59,"Unless philosophy can make a Juliet,",ROMEO
+1835,3.3.60,"Displant a town, reverse a prince's doom,",ROMEO
+1836,3.3.61,"It helps not, it prevails not: talk no more.",ROMEO
+1837,3.3.62,"O, then I see that madmen have no ears.",FRIAR LAURENCE
+1838,3.3.63,"How should they, when that wise men have no eyes?",ROMEO
+1839,3.3.64,Let me dispute with thee of thy estate.,FRIAR LAURENCE
+1840,3.3.65,Thou canst not speak of that thou dost not feel:,ROMEO
+1841,3.3.66,"Wert thou as young as I, Juliet thy love,",ROMEO
+1842,3.3.67,"An hour but married, Tybalt murdered,",ROMEO
+1843,3.3.68,"Doting like me and like me banished,",ROMEO
+1844,3.3.69,"Then mightst thou speak, then mightst thou tear thy hair,",ROMEO
+1845,3.3.70,"And fall upon the ground, as I do now,",ROMEO
+1846,3.3.71,Taking the measure of an unmade grave.,ROMEO
+1847,3.3.72,"Arise; one knocks; good Romeo, hide thyself.",FRIAR LAURENCE
+1848,3.3.73,"Not I; unless the breath of heartsick groans,",ROMEO
+1849,3.3.74,"Mist-like, infold me from the search of eyes.",ROMEO
+1850,3.3.75,"Hark, how they knock! Who's there? Romeo, arise;",FRIAR LAURENCE
+1851,3.3.76,Thou wilt be taken. Stay awhile! Stand up;,FRIAR LAURENCE
+1852,3.3.77,"Run to my study. By and by! God's will,",FRIAR LAURENCE
+1853,3.3.78,"What simpleness is this! I come, I come!",FRIAR LAURENCE
+1854,3.3.79,Who knocks so hard? whence come you? what's your will?,FRIAR LAURENCE
+1855,3.3.80,"[Within]  Let me come in, and you shall know",Nurse
+1856,3.3.81,my errand;,Nurse
+1857,3.3.82,I come from Lady Juliet.,Nurse
+1858,3.3.83,"Welcome, then.",FRIAR LAURENCE
+1859,3.3.84,"O holy friar, O, tell me, holy friar,",Nurse
+1860,3.3.85,"Where is my lady's lord, where's Romeo?",Nurse
+1861,3.3.86,"There on the ground, with his own tears made drunk.",FRIAR LAURENCE
+1862,3.3.87,"O, he is even in my mistress' case,",Nurse
+1863,3.3.88,Just in her case! O woful sympathy!,Nurse
+1864,3.3.89,"Piteous predicament! Even so lies she,",Nurse
+1865,3.3.90,"Blubbering and weeping, weeping and blubbering.",Nurse
+1866,3.3.91,"Stand up, stand up; stand, and you be a man:",Nurse
+1867,3.3.92,"For Juliet's sake, for her sake, rise and stand;",Nurse
+1868,3.3.93,Why should you fall into so deep an O?,Nurse
+1869,3.3.94,Nurse!,ROMEO
+1870,3.3.95,"Ah sir! ah sir! Well, death's the end of all.",Nurse
+1871,3.3.96,Spakest thou of Juliet? how is it with her?,ROMEO
+1872,3.3.97,"Doth she not think me an old murderer,",ROMEO
+1873,3.3.98,Now I have stain'd the childhood of our joy,ROMEO
+1874,3.3.99,With blood removed but little from her own?,ROMEO
+1875,3.3.100,Where is she? and how doth she? and what says,ROMEO
+1876,3.3.101,My conceal'd lady to our cancell'd love?,ROMEO
+1877,3.3.102,"O, she says nothing, sir, but weeps and weeps;",Nurse
+1878,3.3.103,"And now falls on her bed; and then starts up,",Nurse
+1879,3.3.104,"And Tybalt calls; and then on Romeo cries,",Nurse
+1880,3.3.105,And then down falls again.,Nurse
+1881,3.3.106,"As if that name,",ROMEO
+1882,3.3.107,"Shot from the deadly level of a gun,",ROMEO
+1883,3.3.108,Did murder her; as that name's cursed hand,ROMEO
+1884,3.3.109,"Murder'd her kinsman. O, tell me, friar, tell me,",ROMEO
+1885,3.3.110,In what vile part of this anatomy,ROMEO
+1886,3.3.111,"Doth my name lodge? tell me, that I may sack",ROMEO
+1887,3.3.112,The hateful mansion.,ROMEO
+1888,3.3.113,Hold thy desperate hand:,FRIAR LAURENCE
+1889,3.3.114,Art thou a man? thy form cries out thou art:,FRIAR LAURENCE
+1890,3.3.115,Thy tears are womanish; thy wild acts denote,FRIAR LAURENCE
+1891,3.3.116,The unreasonable fury of a beast:,FRIAR LAURENCE
+1892,3.3.117,Unseemly woman in a seeming man!,FRIAR LAURENCE
+1893,3.3.118,Or ill-beseeming beast in seeming both!,FRIAR LAURENCE
+1894,3.3.119,"Thou hast amazed me: by my holy order,",FRIAR LAURENCE
+1895,3.3.120,I thought thy disposition better temper'd.,FRIAR LAURENCE
+1896,3.3.121,Hast thou slain Tybalt? wilt thou slay thyself?,FRIAR LAURENCE
+1897,3.3.122,"And stay thy lady too that lives in thee,",FRIAR LAURENCE
+1898,3.3.123,By doing damned hate upon thyself?,FRIAR LAURENCE
+1899,3.3.124,"Why rail'st thou on thy birth, the heaven, and earth?",FRIAR LAURENCE
+1900,3.3.125,"Since birth, and heaven, and earth, all three do meet",FRIAR LAURENCE
+1901,3.3.126,In thee at once; which thou at once wouldst lose.,FRIAR LAURENCE
+1902,3.3.127,"Fie, fie, thou shamest thy shape, thy love, thy wit;",FRIAR LAURENCE
+1903,3.3.128,"Which, like a usurer, abound'st in all,",FRIAR LAURENCE
+1904,3.3.129,And usest none in that true use indeed,FRIAR LAURENCE
+1905,3.3.130,"Which should bedeck thy shape, thy love, thy wit:",FRIAR LAURENCE
+1906,3.3.131,"Thy noble shape is but a form of wax,",FRIAR LAURENCE
+1907,3.3.132,Digressing from the valour of a man;,FRIAR LAURENCE
+1908,3.3.133,"Thy dear love sworn but hollow perjury,",FRIAR LAURENCE
+1909,3.3.134,Killing that love which thou hast vow'd to cherish;,FRIAR LAURENCE
+1910,3.3.135,"Thy wit, that ornament to shape and love,",FRIAR LAURENCE
+1911,3.3.136,"Misshapen in the conduct of them both,",FRIAR LAURENCE
+1912,3.3.137,"Like powder in a skitless soldier's flask,",FRIAR LAURENCE
+1913,3.3.138,"Is set afire by thine own ignorance,",FRIAR LAURENCE
+1914,3.3.139,And thou dismember'd with thine own defence.,FRIAR LAURENCE
+1915,3.3.140,"What, rouse thee, man! thy Juliet is alive,",FRIAR LAURENCE
+1916,3.3.141,For whose dear sake thou wast but lately dead;,FRIAR LAURENCE
+1917,3.3.142,"There art thou happy: Tybalt would kill thee,",FRIAR LAURENCE
+1918,3.3.143,But thou slew'st Tybalt; there are thou happy too:,FRIAR LAURENCE
+1919,3.3.144,The law that threaten'd death becomes thy friend,FRIAR LAURENCE
+1920,3.3.145,And turns it to exile; there art thou happy:,FRIAR LAURENCE
+1921,3.3.146,A pack of blessings lights up upon thy back;,FRIAR LAURENCE
+1922,3.3.147,Happiness courts thee in her best array;,FRIAR LAURENCE
+1923,3.3.148,"But, like a misbehaved and sullen wench,",FRIAR LAURENCE
+1924,3.3.149,Thou pout'st upon thy fortune and thy love:,FRIAR LAURENCE
+1925,3.3.150,"Take heed, take heed, for such die miserable.",FRIAR LAURENCE
+1926,3.3.151,"Go, get thee to thy love, as was decreed,",FRIAR LAURENCE
+1927,3.3.152,"Ascend her chamber, hence and comfort her:",FRIAR LAURENCE
+1928,3.3.153,"But look thou stay not till the watch be set,",FRIAR LAURENCE
+1929,3.3.154,For then thou canst not pass to Mantua;,FRIAR LAURENCE
+1930,3.3.155,"Where thou shalt live, till we can find a time",FRIAR LAURENCE
+1931,3.3.156,"To blaze your marriage, reconcile your friends,",FRIAR LAURENCE
+1932,3.3.157,"Beg pardon of the prince, and call thee back",FRIAR LAURENCE
+1933,3.3.158,With twenty hundred thousand times more joy,FRIAR LAURENCE
+1934,3.3.159,Than thou went'st forth in lamentation.,FRIAR LAURENCE
+1935,3.3.160,"Go before, nurse: commend me to thy lady;",FRIAR LAURENCE
+1936,3.3.161,"And bid her hasten all the house to bed,",FRIAR LAURENCE
+1937,3.3.162,Which heavy sorrow makes them apt unto:,FRIAR LAURENCE
+1938,3.3.163,Romeo is coming.,FRIAR LAURENCE
+1939,3.3.164,"O Lord, I could have stay'd here all the night",Nurse
+1940,3.3.165,"To hear good counsel: O, what learning is!",Nurse
+1941,3.3.166,"My lord, I'll tell my lady you will come.",Nurse
+1942,3.3.167,"Do so, and bid my sweet prepare to chide.",ROMEO
+1943,3.3.168,"Here, sir, a ring she bid me give you, sir:",Nurse
+1944,3.3.169,"Hie you, make haste, for it grows very late.",Nurse
+1945,3.3.170,How well my comfort is revived by this!,ROMEO
+1946,3.3.171,Go hence; good night; and here stands all your state:,FRIAR LAURENCE
+1947,3.3.172,"Either be gone before the watch be set,",FRIAR LAURENCE
+1948,3.3.173,Or by the break of day disguised from hence:,FRIAR LAURENCE
+1949,3.3.174,"Sojourn in Mantua; I'll find out your man,",FRIAR LAURENCE
+1950,3.3.175,And he shall signify from time to time,FRIAR LAURENCE
+1951,3.3.176,Every good hap to you that chances here:,FRIAR LAURENCE
+1952,3.3.177,Give me thy hand; 'tis late: farewell; good night.,FRIAR LAURENCE
+1953,3.3.178,"But that a joy past joy calls out on me,",ROMEO
+1954,3.3.179,"It were a grief, so brief to part with thee: Farewell.",ROMEO
+1955,3.4.1,"Things have fall'n out, sir, so unluckily,",CAPULET
+1956,3.4.2,That we have had no time to move our daughter:,CAPULET
+1957,3.4.3,"Look you, she loved her kinsman Tybalt dearly,",CAPULET
+1958,3.4.4,"And so did I:--Well, we were born to die.",CAPULET
+1959,3.4.5,"'Tis very late, she'll not come down to-night:",CAPULET
+1960,3.4.6,"I promise you, but for your company,",CAPULET
+1961,3.4.7,I would have been a-bed an hour ago.,CAPULET
+1962,3.4.8,These times of woe afford no time to woo.,PARIS
+1963,3.4.9,"Madam, good night: commend me to your daughter.",PARIS
+1964,3.4.10,"I will, and know her mind early to-morrow;",LADY CAPULET
+1965,3.4.11,To-night she is mew'd up to her heaviness.,LADY CAPULET
+1966,3.4.12,"Sir Paris, I will make a desperate tender",CAPULET
+1967,3.4.13,Of my child's love: I think she will be ruled,CAPULET
+1968,3.4.14,"In all respects by me; nay, more, I doubt it not.",CAPULET
+1969,3.4.15,"Wife, go you to her ere you go to bed;",CAPULET
+1970,3.4.16,Acquaint her here of my son Paris' love;,CAPULET
+1971,3.4.17,"And bid her, mark you me, on Wednesday next--",CAPULET
+1972,3.4.18,"But, soft! what day is this?",CAPULET
+1973,3.4.19,"Monday, my lord,",PARIS
+1974,3.4.20,"Monday! ha, ha! Well, Wednesday is too soon,",CAPULET
+1975,3.4.21,"O' Thursday let it be: o' Thursday, tell her,",CAPULET
+1976,3.4.22,She shall be married to this noble earl.,CAPULET
+1977,3.4.23,Will you be ready? do you like this haste?,CAPULET
+1978,3.4.24,"We'll keep no great ado,--a friend or two;",CAPULET
+1979,3.4.25,"For, hark you, Tybalt being slain so late,",CAPULET
+1980,3.4.26,"It may be thought we held him carelessly,",CAPULET
+1981,3.4.27,"Being our kinsman, if we revel much:",CAPULET
+1982,3.4.28,"Therefore we'll have some half a dozen friends,",CAPULET
+1983,3.4.29,And there an end. But what say you to Thursday?,CAPULET
+1984,3.4.30,"My lord, I would that Thursday were to-morrow.",PARIS
+1985,3.4.31,"Well get you gone: o' Thursday be it, then.",CAPULET
+1986,3.4.32,"Go you to Juliet ere you go to bed,",CAPULET
+1987,3.4.33,"Prepare her, wife, against this wedding-day.",CAPULET
+1988,3.4.34,"Farewell, my lord. Light to my chamber, ho!",CAPULET
+1989,3.4.35,"Afore me! it is so very very late,",CAPULET
+1990,3.4.36,That we may call it early by and by.,CAPULET
+1991,3.4.37,Good night.,CAPULET
+1992,3.5.1,Wilt thou be gone? it is not yet near day:,JULIET
+1993,3.5.2,"It was the nightingale, and not the lark,",JULIET
+1994,3.5.3,That pierced the fearful hollow of thine ear;,JULIET
+1995,3.5.4,Nightly she sings on yon pomegranate-tree:,JULIET
+1996,3.5.5,"Believe me, love, it was the nightingale.",JULIET
+1997,3.5.6,"It was the lark, the herald of the morn,",ROMEO
+1998,3.5.7,"No nightingale: look, love, what envious streaks",ROMEO
+1999,3.5.8,Do lace the severing clouds in yonder east:,ROMEO
+2000,3.5.9,"Night's candles are burnt out, and jocund day",ROMEO
+2001,3.5.10,Stands tiptoe on the misty mountain tops.,ROMEO
+2002,3.5.11,"I must be gone and live, or stay and die.",ROMEO
+2003,3.5.12,"Yon light is not day-light, I know it, I:",JULIET
+2004,3.5.13,"It is some meteor that the sun exhales,",JULIET
+2005,3.5.14,"To be to thee this night a torch-bearer,",JULIET
+2006,3.5.15,And light thee on thy way to Mantua:,JULIET
+2007,3.5.16,Therefore stay yet; thou need'st not to be gone.,JULIET
+2008,3.5.17,"Let me be ta'en, let me be put to death;",ROMEO
+2009,3.5.18,"I am content, so thou wilt have it so.",ROMEO
+2010,3.5.19,"I'll say yon grey is not the morning's eye,",ROMEO
+2011,3.5.20,'Tis but the pale reflex of Cynthia's brow;,ROMEO
+2012,3.5.21,"Nor that is not the lark, whose notes do beat",ROMEO
+2013,3.5.22,The vaulty heaven so high above our heads:,ROMEO
+2014,3.5.23,I have more care to stay than will to go:,ROMEO
+2015,3.5.24,"Come, death, and welcome! Juliet wills it so.",ROMEO
+2016,3.5.25,"How is't, my soul? let's talk; it is not day.",ROMEO
+2017,3.5.26,"It is, it is: hie hence, be gone, away!",JULIET
+2018,3.5.27,"It is the lark that sings so out of tune,",JULIET
+2019,3.5.28,Straining harsh discords and unpleasing sharps.,JULIET
+2020,3.5.29,Some say the lark makes sweet division;,JULIET
+2021,3.5.30,"This doth not so, for she divideth us:",JULIET
+2022,3.5.31,"Some say the lark and loathed toad change eyes,",JULIET
+2023,3.5.32,"O, now I would they had changed voices too!",JULIET
+2024,3.5.33,"Since arm from arm that voice doth us affray,",JULIET
+2025,3.5.34,"Hunting thee hence with hunt's-up to the day,",JULIET
+2026,3.5.35,"O, now be gone; more light and light it grows.",JULIET
+2027,3.5.36,More light and light; more dark and dark our woes!,ROMEO
+2028,3.5.37,Madam!,Nurse
+2029,3.5.38,Nurse?,JULIET
+2030,3.5.39,Your lady mother is coming to your chamber:,Nurse
+2031,3.5.40,"The day is broke; be wary, look about.",Nurse
+2032,3.5.41,"Then, window, let day in, and let life out.",JULIET
+2033,3.5.42,"Farewell, farewell! one kiss, and I'll descend.",ROMEO
+2034,3.5.43,"Art thou gone so? love, lord, ay, husband, friend!",JULIET
+2035,3.5.44,"I must hear from thee every day in the hour,",JULIET
+2036,3.5.45,For in a minute there are many days:,JULIET
+2037,3.5.46,"O, by this count I shall be much in years",JULIET
+2038,3.5.47,Ere I again behold my Romeo!,JULIET
+2039,3.5.48,Farewell!,ROMEO
+2040,3.5.49,I will omit no opportunity,ROMEO
+2041,3.5.50,"That may convey my greetings, love, to thee.",ROMEO
+2042,3.5.51,O think'st thou we shall ever meet again?,JULIET
+2043,3.5.52,I doubt it not; and all these woes shall serve,ROMEO
+2044,3.5.53,For sweet discourses in our time to come.,ROMEO
+2045,3.5.54,"O God, I have an ill-divining soul!",JULIET
+2046,3.5.55,"Methinks I see thee, now thou art below,",JULIET
+2047,3.5.56,As one dead in the bottom of a tomb:,JULIET
+2048,3.5.57,"Either my eyesight fails, or thou look'st pale.",JULIET
+2049,3.5.58,"And trust me, love, in my eye so do you:",ROMEO
+2050,3.5.59,"Dry sorrow drinks our blood. Adieu, adieu!",ROMEO
+2051,3.5.60,"O fortune, fortune! all men call thee fickle:",JULIET
+2052,3.5.61,"If thou art fickle, what dost thou with him.",JULIET
+2053,3.5.62,"That is renown'd for faith? Be fickle, fortune;",JULIET
+2054,3.5.63,"For then, I hope, thou wilt not keep him long,",JULIET
+2055,3.5.64,But send him back.,JULIET
+2056,3.5.65,"[Within]         Ho, daughter! are you up?",LADY CAPULET
+2057,3.5.66,Who is't that calls? is it my lady mother?,JULIET
+2058,3.5.67,"Is she not down so late, or up so early?",JULIET
+2059,3.5.68,What unaccustom'd cause procures her hither?,JULIET
+2060,3.5.69,"Why, how now, Juliet!",LADY CAPULET
+2061,3.5.70,"Madam, I am not well.",JULIET
+2062,3.5.71,Evermore weeping for your cousin's death?,LADY CAPULET
+2063,3.5.72,"What, wilt thou wash him from his grave with tears?",LADY CAPULET
+2064,3.5.73,"An if thou couldst, thou couldst not make him live;",LADY CAPULET
+2065,3.5.74,"Therefore, have done: some grief shows much of love;",LADY CAPULET
+2066,3.5.75,But much of grief shows still some want of wit.,LADY CAPULET
+2067,3.5.76,Yet let me weep for such a feeling loss.,JULIET
+2068,3.5.77,"So shall you feel the loss, but not the friend",LADY CAPULET
+2069,3.5.78,Which you weep for.,LADY CAPULET
+2070,3.5.79,"Feeling so the loss,",JULIET
+2071,3.5.80,Cannot choose but ever weep the friend.,JULIET
+2072,3.5.81,"Well, girl, thou weep'st not so much for his death,",LADY CAPULET
+2073,3.5.82,As that the villain lives which slaughter'd him.,LADY CAPULET
+2074,3.5.83,What villain madam?,JULIET
+2075,3.5.84,"That same villain, Romeo.",LADY CAPULET
+2076,3.5.85,[Aside]  Villain and he be many miles asunder.--,JULIET
+2077,3.5.86,"God Pardon him! I do, with all my heart;",JULIET
+2078,3.5.87,And yet no man like he doth grieve my heart.,JULIET
+2079,3.5.88,"That is, because the traitor murderer lives.",LADY CAPULET
+2080,3.5.89,"Ay, madam, from the reach of these my hands:",JULIET
+2081,3.5.90,Would none but I might venge my cousin's death!,JULIET
+2082,3.5.91,"We will have vengeance for it, fear thou not:",LADY CAPULET
+2083,3.5.92,"Then weep no more. I'll send to one in Mantua,",LADY CAPULET
+2084,3.5.93,"Where that same banish'd runagate doth live,",LADY CAPULET
+2085,3.5.94,"Shall give him such an unaccustom'd dram,",LADY CAPULET
+2086,3.5.95,That he shall soon keep Tybalt company:,LADY CAPULET
+2087,3.5.96,"And then, I hope, thou wilt be satisfied.",LADY CAPULET
+2088,3.5.97,"Indeed, I never shall be satisfied",JULIET
+2089,3.5.98,"With Romeo, till I behold him--dead--",JULIET
+2090,3.5.99,Is my poor heart for a kinsman vex'd.,JULIET
+2091,3.5.100,"Madam, if you could find out but a man",JULIET
+2092,3.5.101,"To bear a poison, I would temper it;",JULIET
+2093,3.5.102,"That Romeo should, upon receipt thereof,",JULIET
+2094,3.5.103,"Soon sleep in quiet. O, how my heart abhors",JULIET
+2095,3.5.104,"To hear him named, and cannot come to him.",JULIET
+2096,3.5.105,To wreak the love I bore my cousin,JULIET
+2097,3.5.106,Upon his body that slaughter'd him!,JULIET
+2098,3.5.107,"Find thou the means, and I'll find such a man.",LADY CAPULET
+2099,3.5.108,"But now I'll tell thee joyful tidings, girl.",LADY CAPULET
+2100,3.5.109,And joy comes well in such a needy time:,JULIET
+2101,3.5.110,"What are they, I beseech your ladyship?",JULIET
+2102,3.5.111,"Well, well, thou hast a careful father, child;",LADY CAPULET
+2103,3.5.112,"One who, to put thee from thy heaviness,",LADY CAPULET
+2104,3.5.113,"Hath sorted out a sudden day of joy,",LADY CAPULET
+2105,3.5.114,That thou expect'st not nor I look'd not for.,LADY CAPULET
+2106,3.5.115,"Madam, in happy time, what day is that?",JULIET
+2107,3.5.116,"Marry, my child, early next Thursday morn,",LADY CAPULET
+2108,3.5.117,"The gallant, young and noble gentleman,",LADY CAPULET
+2109,3.5.118,"The County Paris, at Saint Peter's Church,",LADY CAPULET
+2110,3.5.119,Shall happily make thee there a joyful bride.,LADY CAPULET
+2111,3.5.120,"Now, by Saint Peter's Church and Peter too,",JULIET
+2112,3.5.121,He shall not make me there a joyful bride.,JULIET
+2113,3.5.122,I wonder at this haste; that I must wed,JULIET
+2114,3.5.123,"Ere he, that should be husband, comes to woo.",JULIET
+2115,3.5.124,"I pray you, tell my lord and father, madam,",JULIET
+2116,3.5.125,"I will not marry yet; and, when I do, I swear,",JULIET
+2117,3.5.126,"It shall be Romeo, whom you know I hate,",JULIET
+2118,3.5.127,Rather than Paris. These are news indeed!,JULIET
+2119,3.5.128,"Here comes your father; tell him so yourself,",LADY CAPULET
+2120,3.5.129,And see how he will take it at your hands.,LADY CAPULET
+2121,3.5.130,"When the sun sets, the air doth drizzle dew;",CAPULET
+2122,3.5.131,But for the sunset of my brother's son,CAPULET
+2123,3.5.132,It rains downright.,CAPULET
+2124,3.5.133,"How now! a conduit, girl? what, still in tears?",CAPULET
+2125,3.5.134,Evermore showering? In one little body,CAPULET
+2126,3.5.135,"Thou counterfeit'st a bark, a sea, a wind;",CAPULET
+2127,3.5.136,"For still thy eyes, which I may call the sea,",CAPULET
+2128,3.5.137,"Do ebb and flow with tears; the bark thy body is,",CAPULET
+2129,3.5.138,"Sailing in this salt flood; the winds, thy sighs;",CAPULET
+2130,3.5.139,"Who, raging with thy tears, and they with them,",CAPULET
+2131,3.5.140,"Without a sudden calm, will overset",CAPULET
+2132,3.5.141,"Thy tempest-tossed body. How now, wife!",CAPULET
+2133,3.5.142,Have you deliver'd to her our decree?,CAPULET
+2134,3.5.143,"Ay, sir; but she will none, she gives you thanks.",LADY CAPULET
+2135,3.5.144,I would the fool were married to her grave!,LADY CAPULET
+2136,3.5.145,"Soft! take me with you, take me with you, wife.",CAPULET
+2137,3.5.146,How! will she none? doth she not give us thanks?,CAPULET
+2138,3.5.147,"Is she not proud? doth she not count her blest,",CAPULET
+2139,3.5.148,"Unworthy as she is, that we have wrought",CAPULET
+2140,3.5.149,So worthy a gentleman to be her bridegroom?,CAPULET
+2141,3.5.150,"Not proud, you have; but thankful, that you have:",JULIET
+2142,3.5.151,Proud can I never be of what I hate;,JULIET
+2143,3.5.152,"But thankful even for hate, that is meant love.",JULIET
+2144,3.5.153,"How now, how now, chop-logic! What is this?",CAPULET
+2145,3.5.154,"'Proud,' and 'I thank you,' and 'I thank you not;'",CAPULET
+2146,3.5.155,"And yet 'not proud,' mistress minion, you,",CAPULET
+2147,3.5.156,"Thank me no thankings, nor, proud me no prouds,",CAPULET
+2148,3.5.157,"But fettle your fine joints 'gainst Thursday next,",CAPULET
+2149,3.5.158,"To go with Paris to Saint Peter's Church,",CAPULET
+2150,3.5.159,Or I will drag thee on a hurdle thither.,CAPULET
+2151,3.5.160,"Out, you green-sickness carrion! out, you baggage!",CAPULET
+2152,3.5.161,You tallow-face!,CAPULET
+2153,3.5.162,"                  Fie, fie! what, are you mad?",LADY CAPULET
+2154,3.5.163,"Good father, I beseech you on my knees,",JULIET
+2155,3.5.164,Hear me with patience but to speak a word.,JULIET
+2156,3.5.165,"Hang thee, young baggage! disobedient wretch!",CAPULET
+2157,3.5.166,"I tell thee what: get thee to church o' Thursday,",CAPULET
+2158,3.5.167,Or never after look me in the face:,CAPULET
+2159,3.5.168,"Speak not, reply not, do not answer me;",CAPULET
+2160,3.5.169,"My fingers itch. Wife, we scarce thought us blest",CAPULET
+2161,3.5.170,That God had lent us but this only child;,CAPULET
+2162,3.5.171,"But now I see this one is one too much,",CAPULET
+2163,3.5.172,And that we have a curse in having her:,CAPULET
+2164,3.5.173,"Out on her, hilding!",CAPULET
+2165,3.5.174,God in heaven bless her!,Nurse
+2166,3.5.175,"You are to blame, my lord, to rate her so.",Nurse
+2167,3.5.176,"And why, my lady wisdom? hold your tongue,",CAPULET
+2168,3.5.177,"Good prudence; smatter with your gossips, go.",CAPULET
+2169,3.5.178,I speak no treason.,Nurse
+2170,3.5.179,"O, God ye god-den.",CAPULET
+2171,3.5.180,May not one speak?,Nurse
+2172,3.5.181,"                  Peace, you mumbling fool!",CAPULET
+2173,3.5.182,Utter your gravity o'er a gossip's bowl;,CAPULET
+2174,3.5.183,For here we need it not.,CAPULET
+2175,3.5.184,You are too hot.,LADY CAPULET
+2176,3.5.185,God's bread! it makes me mad:,CAPULET
+2177,3.5.186,"Day, night, hour, tide, time, work, play,",CAPULET
+2178,3.5.187,"Alone, in company, still my care hath been",CAPULET
+2179,3.5.188,To have her match'd: and having now provided,CAPULET
+2180,3.5.189,"A gentleman of noble parentage,",CAPULET
+2181,3.5.190,"Of fair demesnes, youthful, and nobly train'd,",CAPULET
+2182,3.5.191,"Stuff'd, as they say, with honourable parts,",CAPULET
+2183,3.5.192,Proportion'd as one's thought would wish a man;,CAPULET
+2184,3.5.193,"And then to have a wretched puling fool,",CAPULET
+2185,3.5.194,"A whining mammet, in her fortune's tender,",CAPULET
+2186,3.5.195,"To answer 'I'll not wed; I cannot love,",CAPULET
+2187,3.5.196,"I am too young; I pray you, pardon me.'",CAPULET
+2188,3.5.197,"But, as you will not wed, I'll pardon you:",CAPULET
+2189,3.5.198,Graze where you will you shall not house with me:,CAPULET
+2190,3.5.199,"Look to't, think on't, I do not use to jest.",CAPULET
+2191,3.5.200,"Thursday is near; lay hand on heart, advise:",CAPULET
+2192,3.5.201,"An you be mine, I'll give you to my friend;",CAPULET
+2193,3.5.202,"And you be not, hang, beg, starve, die in",CAPULET
+2194,3.5.203,"the streets,",CAPULET
+2195,3.5.204,"For, by my soul, I'll ne'er acknowledge thee,",CAPULET
+2196,3.5.205,Nor what is mine shall never do thee good:,CAPULET
+2197,3.5.206,"Trust to't, bethink you; I'll not be forsworn.",CAPULET
+2198,3.5.207,"Is there no pity sitting in the clouds,",JULIET
+2199,3.5.208,That sees into the bottom of my grief?,JULIET
+2200,3.5.209,"O, sweet my mother, cast me not away!",JULIET
+2201,3.5.210,"Delay this marriage for a month, a week;",JULIET
+2202,3.5.211,"Or, if you do not, make the bridal bed",JULIET
+2203,3.5.212,In that dim monument where Tybalt lies.,JULIET
+2204,3.5.213,"Talk not to me, for I'll not speak a word:",LADY CAPULET
+2205,3.5.214,"Do as thou wilt, for I have done with thee.",LADY CAPULET
+2206,3.5.215,"O God!--O nurse, how shall this be prevented?",JULIET
+2207,3.5.216,"My husband is on earth, my faith in heaven;",JULIET
+2208,3.5.217,"How shall that faith return again to earth,",JULIET
+2209,3.5.218,Unless that husband send it me from heaven,JULIET
+2210,3.5.219,"By leaving earth? comfort me, counsel me.",JULIET
+2211,3.5.220,"Alack, alack, that heaven should practise stratagems",JULIET
+2212,3.5.221,Upon so soft a subject as myself!,JULIET
+2213,3.5.222,What say'st thou? hast thou not a word of joy?,JULIET
+2214,3.5.223,"Some comfort, nurse.",JULIET
+2215,3.5.224,"Faith, here it is.",Nurse
+2216,3.5.225,"Romeo is banish'd; and all the world to nothing,",Nurse
+2217,3.5.226,That he dares ne'er come back to challenge you;,Nurse
+2218,3.5.227,"Or, if he do, it needs must be by stealth.",Nurse
+2219,3.5.228,"Then, since the case so stands as now it doth,",Nurse
+2220,3.5.229,I think it best you married with the county.,Nurse
+2221,3.5.230,"O, he's a lovely gentleman!",Nurse
+2222,3.5.231,"Romeo's a dishclout to him: an eagle, madam,",Nurse
+2223,3.5.232,"Hath not so green, so quick, so fair an eye",Nurse
+2224,3.5.233,"As Paris hath. Beshrew my very heart,",Nurse
+2225,3.5.234,"I think you are happy in this second match,",Nurse
+2226,3.5.235,"For it excels your first: or if it did not,",Nurse
+2227,3.5.236,"Your first is dead; or 'twere as good he were,",Nurse
+2228,3.5.237,As living here and you no use of him.,Nurse
+2229,3.5.238,Speakest thou from thy heart?,JULIET
+2230,3.5.239,And from my soul too;,Nurse
+2231,3.5.240,Or else beshrew them both.,Nurse
+2232,3.5.241,Amen!,JULIET
+2233,3.5.242,What?,Nurse
+2234,3.5.243,"Well, thou hast comforted me marvellous much.",JULIET
+2235,3.5.244,"Go in: and tell my lady I am gone,",JULIET
+2236,3.5.245,"Having displeased my father, to Laurence' cell,",JULIET
+2237,3.5.246,To make confession and to be absolved.,JULIET
+2238,3.5.247,"Marry, I will; and this is wisely done.",Nurse
+2239,3.5.248,Ancient damnation! O most wicked fiend!,JULIET
+2240,3.5.249,"Is it more sin to wish me thus forsworn,",JULIET
+2241,3.5.250,Or to dispraise my lord with that same tongue,JULIET
+2242,3.5.251,Which she hath praised him with above compare,JULIET
+2243,3.5.252,"So many thousand times? Go, counsellor;",JULIET
+2244,3.5.253,Thou and my bosom henceforth shall be twain.,JULIET
+2245,3.5.254,"I'll to the friar, to know his remedy:",JULIET
+2246,3.5.255,"If all else fail, myself have power to die.",JULIET
+2247,4.1.1,"On Thursday, sir? the time is very short.",FRIAR LAURENCE
+2248,4.1.2,My father Capulet will have it so;,PARIS
+2249,4.1.3,And I am nothing slow to slack his haste.,PARIS
+2250,4.1.4,You say you do not know the lady's mind:,FRIAR LAURENCE
+2251,4.1.5,"Uneven is the course, I like it not.",FRIAR LAURENCE
+2252,4.1.6,"Immoderately she weeps for Tybalt's death,",PARIS
+2253,4.1.7,And therefore have I little talk'd of love;,PARIS
+2254,4.1.8,For Venus smiles not in a house of tears.,PARIS
+2255,4.1.9,"Now, sir, her father counts it dangerous",PARIS
+2256,4.1.10,"That she doth give her sorrow so much sway,",PARIS
+2257,4.1.11,"And in his wisdom hastes our marriage,",PARIS
+2258,4.1.12,To stop the inundation of her tears;,PARIS
+2259,4.1.13,"Which, too much minded by herself alone,",PARIS
+2260,4.1.14,May be put from her by society:,PARIS
+2261,4.1.15,Now do you know the reason of this haste.,PARIS
+2262,4.1.16,[Aside]  I would I knew not why it should be slow'd.,FRIAR LAURENCE
+2263,4.1.17,"Look, sir, here comes the lady towards my cell.",FRIAR LAURENCE
+2264,4.1.18,"Happily met, my lady and my wife!",PARIS
+2265,4.1.19,"That may be, sir, when I may be a wife.",JULIET
+2266,4.1.20,"That may be must be, love, on Thursday next.",PARIS
+2267,4.1.21,What must be shall be.,JULIET
+2268,4.1.22,That's a certain text.,FRIAR LAURENCE
+2269,4.1.23,Come you to make confession to this father?,PARIS
+2270,4.1.24,"To answer that, I should confess to you.",JULIET
+2271,4.1.25,Do not deny to him that you love me.,PARIS
+2272,4.1.26,I will confess to you that I love him.,JULIET
+2273,4.1.27,"So will ye, I am sure, that you love me.",PARIS
+2274,4.1.28,"If I do so, it will be of more price,",JULIET
+2275,4.1.29,"Being spoke behind your back, than to your face.",JULIET
+2276,4.1.30,"Poor soul, thy face is much abused with tears.",PARIS
+2277,4.1.31,The tears have got small victory by that;,JULIET
+2278,4.1.32,For it was bad enough before their spite.,JULIET
+2279,4.1.33,"Thou wrong'st it, more than tears, with that report.",PARIS
+2280,4.1.34,"That is no slander, sir, which is a truth;",JULIET
+2281,4.1.35,"And what I spake, I spake it to my face.",JULIET
+2282,4.1.36,"Thy face is mine, and thou hast slander'd it.",PARIS
+2283,4.1.37,"It may be so, for it is not mine own.",JULIET
+2284,4.1.38,"Are you at leisure, holy father, now;",JULIET
+2285,4.1.39,Or shall I come to you at evening mass?,JULIET
+2286,4.1.40,"My leisure serves me, pensive daughter, now.",FRIAR LAURENCE
+2287,4.1.41,"My lord, we must entreat the time alone.",FRIAR LAURENCE
+2288,4.1.42,God shield I should disturb devotion!,PARIS
+2289,4.1.43,"Juliet, on Thursday early will I rouse ye:",PARIS
+2290,4.1.44,"Till then, adieu; and keep this holy kiss.",PARIS
+2291,4.1.45,"O shut the door! and when thou hast done so,",JULIET
+2292,4.1.46,"Come weep with me; past hope, past cure, past help!",JULIET
+2293,4.1.47,"Ah, Juliet, I already know thy grief;",FRIAR LAURENCE
+2294,4.1.48,It strains me past the compass of my wits:,FRIAR LAURENCE
+2295,4.1.49,"I hear thou must, and nothing may prorogue it,",FRIAR LAURENCE
+2296,4.1.50,On Thursday next be married to this county.,FRIAR LAURENCE
+2297,4.1.51,"Tell me not, friar, that thou hear'st of this,",JULIET
+2298,4.1.52,Unless thou tell me how I may prevent it:,JULIET
+2299,4.1.53,"If, in thy wisdom, thou canst give no help,",JULIET
+2300,4.1.54,"Do thou but call my resolution wise,",JULIET
+2301,4.1.55,And with this knife I'll help it presently.,JULIET
+2302,4.1.56,"God join'd my heart and Romeo's, thou our hands;",JULIET
+2303,4.1.57,"And ere this hand, by thee to Romeo seal'd,",JULIET
+2304,4.1.58,"Shall be the label to another deed,",JULIET
+2305,4.1.59,Or my true heart with treacherous revolt,JULIET
+2306,4.1.60,"Turn to another, this shall slay them both:",JULIET
+2307,4.1.61,"Therefore, out of thy long-experienced time,",JULIET
+2308,4.1.62,"Give me some present counsel, or, behold,",JULIET
+2309,4.1.63,'Twixt my extremes and me this bloody knife,JULIET
+2310,4.1.64,"Shall play the umpire, arbitrating that",JULIET
+2311,4.1.65,Which the commission of thy years and art,JULIET
+2312,4.1.66,Could to no issue of true honour bring.,JULIET
+2313,4.1.67,"Be not so long to speak; I long to die,",JULIET
+2314,4.1.68,If what thou speak'st speak not of remedy.,JULIET
+2315,4.1.69,"Hold, daughter: I do spy a kind of hope,",FRIAR LAURENCE
+2316,4.1.70,Which craves as desperate an execution.,FRIAR LAURENCE
+2317,4.1.71,As that is desperate which we would prevent.,FRIAR LAURENCE
+2318,4.1.72,"If, rather than to marry County Paris,",FRIAR LAURENCE
+2319,4.1.73,"Thou hast the strength of will to slay thyself,",FRIAR LAURENCE
+2320,4.1.74,Then is it likely thou wilt undertake,FRIAR LAURENCE
+2321,4.1.75,"A thing like death to chide away this shame,",FRIAR LAURENCE
+2322,4.1.76,That copest with death himself to scape from it:,FRIAR LAURENCE
+2323,4.1.77,"And, if thou darest, I'll give thee remedy.",FRIAR LAURENCE
+2324,4.1.78,"O, bid me leap, rather than marry Paris,",JULIET
+2325,4.1.79,From off the battlements of yonder tower;,JULIET
+2326,4.1.80,Or walk in thievish ways; or bid me lurk,JULIET
+2327,4.1.81,Where serpents are; chain me with roaring bears;,JULIET
+2328,4.1.82,"Or shut me nightly in a charnel-house,",JULIET
+2329,4.1.83,"O'er-cover'd quite with dead men's rattling bones,",JULIET
+2330,4.1.84,With reeky shanks and yellow chapless skulls;,JULIET
+2331,4.1.85,Or bid me go into a new-made grave,JULIET
+2332,4.1.86,And hide me with a dead man in his shroud;,JULIET
+2333,4.1.87,"Things that, to hear them told, have made me tremble;",JULIET
+2334,4.1.88,"And I will do it without fear or doubt,",JULIET
+2335,4.1.89,To live an unstain'd wife to my sweet love.,JULIET
+2336,4.1.90,"Hold, then; go home, be merry, give consent",FRIAR LAURENCE
+2337,4.1.91,To marry Paris: Wednesday is to-morrow:,FRIAR LAURENCE
+2338,4.1.92,To-morrow night look that thou lie alone;,FRIAR LAURENCE
+2339,4.1.93,Let not thy nurse lie with thee in thy chamber:,FRIAR LAURENCE
+2340,4.1.94,"Take thou this vial, being then in bed,",FRIAR LAURENCE
+2341,4.1.95,And this distilled liquor drink thou off;,FRIAR LAURENCE
+2342,4.1.96,When presently through all thy veins shall run,FRIAR LAURENCE
+2343,4.1.97,"A cold and drowsy humour, for no pulse",FRIAR LAURENCE
+2344,4.1.98,"Shall keep his native progress, but surcease:",FRIAR LAURENCE
+2345,4.1.99,"No warmth, no breath, shall testify thou livest;",FRIAR LAURENCE
+2346,4.1.100,The roses in thy lips and cheeks shall fade,FRIAR LAURENCE
+2347,4.1.101,"To paly ashes, thy eyes' windows fall,",FRIAR LAURENCE
+2348,4.1.102,"Like death, when he shuts up the day of life;",FRIAR LAURENCE
+2349,4.1.103,"Each part, deprived of supple government,",FRIAR LAURENCE
+2350,4.1.104,"Shall, stiff and stark and cold, appear like death:",FRIAR LAURENCE
+2351,4.1.105,And in this borrow'd likeness of shrunk death,FRIAR LAURENCE
+2352,4.1.106,"Thou shalt continue two and forty hours,",FRIAR LAURENCE
+2353,4.1.107,And then awake as from a pleasant sleep.,FRIAR LAURENCE
+2354,4.1.108,"Now, when the bridegroom in the morning comes",FRIAR LAURENCE
+2355,4.1.109,"To rouse thee from thy bed, there art thou dead:",FRIAR LAURENCE
+2356,4.1.110,"Then, as the manner of our country is,",FRIAR LAURENCE
+2357,4.1.111,In thy best robes uncover'd on the bier,FRIAR LAURENCE
+2358,4.1.112,Thou shalt be borne to that same ancient vault,FRIAR LAURENCE
+2359,4.1.113,Where all the kindred of the Capulets lie.,FRIAR LAURENCE
+2360,4.1.114,"In the mean time, against thou shalt awake,",FRIAR LAURENCE
+2361,4.1.115,"Shall Romeo by my letters know our drift,",FRIAR LAURENCE
+2362,4.1.116,And hither shall he come: and he and I,FRIAR LAURENCE
+2363,4.1.117,"Will watch thy waking, and that very night",FRIAR LAURENCE
+2364,4.1.118,Shall Romeo bear thee hence to Mantua.,FRIAR LAURENCE
+2365,4.1.119,And this shall free thee from this present shame;,FRIAR LAURENCE
+2366,4.1.120,"If no inconstant toy, nor womanish fear,",FRIAR LAURENCE
+2367,4.1.121,Abate thy valour in the acting it.,FRIAR LAURENCE
+2368,4.1.122,"Give me, give me! O, tell not me of fear!",JULIET
+2369,4.1.123,"Hold; get you gone, be strong and prosperous",FRIAR LAURENCE
+2370,4.1.124,In this resolve: I'll send a friar with speed,FRIAR LAURENCE
+2371,4.1.125,"To Mantua, with my letters to thy lord.",FRIAR LAURENCE
+2372,4.1.126,Love give me strength! and strength shall help afford.,JULIET
+2373,4.1.127,"Farewell, dear father!",JULIET
+2374,4.2.1,So many guests invite as here are writ.,CAPULET
+2375,4.2.2,"Sirrah, go hire me twenty cunning cooks.",CAPULET
+2376,4.2.3,"You shall have none ill, sir; for I'll try if they",Second Servant
+2377,4.2.4,can lick their fingers.,Second Servant
+2378,4.2.5,How canst thou try them so?,CAPULET
+2379,4.2.6,"Marry, sir, 'tis an ill cook that cannot lick his",Second Servant
+2380,4.2.7,own fingers: therefore he that cannot lick his,Second Servant
+2381,4.2.8,fingers goes not with me.,Second Servant
+2382,4.2.9,"Go, be gone.",CAPULET
+2383,4.2.10,We shall be much unfurnished for this time.,CAPULET
+2384,4.2.11,"What, is my daughter gone to Friar Laurence?",CAPULET
+2385,4.2.12,"Ay, forsooth.",Nurse
+2386,4.2.13,"Well, he may chance to do some good on her:",CAPULET
+2387,4.2.14,A peevish self-will'd harlotry it is.,CAPULET
+2388,4.2.15,See where she comes from shrift with merry look.,Nurse
+2389,4.2.16,"How now, my headstrong! where have you been gadding?",CAPULET
+2390,4.2.17,Where I have learn'd me to repent the sin,JULIET
+2391,4.2.18,Of disobedient opposition,JULIET
+2392,4.2.19,"To you and your behests, and am enjoin'd",JULIET
+2393,4.2.20,"By holy Laurence to fall prostrate here,",JULIET
+2394,4.2.21,"And beg your pardon: pardon, I beseech you!",JULIET
+2395,4.2.22,Henceforward I am ever ruled by you.,JULIET
+2396,4.2.23,Send for the county; go tell him of this:,CAPULET
+2397,4.2.24,I'll have this knot knit up to-morrow morning.,CAPULET
+2398,4.2.25,I met the youthful lord at Laurence' cell;,JULIET
+2399,4.2.26,"And gave him what becomed love I might,",JULIET
+2400,4.2.27,Not step o'er the bounds of modesty.,JULIET
+2401,4.2.28,"Why, I am glad on't; this is well: stand up:",CAPULET
+2402,4.2.29,This is as't should be. Let me see the county;,CAPULET
+2403,4.2.30,"Ay, marry, go, I say, and fetch him hither.",CAPULET
+2404,4.2.31,"Now, afore God! this reverend holy friar,",CAPULET
+2405,4.2.32,Our whole city is much bound to him.,CAPULET
+2406,4.2.33,"Nurse, will you go with me into my closet,",JULIET
+2407,4.2.34,To help me sort such needful ornaments,JULIET
+2408,4.2.35,As you think fit to furnish me to-morrow?,JULIET
+2409,4.2.36,"No, not till Thursday; there is time enough.",LADY CAPULET
+2410,4.2.37,"Go, nurse, go with her: we'll to church to-morrow.",CAPULET
+2411,4.2.38,We shall be short in our provision:,LADY  CAPULET
+2412,4.2.39,'Tis now near night.,LADY  CAPULET
+2413,4.2.40,"Tush, I will stir about,",CAPULET
+2414,4.2.41,"And all things shall be well, I warrant thee, wife:",CAPULET
+2415,4.2.42,"Go thou to Juliet, help to deck up her;",CAPULET
+2416,4.2.43,I'll not to bed to-night; let me alone;,CAPULET
+2417,4.2.44,"I'll play the housewife for this once. What, ho!",CAPULET
+2418,4.2.45,"They are all forth. Well, I will walk myself",CAPULET
+2419,4.2.46,"To County Paris, to prepare him up",CAPULET
+2420,4.2.47,"Against to-morrow: my heart is wondrous light,",CAPULET
+2421,4.2.48,Since this same wayward girl is so reclaim'd.,CAPULET
+2422,4.3.1,"Ay, those attires are best: but, gentle nurse,",JULIET
+2423,4.3.2,"I pray thee, leave me to my self to-night,",JULIET
+2424,4.3.3,For I have need of many orisons,JULIET
+2425,4.3.4,"To move the heavens to smile upon my state,",JULIET
+2426,4.3.5,"Which, well thou know'st, is cross, and full of sin.",JULIET
+2427,4.3.6,"What, are you busy, ho? need you my help?",LADY CAPULET
+2428,4.3.7,"No, madam; we have cull'd such necessaries",JULIET
+2429,4.3.8,As are behoveful for our state to-morrow:,JULIET
+2430,4.3.9,"So please you, let me now be left alone,",JULIET
+2431,4.3.10,And let the nurse this night sit up with you;,JULIET
+2432,4.3.11,"For, I am sure, you have your hands full all,",JULIET
+2433,4.3.12,In this so sudden business.,JULIET
+2434,4.3.13,Good night:,LADY CAPULET
+2435,4.3.14,"Get thee to bed, and rest; for thou hast need.",LADY CAPULET
+2436,4.3.15,Farewell! God knows when we shall meet again.,JULIET
+2437,4.3.16,"I have a faint cold fear thrills through my veins,",JULIET
+2438,4.3.17,That almost freezes up the heat of life:,JULIET
+2439,4.3.18,I'll call them back again to comfort me:,JULIET
+2440,4.3.19,Nurse! What should she do here?,JULIET
+2441,4.3.20,My dismal scene I needs must act alone.,JULIET
+2442,4.3.21,"Come, vial.",JULIET
+2443,4.3.22,What if this mixture do not work at all?,JULIET
+2444,4.3.23,Shall I be married then to-morrow morning?,JULIET
+2445,4.3.24,"No, no: this shall forbid it: lie thou there.",JULIET
+2446,4.3.25,"What if it be a poison, which the friar",JULIET
+2447,4.3.26,"Subtly hath minister'd to have me dead,",JULIET
+2448,4.3.27,"Lest in this marriage he should be dishonour'd,",JULIET
+2449,4.3.28,Because he married me before to Romeo?,JULIET
+2450,4.3.29,"I fear it is: and yet, methinks, it should not,",JULIET
+2451,4.3.30,For he hath still been tried a holy man.,JULIET
+2452,4.3.31,"How if, when I am laid into the tomb,",JULIET
+2453,4.3.32,I wake before the time that Romeo,JULIET
+2454,4.3.33,Come to redeem me? there's a fearful point!,JULIET
+2455,4.3.34,"Shall I not, then, be stifled in the vault,",JULIET
+2456,4.3.35,"To whose foul mouth no healthsome air breathes in,",JULIET
+2457,4.3.36,And there die strangled ere my Romeo comes?,JULIET
+2458,4.3.37,"Or, if I live, is it not very like,",JULIET
+2459,4.3.38,"The horrible conceit of death and night,",JULIET
+2460,4.3.39,"Together with the terror of the place,--",JULIET
+2461,4.3.40,"As in a vault, an ancient receptacle,",JULIET
+2462,4.3.41,"Where, for these many hundred years, the bones",JULIET
+2463,4.3.42,Of all my buried ancestors are packed:,JULIET
+2464,4.3.43,"Where bloody Tybalt, yet but green in earth,",JULIET
+2465,4.3.44,"Lies festering in his shroud; where, as they say,",JULIET
+2466,4.3.45,At some hours in the night spirits resort;--,JULIET
+2467,4.3.46,"Alack, alack, is it not like that I,",JULIET
+2468,4.3.47,"So early waking, what with loathsome smells,",JULIET
+2469,4.3.48,"And shrieks like mandrakes' torn out of the earth,",JULIET
+2470,4.3.49,"That living mortals, hearing them, run mad:--",JULIET
+2471,4.3.50,"O, if I wake, shall I not be distraught,",JULIET
+2472,4.3.51,Environed with all these hideous fears?,JULIET
+2473,4.3.52,And madly play with my forefather's joints?,JULIET
+2474,4.3.53,And pluck the mangled Tybalt from his shroud?,JULIET
+2475,4.3.54,"And, in this rage, with some great kinsman's bone,",JULIET
+2476,4.3.55,"As with a club, dash out my desperate brains?",JULIET
+2477,4.3.56,"O, look! methinks I see my cousin's ghost",JULIET
+2478,4.3.57,"Seeking out Romeo, that did spit his body",JULIET
+2479,4.3.58,"Upon a rapier's point: stay, Tybalt, stay!",JULIET
+2480,4.3.59,"Romeo, I come! this do I drink to thee.",JULIET
+2481,4.4.1,"Hold, take these keys, and fetch more spices, nurse.",LADY CAPULET
+2482,4.4.2,They call for dates and quinces in the pastry.,Nurse
+2483,4.4.3,"Come, stir, stir, stir! the second cock hath crow'd,",CAPULET
+2484,4.4.4,"The curfew-bell hath rung, 'tis three o'clock:",CAPULET
+2485,4.4.5,"Look to the baked meats, good Angelica:",CAPULET
+2486,4.4.6,Spare not for the cost.,CAPULET
+2487,4.4.7,"Go, you cot-quean, go,",Nurse
+2488,4.4.8,"Get you to bed; faith, You'll be sick to-morrow",Nurse
+2489,4.4.9,For this night's watching.,Nurse
+2490,4.4.10,"No, not a whit: what! I have watch'd ere now",CAPULET
+2491,4.4.11,"All night for lesser cause, and ne'er been sick.",CAPULET
+2492,4.4.12,"Ay, you have been a mouse-hunt in your time;",LADY CAPULET
+2493,4.4.13,But I will watch you from such watching now.,LADY CAPULET
+2494,4.4.14,"A jealous hood, a jealous hood!",CAPULET
+2495,4.4.15,"Now, fellow,",CAPULET
+2496,4.4.16,What's there?,CAPULET
+2497,4.4.17,"Things for the cook, sir; but I know not what.",First Servant
+2498,4.4.18,"Make haste, make haste.",CAPULET
+2499,4.4.19,"Sirrah, fetch drier logs:",CAPULET
+2500,4.4.20,"Call Peter, he will show thee where they are.",CAPULET
+2501,4.4.21,"I have a head, sir, that will find out logs,",Second Servant
+2502,4.4.22,And never trouble Peter for the matter.,Second Servant
+2503,4.4.23,"Mass, and well said; a merry whoreson, ha!",CAPULET
+2504,4.4.24,"Thou shalt be logger-head. Good faith, 'tis day:",CAPULET
+2505,4.4.25,"The county will be here with music straight,",CAPULET
+2506,4.4.26,For so he said he would: I hear him near.,CAPULET
+2507,4.4.27,"Nurse! Wife! What, ho! What, nurse, I say!",CAPULET
+2508,4.4.28,"Go waken Juliet, go and trim her up;",CAPULET
+2509,4.4.29,"I'll go and chat with Paris: hie, make haste,",CAPULET
+2510,4.4.30,Make haste; the bridegroom he is come already:,CAPULET
+2511,4.4.31,"Make haste, I say.",CAPULET
+2512,4.5.1,"Mistress! what, mistress! Juliet! fast, I warrant her, she:",Nurse
+2513,4.5.2,"Why, lamb! why, lady! fie, you slug-a-bed!",Nurse
+2514,4.5.3,"Why, love, I say! madam! sweet-heart! why, bride!",Nurse
+2515,4.5.4,"What, not a word? you take your pennyworths now;",Nurse
+2516,4.5.5,"Sleep for a week; for the next night, I warrant,",Nurse
+2517,4.5.6,"The County Paris hath set up his rest,",Nurse
+2518,4.5.7,"That you shall rest but little. God forgive me,",Nurse
+2519,4.5.8,"Marry, and amen, how sound is she asleep!",Nurse
+2520,4.5.9,"I must needs wake her. Madam, madam, madam!",Nurse
+2521,4.5.10,"Ay, let the county take you in your bed;",Nurse
+2522,4.5.11,"He'll fright you up, i' faith. Will it not be?",Nurse
+2523,4.5.12,"What, dress'd! and in your clothes! and down again!",Nurse
+2524,4.5.13,I must needs wake you; Lady! lady! lady!,Nurse
+2525,4.5.14,"Alas, alas! Help, help! my lady's dead!",Nurse
+2526,4.5.15,"O, well-a-day, that ever I was born!",Nurse
+2527,4.5.16,"Some aqua vitae, ho! My lord! my lady!",Nurse
+2528,4.5.17,What noise is here?,LADY CAPULET
+2529,4.5.18,O lamentable day!,Nurse
+2530,4.5.19,What is the matter?,LADY CAPULET
+2531,4.5.20,"Look, look! O heavy day!",Nurse
+2532,4.5.21,"O me, O me! My child, my only life,",LADY CAPULET
+2533,4.5.22,"Revive, look up, or I will die with thee!",LADY CAPULET
+2534,4.5.23,"Help, help! Call help.",LADY CAPULET
+2535,4.5.24,"For shame, bring Juliet forth; her lord is come.",CAPULET
+2536,4.5.25,"She's dead, deceased, she's dead; alack the day!",Nurse
+2537,4.5.26,"Alack the day, she's dead, she's dead, she's dead!",LADY CAPULET
+2538,4.5.27,"Ha! let me see her: out, alas! she's cold:",CAPULET
+2539,4.5.28,"Her blood is settled, and her joints are stiff;",CAPULET
+2540,4.5.29,Life and these lips have long been separated:,CAPULET
+2541,4.5.30,Death lies on her like an untimely frost,CAPULET
+2542,4.5.31,Upon the sweetest flower of all the field.,CAPULET
+2543,4.5.32,O lamentable day!,Nurse
+2544,4.5.33,                  O woful time!,LADY CAPULET
+2545,4.5.34,"Death, that hath ta'en her hence to make me wail,",CAPULET
+2546,4.5.35,"Ties up my tongue, and will not let me speak.",CAPULET
+2547,4.5.36,"Come, is the bride ready to go to church?",FRIAR LAURENCE
+2548,4.5.37,"Ready to go, but never to return.",CAPULET
+2549,4.5.38,O son! the night before thy wedding-day,CAPULET
+2550,4.5.39,"Hath Death lain with thy wife. There she lies,",CAPULET
+2551,4.5.40,"Flower as she was, deflowered by him.",CAPULET
+2552,4.5.41,"Death is my son-in-law, Death is my heir;",CAPULET
+2553,4.5.42,"My daughter he hath wedded: I will die,",CAPULET
+2554,4.5.43,"And leave him all; life, living, all is Death's.",CAPULET
+2555,4.5.44,"Have I thought long to see this morning's face,",PARIS
+2556,4.5.45,And doth it give me such a sight as this?,PARIS
+2557,4.5.46,"Accursed, unhappy, wretched, hateful day!",LADY CAPULET
+2558,4.5.47,Most miserable hour that e'er time saw,LADY CAPULET
+2559,4.5.48,In lasting labour of his pilgrimage!,LADY CAPULET
+2560,4.5.49,"But one, poor one, one poor and loving child,",LADY CAPULET
+2561,4.5.50,"But one thing to rejoice and solace in,",LADY CAPULET
+2562,4.5.51,And cruel death hath catch'd it from my sight!,LADY CAPULET
+2563,4.5.52,"O woe! O woful, woful, woful day!",Nurse
+2564,4.5.53,"Most lamentable day, most woful day,",Nurse
+2565,4.5.54,"That ever, ever, I did yet behold!",Nurse
+2566,4.5.55,O day! O day! O day! O hateful day!,Nurse
+2567,4.5.56,Never was seen so black a day as this:,Nurse
+2568,4.5.57,"O woful day, O woful day!",Nurse
+2569,4.5.58,"Beguiled, divorced, wronged, spited, slain!",PARIS
+2570,4.5.59,"Most detestable death, by thee beguil'd,",PARIS
+2571,4.5.60,By cruel cruel thee quite overthrown!,PARIS
+2572,4.5.61,"O love! O life! not life, but love in death!",PARIS
+2573,4.5.62,"Despised, distressed, hated, martyr'd, kill'd!",CAPULET
+2574,4.5.63,"Uncomfortable time, why camest thou now",CAPULET
+2575,4.5.64,"To murder, murder our solemnity?",CAPULET
+2576,4.5.65,"O child! O child! my soul, and not my child!",CAPULET
+2577,4.5.66,Dead art thou! Alack! my child is dead;,CAPULET
+2578,4.5.67,And with my child my joys are buried.,CAPULET
+2579,4.5.68,"Peace, ho, for shame! confusion's cure lives not",FRIAR LAURENCE
+2580,4.5.69,In these confusions. Heaven and yourself,FRIAR LAURENCE
+2581,4.5.70,"Had part in this fair maid; now heaven hath all,",FRIAR LAURENCE
+2582,4.5.71,And all the better is it for the maid:,FRIAR LAURENCE
+2583,4.5.72,"Your part in her you could not keep from death,",FRIAR LAURENCE
+2584,4.5.73,But heaven keeps his part in eternal life.,FRIAR LAURENCE
+2585,4.5.74,The most you sought was her promotion;,FRIAR LAURENCE
+2586,4.5.75,For 'twas your heaven she should be advanced:,FRIAR LAURENCE
+2587,4.5.76,"And weep ye now, seeing she is advanced",FRIAR LAURENCE
+2588,4.5.77,"Above the clouds, as high as heaven itself?",FRIAR LAURENCE
+2589,4.5.78,"O, in this love, you love your child so ill,",FRIAR LAURENCE
+2590,4.5.79,"That you run mad, seeing that she is well:",FRIAR LAURENCE
+2591,4.5.80,She's not well married that lives married long;,FRIAR LAURENCE
+2592,4.5.81,But she's best married that dies married young.,FRIAR LAURENCE
+2593,4.5.82,"Dry up your tears, and stick your rosemary",FRIAR LAURENCE
+2594,4.5.83,"On this fair corse; and, as the custom is,",FRIAR LAURENCE
+2595,4.5.84,In all her best array bear her to church:,FRIAR LAURENCE
+2596,4.5.85,"For though fond nature bids us an lament,",FRIAR LAURENCE
+2597,4.5.86,Yet nature's tears are reason's merriment.,FRIAR LAURENCE
+2598,4.5.87,"All things that we ordained festival,",CAPULET
+2599,4.5.88,Turn from their office to black funeral;,CAPULET
+2600,4.5.89,"Our instruments to melancholy bells,",CAPULET
+2601,4.5.90,"Our wedding cheer to a sad burial feast,",CAPULET
+2602,4.5.91,"Our solemn hymns to sullen dirges change,",CAPULET
+2603,4.5.92,"Our bridal flowers serve for a buried corse,",CAPULET
+2604,4.5.93,And all things change them to the contrary.,CAPULET
+2605,4.5.94,"Sir, go you in; and, madam, go with him;",FRIAR LAURENCE
+2606,4.5.95,"And go, Sir Paris; every one prepare",FRIAR LAURENCE
+2607,4.5.96,To follow this fair corse unto her grave:,FRIAR LAURENCE
+2608,4.5.97,The heavens do lour upon you for some ill;,FRIAR LAURENCE
+2609,4.5.98,Move them no more by crossing their high will.,FRIAR LAURENCE
+2610,4.5.99,"Faith, we may put up our pipes, and be gone.",First Musician
+2611,4.5.100,"Honest goodfellows, ah, put up, put up;",Nurse
+2612,4.5.101,"For, well you know, this is a pitiful case.",Nurse
+2613,4.5.102,"Ay, by my troth, the case may be amended.",First Musician
+2614,4.5.103,"Musicians, O, musicians, 'Heart's ease, Heart's",PETER
+2615,4.5.104,"ease:' O, an you will have me live, play 'Heart's ease.'",PETER
+2616,4.5.105,Why 'Heart's ease?',First Musician
+2617,4.5.106,"O, musicians, because my heart itself plays 'My",PETER
+2618,4.5.107,"heart is full of woe:' O, play me some merry dump,",PETER
+2619,4.5.108,to comfort me.,PETER
+2620,4.5.109,Not a dump we; 'tis no time to play now.,First Musician
+2621,4.5.110,"You will not, then?",PETER
+2622,4.5.111,No.,First Musician
+2623,4.5.112,I will then give it you soundly.,PETER
+2624,4.5.113,What will you give us?,First Musician
+2625,4.5.114,"No money, on my faith, but the gleek;",PETER
+2626,4.5.115,I will give you the minstrel.,PETER
+2627,4.5.116,Then I will give you the serving-creature.,First Musician
+2628,4.5.117,Then will I lay the serving-creature's dagger on,PETER
+2629,4.5.118,"your pate. I will carry no crotchets: I'll re you,",PETER
+2630,4.5.119,I'll fa you; do you note me?,PETER
+2631,4.5.120,"An you re us and fa us, you note us.",First Musician
+2632,4.5.121,"Pray you, put up your dagger, and put out your wit.",Second Musician
+2633,4.5.122,Then have at you with my wit! I will dry-beat you,PETER
+2634,4.5.123,"with an iron wit, and put up my iron dagger. Answer",PETER
+2635,4.5.124,me like men:,PETER
+2636,4.5.125,"'When griping grief the heart doth wound,",PETER
+2637,4.5.126,"And doleful dumps the mind oppress,",PETER
+2638,4.5.127,Then music with her silver sound'--,PETER
+2639,4.5.128,why 'silver sound'? why 'music with her silver,PETER
+2640,4.5.129,"sound'? What say you, Simon Catling?",PETER
+2641,4.5.130,"Marry, sir, because silver hath a sweet sound.",Musician
+2642,4.5.131,"Pretty! What say you, Hugh Rebeck?",PETER
+2643,4.5.132,"I say 'silver sound,' because musicians sound for silver.",Second Musician
+2644,4.5.133,"Pretty too! What say you, James Soundpost?",PETER
+2645,4.5.134,"Faith, I know not what to say.",Third Musician
+2646,4.5.135,"O, I cry you mercy; you are the singer: I will say",PETER
+2647,4.5.136,"for you. It is 'music with her silver sound,'",PETER
+2648,4.5.137,because musicians have no gold for sounding:,PETER
+2649,4.5.138,'Then music with her silver sound,PETER
+2650,4.5.139,With speedy help doth lend redress.',PETER
+2651,4.5.140,What a pestilent knave is this same!,First Musician
+2652,4.5.141,"Hang him, Jack! Come, we'll in here; tarry for the",Second Musician
+2653,4.5.142,"mourners, and stay dinner.",Second Musician
+2654,5.1.1,"If I may trust the flattering truth of sleep,",ROMEO
+2655,5.1.2,My dreams presage some joyful news at hand:,ROMEO
+2656,5.1.3,My bosom's lord sits lightly in his throne;,ROMEO
+2657,5.1.4,And all this day an unaccustom'd spirit,ROMEO
+2658,5.1.5,Lifts me above the ground with cheerful thoughts.,ROMEO
+2659,5.1.6,I dreamt my lady came and found me dead--,ROMEO
+2660,5.1.7,"Strange dream, that gives a dead man leave",ROMEO
+2661,5.1.8,to think!--,ROMEO
+2662,5.1.9,"And breathed such life with kisses in my lips,",ROMEO
+2663,5.1.10,"That I revived, and was an emperor.",ROMEO
+2664,5.1.11,"Ah me! how sweet is love itself possess'd,",ROMEO
+2665,5.1.12,When but love's shadows are so rich in joy!,ROMEO
+2666,5.1.13,"News from Verona!--How now, Balthasar!",ROMEO
+2667,5.1.14,Dost thou not bring me letters from the friar?,ROMEO
+2668,5.1.15,How doth my lady? Is my father well?,ROMEO
+2669,5.1.16,How fares my Juliet? that I ask again;,ROMEO
+2670,5.1.17,"For nothing can be ill, if she be well.",ROMEO
+2671,5.1.18,"Then she is well, and nothing can be ill:",BALTHASAR
+2672,5.1.19,"Her body sleeps in Capel's monument,",BALTHASAR
+2673,5.1.20,And her immortal part with angels lives.,BALTHASAR
+2674,5.1.21,"I saw her laid low in her kindred's vault,",BALTHASAR
+2675,5.1.22,And presently took post to tell it you:,BALTHASAR
+2676,5.1.23,"O, pardon me for bringing these ill news,",BALTHASAR
+2677,5.1.24,"Since you did leave it for my office, sir.",BALTHASAR
+2678,5.1.25,"Is it even so? then I defy you, stars!",ROMEO
+2679,5.1.26,"Thou know'st my lodging: get me ink and paper,",ROMEO
+2680,5.1.27,And hire post-horses; I will hence to-night.,ROMEO
+2681,5.1.28,"I do beseech you, sir, have patience:",BALTHASAR
+2682,5.1.29,"Your looks are pale and wild, and do import",BALTHASAR
+2683,5.1.30,Some misadventure.,BALTHASAR
+2684,5.1.31,"                  Tush, thou art deceived:",ROMEO
+2685,5.1.32,"Leave me, and do the thing I bid thee do.",ROMEO
+2686,5.1.33,Hast thou no letters to me from the friar?,ROMEO
+2687,5.1.34,"No, my good lord.",BALTHASAR
+2688,5.1.35,"                  No matter: get thee gone,",ROMEO
+2689,5.1.36,And hire those horses; I'll be with thee straight.,ROMEO
+2690,5.1.37,"Well, Juliet, I will lie with thee to-night.",ROMEO
+2691,5.1.38,"Let's see for means: O mischief, thou art swift",ROMEO
+2692,5.1.39,To enter in the thoughts of desperate men!,ROMEO
+2693,5.1.40,"I do remember an apothecary,--",ROMEO
+2694,5.1.41,"And hereabouts he dwells,--which late I noted",ROMEO
+2695,5.1.42,"In tatter'd weeds, with overwhelming brows,",ROMEO
+2696,5.1.43,"Culling of simples; meagre were his looks,",ROMEO
+2697,5.1.44,Sharp misery had worn him to the bones:,ROMEO
+2698,5.1.45,"And in his needy shop a tortoise hung,",ROMEO
+2699,5.1.46,"An alligator stuff'd, and other skins",ROMEO
+2700,5.1.47,Of ill-shaped fishes; and about his shelves,ROMEO
+2701,5.1.48,"A beggarly account of empty boxes,",ROMEO
+2702,5.1.49,"Green earthen pots, bladders and musty seeds,",ROMEO
+2703,5.1.50,"Remnants of packthread and old cakes of roses,",ROMEO
+2704,5.1.51,"Were thinly scatter'd, to make up a show.",ROMEO
+2705,5.1.52,"Noting this penury, to myself I said",ROMEO
+2706,5.1.53,"'An if a man did need a poison now,",ROMEO
+2707,5.1.54,"Whose sale is present death in Mantua,",ROMEO
+2708,5.1.55,Here lives a caitiff wretch would sell it him.',ROMEO
+2709,5.1.56,"O, this same thought did but forerun my need;",ROMEO
+2710,5.1.57,And this same needy man must sell it me.,ROMEO
+2711,5.1.58,"As I remember, this should be the house.",ROMEO
+2712,5.1.59,"Being holiday, the beggar's shop is shut.",ROMEO
+2713,5.1.60,"What, ho! apothecary!",ROMEO
+2714,5.1.61,Who calls so loud?,Apothecary
+2715,5.1.62,"Come hither, man. I see that thou art poor:",ROMEO
+2716,5.1.63,"Hold, there is forty ducats: let me have",ROMEO
+2717,5.1.64,"A dram of poison, such soon-speeding gear",ROMEO
+2718,5.1.65,As will disperse itself through all the veins,ROMEO
+2719,5.1.66,That the life-weary taker may fall dead,ROMEO
+2720,5.1.67,And that the trunk may be discharged of breath,ROMEO
+2721,5.1.68,As violently as hasty powder fired,ROMEO
+2722,5.1.69,Doth hurry from the fatal cannon's womb.,ROMEO
+2723,5.1.70,Such mortal drugs I have; but Mantua's law,Apothecary
+2724,5.1.71,Is death to any he that utters them.,Apothecary
+2725,5.1.72,"Art thou so bare and full of wretchedness,",ROMEO
+2726,5.1.73,"And fear'st to die? famine is in thy cheeks,",ROMEO
+2727,5.1.74,"Need and oppression starveth in thine eyes,",ROMEO
+2728,5.1.75,Contempt and beggary hangs upon thy back;,ROMEO
+2729,5.1.76,The world is not thy friend nor the world's law;,ROMEO
+2730,5.1.77,The world affords no law to make thee rich;,ROMEO
+2731,5.1.78,"Then be not poor, but break it, and take this.",ROMEO
+2732,5.1.79,"My poverty, but not my will, consents.",Apothecary
+2733,5.1.80,"I pay thy poverty, and not thy will.",ROMEO
+2734,5.1.81,"Put this in any liquid thing you will,",Apothecary
+2735,5.1.82,"And drink it off; and, if you had the strength",Apothecary
+2736,5.1.83,"Of twenty men, it would dispatch you straight.",Apothecary
+2737,5.1.84,"There is thy gold, worse poison to men's souls,",ROMEO
+2738,5.1.85,"Doing more murders in this loathsome world,",ROMEO
+2739,5.1.86,Than these poor compounds that thou mayst not sell.,ROMEO
+2740,5.1.87,I sell thee poison; thou hast sold me none.,ROMEO
+2741,5.1.88,"Farewell: buy food, and get thyself in flesh.",ROMEO
+2742,5.1.89,"Come, cordial and not poison, go with me",ROMEO
+2743,5.1.90,To Juliet's grave; for there must I use thee.,ROMEO
+2744,5.2.1,"Holy Franciscan friar! brother, ho!",FRIAR JOHN
+2745,5.2.2,This same should be the voice of Friar John.,FRIAR LAURENCE
+2746,5.2.3,Welcome from Mantua: what says Romeo?,FRIAR LAURENCE
+2747,5.2.4,"Or, if his mind be writ, give me his letter.",FRIAR LAURENCE
+2748,5.2.5,Going to find a bare-foot brother out,FRIAR JOHN
+2749,5.2.6,"One of our order, to associate me,",FRIAR JOHN
+2750,5.2.7,"Here in this city visiting the sick,",FRIAR JOHN
+2751,5.2.8,"And finding him, the searchers of the town,",FRIAR JOHN
+2752,5.2.9,Suspecting that we both were in a house,FRIAR JOHN
+2753,5.2.10,"Where the infectious pestilence did reign,",FRIAR JOHN
+2754,5.2.11,"Seal'd up the doors, and would not let us forth;",FRIAR JOHN
+2755,5.2.12,So that my speed to Mantua there was stay'd.,FRIAR JOHN
+2756,5.2.13,"Who bare my letter, then, to Romeo?",FRIAR LAURENCE
+2757,5.2.14,"I could not send it,--here it is again,--",FRIAR JOHN
+2758,5.2.15,"Nor get a messenger to bring it thee,",FRIAR JOHN
+2759,5.2.16,So fearful were they of infection.,FRIAR JOHN
+2760,5.2.17,"Unhappy fortune! by my brotherhood,",FRIAR LAURENCE
+2761,5.2.18,The letter was not nice but full of charge,FRIAR LAURENCE
+2762,5.2.19,"Of dear import, and the neglecting it",FRIAR LAURENCE
+2763,5.2.20,"May do much danger. Friar John, go hence;",FRIAR LAURENCE
+2764,5.2.21,"Get me an iron crow, and bring it straight",FRIAR LAURENCE
+2765,5.2.22,Unto my cell.,FRIAR LAURENCE
+2766,5.2.23,"Brother, I'll go and bring it thee.",FRIAR JOHN
+2767,5.2.24,Now must I to the monument alone;,FRIAR LAURENCE
+2768,5.2.25,Within three hours will fair Juliet wake:,FRIAR LAURENCE
+2769,5.2.26,She will beshrew me much that Romeo,FRIAR LAURENCE
+2770,5.2.27,Hath had no notice of these accidents;,FRIAR LAURENCE
+2771,5.2.28,"But I will write again to Mantua,",FRIAR LAURENCE
+2772,5.2.29,And keep her at my cell till Romeo come;,FRIAR LAURENCE
+2773,5.2.30,"Poor living corse, closed in a dead man's tomb!",FRIAR LAURENCE
+2774,5.3.1,"Give me thy torch, boy: hence, and stand aloof:",PARIS
+2775,5.3.2,"Yet put it out, for I would not be seen.",PARIS
+2776,5.3.3,"Under yond yew-trees lay thee all along,",PARIS
+2777,5.3.4,Holding thine ear close to the hollow ground;,PARIS
+2778,5.3.5,"So shall no foot upon the churchyard tread,",PARIS
+2779,5.3.6,"Being loose, unfirm, with digging up of graves,",PARIS
+2780,5.3.7,"But thou shalt hear it: whistle then to me,",PARIS
+2781,5.3.8,As signal that thou hear'st something approach.,PARIS
+2782,5.3.9,"Give me those flowers. Do as I bid thee, go.",PARIS
+2783,5.3.10,[Aside]  I am almost afraid to stand alone,PAGE
+2784,5.3.11,Here in the churchyard; yet I will adventure.,PAGE
+2785,5.3.12,"Sweet flower, with flowers thy bridal bed I strew,--",PARIS
+2786,5.3.13,O woe! thy canopy is dust and stones;--,PARIS
+2787,5.3.14,"Which with sweet water nightly I will dew,",PARIS
+2788,5.3.15,"Or, wanting that, with tears distill'd by moans:",PARIS
+2789,5.3.16,The obsequies that I for thee will keep,PARIS
+2790,5.3.17,Nightly shall be to strew thy grave and weep.,PARIS
+2791,5.3.18,The boy gives warning something doth approach.,PARIS
+2792,5.3.19,"What cursed foot wanders this way to-night,",PARIS
+2793,5.3.20,To cross my obsequies and true love's rite?,PARIS
+2794,5.3.21,"What with a torch! muffle me, night, awhile.",PARIS
+2795,5.3.22,Give me that mattock and the wrenching iron.,ROMEO
+2796,5.3.23,"Hold, take this letter; early in the morning",ROMEO
+2797,5.3.24,See thou deliver it to my lord and father.,ROMEO
+2798,5.3.25,"Give me the light: upon thy life, I charge thee,",ROMEO
+2799,5.3.26,"Whate'er thou hear'st or seest, stand all aloof,",ROMEO
+2800,5.3.27,And do not interrupt me in my course.,ROMEO
+2801,5.3.28,"Why I descend into this bed of death,",ROMEO
+2802,5.3.29,Is partly to behold my lady's face;,ROMEO
+2803,5.3.30,But chiefly to take thence from her dead finger,ROMEO
+2804,5.3.31,"A precious ring, a ring that I must use",ROMEO
+2805,5.3.32,"In dear employment: therefore hence, be gone:",ROMEO
+2806,5.3.33,"But if thou, jealous, dost return to pry",ROMEO
+2807,5.3.34,"In what I further shall intend to do,",ROMEO
+2808,5.3.35,"By heaven, I will tear thee joint by joint",ROMEO
+2809,5.3.36,And strew this hungry churchyard with thy limbs:,ROMEO
+2810,5.3.37,"The time and my intents are savage-wild,",ROMEO
+2811,5.3.38,More fierce and more inexorable far,ROMEO
+2812,5.3.39,Than empty tigers or the roaring sea.,ROMEO
+2813,5.3.40,"I will be gone, sir, and not trouble you.",BALTHASAR
+2814,5.3.41,So shalt thou show me friendship. Take thou that:,ROMEO
+2815,5.3.42,"Live, and be prosperous: and farewell, good fellow.",ROMEO
+2816,5.3.43,"[Aside]  For all this same, I'll hide me hereabout:",BALTHASAR
+2817,5.3.44,"His looks I fear, and his intents I doubt.",BALTHASAR
+2818,5.3.45,"Thou detestable maw, thou womb of death,",ROMEO
+2819,5.3.46,"Gorged with the dearest morsel of the earth,",ROMEO
+2820,5.3.47,"Thus I enforce thy rotten jaws to open,",ROMEO
+2821,5.3.48,"And, in despite, I'll cram thee with more food!",ROMEO
+2822,5.3.49,"This is that banish'd haughty Montague,",PARIS
+2823,5.3.50,"That murder'd my love's cousin, with which grief,",PARIS
+2824,5.3.51,"It is supposed, the fair creature died;",PARIS
+2825,5.3.52,And here is come to do some villanous shame,PARIS
+2826,5.3.53,To the dead bodies: I will apprehend him.,PARIS
+2827,5.3.54,"Stop thy unhallow'd toil, vile Montague!",PARIS
+2828,5.3.55,Can vengeance be pursued further than death?,PARIS
+2829,5.3.56,"Condemned villain, I do apprehend thee:",PARIS
+2830,5.3.57,"Obey, and go with me; for thou must die.",PARIS
+2831,5.3.58,I must indeed; and therefore came I hither.,ROMEO
+2832,5.3.59,"Good gentle youth, tempt not a desperate man;",ROMEO
+2833,5.3.60,"Fly hence, and leave me: think upon these gone;",ROMEO
+2834,5.3.61,"Let them affright thee. I beseech thee, youth,",ROMEO
+2835,5.3.62,"Put not another sin upon my head,",ROMEO
+2836,5.3.63,"By urging me to fury: O, be gone!",ROMEO
+2837,5.3.64,"By heaven, I love thee better than myself;",ROMEO
+2838,5.3.65,For I come hither arm'd against myself:,ROMEO
+2839,5.3.66,"Stay not, be gone; live, and hereafter say,",ROMEO
+2840,5.3.67,A madman's mercy bade thee run away.,ROMEO
+2841,5.3.68,"I do defy thy conjurations,",PARIS
+2842,5.3.69,And apprehend thee for a felon here.,PARIS
+2843,5.3.70,"Wilt thou provoke me? then have at thee, boy!",ROMEO
+2844,5.3.71,"O Lord, they fight! I will go call the watch.",PAGE
+2845,5.3.72,"O, I am slain!",PARIS
+2846,5.3.73,"If thou be merciful,",PARIS
+2847,5.3.74,"Open the tomb, lay me with Juliet.",PARIS
+2848,5.3.75,"In faith, I will. Let me peruse this face.",ROMEO
+2849,5.3.76,"Mercutio's kinsman, noble County Paris!",ROMEO
+2850,5.3.77,"What said my man, when my betossed soul",ROMEO
+2851,5.3.78,Did not attend him as we rode? I think,ROMEO
+2852,5.3.79,He told me Paris should have married Juliet:,ROMEO
+2853,5.3.80,Said he not so? or did I dream it so?,ROMEO
+2854,5.3.81,"Or am I mad, hearing him talk of Juliet,",ROMEO
+2855,5.3.82,"To think it was so? O, give me thy hand,",ROMEO
+2856,5.3.83,One writ with me in sour misfortune's book!,ROMEO
+2857,5.3.84,I'll bury thee in a triumphant grave;,ROMEO
+2858,5.3.85,"A grave? O no! a lantern, slaughter'd youth,",ROMEO
+2859,5.3.86,"For here lies Juliet, and her beauty makes",ROMEO
+2860,5.3.87,This vault a feasting presence full of light.,ROMEO
+2861,5.3.88,"Death, lie thou there, by a dead man interr'd.",ROMEO
+2862,5.3.89,How oft when men are at the point of death,ROMEO
+2863,5.3.90,Have they been merry! which their keepers call,ROMEO
+2864,5.3.91,"A lightning before death: O, how may I",ROMEO
+2865,5.3.92,Call this a lightning? O my love! my wife!,ROMEO
+2866,5.3.93,"Death, that hath suck'd the honey of thy breath,",ROMEO
+2867,5.3.94,Hath had no power yet upon thy beauty:,ROMEO
+2868,5.3.95,Thou art not conquer'd; beauty's ensign yet,ROMEO
+2869,5.3.96,"Is crimson in thy lips and in thy cheeks,",ROMEO
+2870,5.3.97,And death's pale flag is not advanced there.,ROMEO
+2871,5.3.98,"Tybalt, liest thou there in thy bloody sheet?",ROMEO
+2872,5.3.99,"O, what more favour can I do to thee,",ROMEO
+2873,5.3.100,Than with that hand that cut thy youth in twain,ROMEO
+2874,5.3.101,To sunder his that was thine enemy?,ROMEO
+2875,5.3.102,"Forgive me, cousin! Ah, dear Juliet,",ROMEO
+2876,5.3.103,Why art thou yet so fair? shall I believe,ROMEO
+2877,5.3.104,"That unsubstantial death is amorous,",ROMEO
+2878,5.3.105,And that the lean abhorred monster keeps,ROMEO
+2879,5.3.106,Thee here in dark to be his paramour?,ROMEO
+2880,5.3.107,"For fear of that, I still will stay with thee;",ROMEO
+2881,5.3.108,And never from this palace of dim night,ROMEO
+2882,5.3.109,"Depart again: here, here will I remain",ROMEO
+2883,5.3.110,"With worms that are thy chamber-maids; O, here",ROMEO
+2884,5.3.111,"Will I set up my everlasting rest,",ROMEO
+2885,5.3.112,And shake the yoke of inauspicious stars,ROMEO
+2886,5.3.113,"From this world-wearied flesh. Eyes, look your last!",ROMEO
+2887,5.3.114,"Arms, take your last embrace! and, lips, O you",ROMEO
+2888,5.3.115,"The doors of breath, seal with a righteous kiss",ROMEO
+2889,5.3.116,A dateless bargain to engrossing death!,ROMEO
+2890,5.3.117,"Come, bitter conduct, come, unsavoury guide!",ROMEO
+2891,5.3.118,"Thou desperate pilot, now at once run on",ROMEO
+2892,5.3.119,The dashing rocks thy sea-sick weary bark!,ROMEO
+2893,5.3.120,Here's to my love!,ROMEO
+2894,5.3.121,O true apothecary!,ROMEO
+2895,5.3.122,Thy drugs are quick. Thus with a kiss I die.,ROMEO
+2896,5.3.123,Saint Francis be my speed! how oft to-night,FRIAR LAURENCE
+2897,5.3.124,Have my old feet stumbled at graves! Who's there?,FRIAR LAURENCE
+2898,5.3.125,"Here's one, a friend, and one that knows you well.",BALTHASAR
+2899,5.3.126,"Bliss be upon you! Tell me, good my friend,",FRIAR LAURENCE
+2900,5.3.127,"What torch is yond, that vainly lends his light",FRIAR LAURENCE
+2901,5.3.128,"To grubs and eyeless skulls? as I discern,",FRIAR LAURENCE
+2902,5.3.129,It burneth in the Capel's monument.,FRIAR LAURENCE
+2903,5.3.130,"It doth so, holy sir; and there's my master,",BALTHASAR
+2904,5.3.131,One that you love.,BALTHASAR
+2905,5.3.132,                  Who is it?,FRIAR LAURENCE
+2906,5.3.133,Romeo.,BALTHASAR
+2907,5.3.134,How long hath he been there?,FRIAR LAURENCE
+2908,5.3.135,Full half an hour.,BALTHASAR
+2909,5.3.136,Go with me to the vault.,FRIAR LAURENCE
+2910,5.3.137,"I dare not, sir",BALTHASAR
+2911,5.3.138,My master knows not but I am gone hence;,BALTHASAR
+2912,5.3.139,"And fearfully did menace me with death,",BALTHASAR
+2913,5.3.140,If I did stay to look on his intents.,BALTHASAR
+2914,5.3.141,"Stay, then; I'll go alone. Fear comes upon me:",FRIAR LAURENCE
+2915,5.3.142,"O, much I fear some ill unlucky thing.",FRIAR LAURENCE
+2916,5.3.143,"As I did sleep under this yew-tree here,",BALTHASAR
+2917,5.3.144,"I dreamt my master and another fought,",BALTHASAR
+2918,5.3.145,And that my master slew him.,BALTHASAR
+2919,5.3.146,Romeo!,FRIAR LAURENCE
+2920,5.3.147,"Alack, alack, what blood is this, which stains",FRIAR LAURENCE
+2921,5.3.148,The stony entrance of this sepulchre?,FRIAR LAURENCE
+2922,5.3.149,What mean these masterless and gory swords,FRIAR LAURENCE
+2923,5.3.150,To lie discolour'd by this place of peace?,FRIAR LAURENCE
+2924,5.3.151,"Romeo! O, pale! Who else? what, Paris too?",FRIAR LAURENCE
+2925,5.3.152,"And steep'd in blood? Ah, what an unkind hour",FRIAR LAURENCE
+2926,5.3.153,Is guilty of this lamentable chance!,FRIAR LAURENCE
+2927,5.3.154,The lady stirs.,FRIAR LAURENCE
+2928,5.3.155,O comfortable friar! where is my lord?,JULIET
+2929,5.3.156,"I do remember well where I should be,",JULIET
+2930,5.3.157,And there I am. Where is my Romeo?,JULIET
+2931,5.3.158,"I hear some noise. Lady, come from that nest",FRIAR LAURENCE
+2932,5.3.159,"Of death, contagion, and unnatural sleep:",FRIAR LAURENCE
+2933,5.3.160,A greater power than we can contradict,FRIAR LAURENCE
+2934,5.3.161,"Hath thwarted our intents. Come, come away.",FRIAR LAURENCE
+2935,5.3.162,Thy husband in thy bosom there lies dead;,FRIAR LAURENCE
+2936,5.3.163,"And Paris too. Come, I'll dispose of thee",FRIAR LAURENCE
+2937,5.3.164,Among a sisterhood of holy nuns:,FRIAR LAURENCE
+2938,5.3.165,"Stay not to question, for the watch is coming;",FRIAR LAURENCE
+2939,5.3.166,"Come, go, good Juliet,",FRIAR LAURENCE
+2940,5.3.167,I dare no longer stay.,FRIAR LAURENCE
+2941,5.3.168,"Go, get thee hence, for I will not away.",JULIET
+2942,5.3.169,"What's here? a cup, closed in my true love's hand?",JULIET
+2943,5.3.170,"Poison, I see, hath been his timeless end:",JULIET
+2944,5.3.171,"O churl! drunk all, and left no friendly drop",JULIET
+2945,5.3.172,To help me after? I will kiss thy lips;,JULIET
+2946,5.3.173,"Haply some poison yet doth hang on them,",JULIET
+2947,5.3.174,To make die with a restorative.,JULIET
+2948,5.3.175,Thy lips are warm.,JULIET
+2949,5.3.176,"[Within]  Lead, boy: which way?",First Watchman
+2950,5.3.177,"Yea, noise? then I'll be brief. O happy dagger!",JULIET
+2951,5.3.178,This is thy sheath;,JULIET
+2952,5.3.179,"there rust, and let me die.",JULIET
+2953,5.3.180,"This is the place; there, where the torch doth burn.",PAGE
+2954,5.3.181,The ground is bloody; search about the churchyard:,First Watchman
+2955,5.3.182,"Go, some of you, whoe'er you find attach.",First Watchman
+2956,5.3.183,"Pitiful sight! here lies the county slain,",First Watchman
+2957,5.3.184,"And Juliet bleeding, warm, and newly dead,",First Watchman
+2958,5.3.185,Who here hath lain these two days buried.,First Watchman
+2959,5.3.186,"Go, tell the prince: run to the Capulets:",First Watchman
+2960,5.3.187,Raise up the Montagues: some others search:,First Watchman
+2961,5.3.188,We see the ground whereon these woes do lie;,First Watchman
+2962,5.3.189,But the true ground of all these piteous woes,First Watchman
+2963,5.3.190,We cannot without circumstance descry.,First Watchman
+2964,5.3.191,Here's Romeo's man; we found him in the churchyard.,Second Watchman
+2965,5.3.192,"Hold him in safety, till the prince come hither.",First Watchman
+2966,5.3.193,"Here is a friar, that trembles, sighs and weeps:",Third Watchman
+2967,5.3.194,"We took this mattock and this spade from him,",Third Watchman
+2968,5.3.195,As he was coming from this churchyard side.,Third Watchman
+2969,5.3.196,A great suspicion: stay the friar too.,First Watchman
+2970,5.3.197,"What misadventure is so early up,",PRINCE
+2971,5.3.198,That calls our person from our morning's rest?,PRINCE
+2972,5.3.199,"What should it be, that they so shriek abroad?",CAPULET
+2973,5.3.200,"The people in the street cry Romeo,",LADY CAPULET
+2974,5.3.201,"Some Juliet, and some Paris; and all run,",LADY CAPULET
+2975,5.3.202,With open outcry toward our monument.,LADY CAPULET
+2976,5.3.203,What fear is this which startles in our ears?,PRINCE
+2977,5.3.204,"Sovereign, here lies the County Paris slain;",First Watchman
+2978,5.3.205,"And Romeo dead; and Juliet, dead before,",First Watchman
+2979,5.3.206,Warm and new kill'd.,First Watchman
+2980,5.3.207,"Search, seek, and know how this foul murder comes.",PRINCE
+2981,5.3.208,"Here is a friar, and slaughter'd Romeo's man;",First Watchman
+2982,5.3.209,"With instruments upon them, fit to open",First Watchman
+2983,5.3.210,These dead men's tombs.,First Watchman
+2984,5.3.211,"O heavens! O wife, look how our daughter bleeds!",CAPULET
+2985,5.3.212,"This dagger hath mista'en--for, lo, his house",CAPULET
+2986,5.3.213,"Is empty on the back of Montague,--",CAPULET
+2987,5.3.214,And it mis-sheathed in my daughter's bosom!,CAPULET
+2988,5.3.215,"O me! this sight of death is as a bell,",LADY CAPULET
+2989,5.3.216,That warns my old age to a sepulchre.,LADY CAPULET
+2990,5.3.217,"Come, Montague; for thou art early up,",PRINCE
+2991,5.3.218,To see thy son and heir more early down.,PRINCE
+2992,5.3.219,"Alas, my liege, my wife is dead to-night;",MONTAGUE
+2993,5.3.220,Grief of my son's exile hath stopp'd her breath:,MONTAGUE
+2994,5.3.221,What further woe conspires against mine age?,MONTAGUE
+2995,5.3.222,"Look, and thou shalt see.",PRINCE
+2996,5.3.223,O thou untaught! what manners is in this?,MONTAGUE
+2997,5.3.224,To press before thy father to a grave?,MONTAGUE
+2998,5.3.225,"Seal up the mouth of outrage for a while,",PRINCE
+2999,5.3.226,"Till we can clear these ambiguities,",PRINCE
+3000,5.3.227,"And know their spring, their head, their",PRINCE
+3001,5.3.228,true descent;,PRINCE
+3002,5.3.229,"And then will I be general of your woes,",PRINCE
+3003,5.3.230,"And lead you even to death: meantime forbear,",PRINCE
+3004,5.3.231,And let mischance be slave to patience.,PRINCE
+3005,5.3.232,Bring forth the parties of suspicion.,PRINCE
+3006,5.3.233,"I am the greatest, able to do least,",FRIAR LAURENCE
+3007,5.3.234,"Yet most suspected, as the time and place",FRIAR LAURENCE
+3008,5.3.235,Doth make against me of this direful murder;,FRIAR LAURENCE
+3009,5.3.236,"And here I stand, both to impeach and purge",FRIAR LAURENCE
+3010,5.3.237,Myself condemned and myself excused.,FRIAR LAURENCE
+3011,5.3.238,Then say at once what thou dost know in this.,PRINCE
+3012,5.3.239,"I will be brief, for my short date of breath",FRIAR LAURENCE
+3013,5.3.240,Is not so long as is a tedious tale.,FRIAR LAURENCE
+3014,5.3.241,"Romeo, there dead, was husband to that Juliet;",FRIAR LAURENCE
+3015,5.3.242,"And she, there dead, that Romeo's faithful wife:",FRIAR LAURENCE
+3016,5.3.243,I married them; and their stol'n marriage-day,FRIAR LAURENCE
+3017,5.3.244,"Was Tybalt's dooms-day, whose untimely death",FRIAR LAURENCE
+3018,5.3.245,"Banish'd the new-made bridegroom from the city,",FRIAR LAURENCE
+3019,5.3.246,"For whom, and not for Tybalt, Juliet pined.",FRIAR LAURENCE
+3020,5.3.247,"You, to remove that siege of grief from her,",FRIAR LAURENCE
+3021,5.3.248,Betroth'd and would have married her perforce,FRIAR LAURENCE
+3022,5.3.249,"To County Paris: then comes she to me,",FRIAR LAURENCE
+3023,5.3.250,"And, with wild looks, bid me devise some mean",FRIAR LAURENCE
+3024,5.3.251,"To rid her from this second marriage,",FRIAR LAURENCE
+3025,5.3.252,Or in my cell there would she kill herself.,FRIAR LAURENCE
+3026,5.3.253,"Then gave I her, so tutor'd by my art,",FRIAR LAURENCE
+3027,5.3.254,A sleeping potion; which so took effect,FRIAR LAURENCE
+3028,5.3.255,"As I intended, for it wrought on her",FRIAR LAURENCE
+3029,5.3.256,"The form of death: meantime I writ to Romeo,",FRIAR LAURENCE
+3030,5.3.257,"That he should hither come as this dire night,",FRIAR LAURENCE
+3031,5.3.258,"To help to take her from her borrow'd grave,",FRIAR LAURENCE
+3032,5.3.259,Being the time the potion's force should cease.,FRIAR LAURENCE
+3033,5.3.260,"But he which bore my letter, Friar John,",FRIAR LAURENCE
+3034,5.3.261,"Was stay'd by accident, and yesternight",FRIAR LAURENCE
+3035,5.3.262,Return'd my letter back. Then all alone,FRIAR LAURENCE
+3036,5.3.263,"At the prefixed hour of her waking,",FRIAR LAURENCE
+3037,5.3.264,Came I to take her from her kindred's vault;,FRIAR LAURENCE
+3038,5.3.265,"Meaning to keep her closely at my cell,",FRIAR LAURENCE
+3039,5.3.266,Till I conveniently could send to Romeo:,FRIAR LAURENCE
+3040,5.3.267,"But when I came, some minute ere the time",FRIAR LAURENCE
+3041,5.3.268,"Of her awaking, here untimely lay",FRIAR LAURENCE
+3042,5.3.269,The noble Paris and true Romeo dead.,FRIAR LAURENCE
+3043,5.3.270,"She wakes; and I entreated her come forth,",FRIAR LAURENCE
+3044,5.3.271,And bear this work of heaven with patience:,FRIAR LAURENCE
+3045,5.3.272,But then a noise did scare me from the tomb;,FRIAR LAURENCE
+3046,5.3.273,"And she, too desperate, would not go with me,",FRIAR LAURENCE
+3047,5.3.274,"But, as it seems, did violence on herself.",FRIAR LAURENCE
+3048,5.3.275,All this I know; and to the marriage,FRIAR LAURENCE
+3049,5.3.276,"Her nurse is privy: and, if aught in this",FRIAR LAURENCE
+3050,5.3.277,"Miscarried by my fault, let my old life",FRIAR LAURENCE
+3051,5.3.278,"Be sacrificed, some hour before his time,",FRIAR LAURENCE
+3052,5.3.279,Unto the rigour of severest law.,FRIAR LAURENCE
+3053,5.3.280,We still have known thee for a holy man.,PRINCE
+3054,5.3.281,Where's Romeo's man? what can he say in this?,PRINCE
+3055,5.3.282,I brought my master news of Juliet's death;,BALTHASAR
+3056,5.3.283,And then in post he came from Mantua,BALTHASAR
+3057,5.3.284,"To this same place, to this same monument.",BALTHASAR
+3058,5.3.285,"This letter he early bid me give his father,",BALTHASAR
+3059,5.3.286,"And threatened me with death, going in the vault,",BALTHASAR
+3060,5.3.287,I departed not and left him there.,BALTHASAR
+3061,5.3.288,Give me the letter; I will look on it.,PRINCE
+3062,5.3.289,"Where is the county's page, that raised the watch?",PRINCE
+3063,5.3.290,"Sirrah, what made your master in this place?",PRINCE
+3064,5.3.291,He came with flowers to strew his lady's grave;,PAGE
+3065,5.3.292,"And bid me stand aloof, and so I did:",PAGE
+3066,5.3.293,Anon comes one with light to ope the tomb;,PAGE
+3067,5.3.294,And by and by my master drew on him;,PAGE
+3068,5.3.295,And then I ran away to call the watch.,PAGE
+3069,5.3.296,"This letter doth make good the friar's words,",PRINCE
+3070,5.3.297,"Their course of love, the tidings of her death:",PRINCE
+3071,5.3.298,And here he writes that he did buy a poison,PRINCE
+3072,5.3.299,"Of a poor 'pothecary, and therewithal",PRINCE
+3073,5.3.300,"Came to this vault to die, and lie with Juliet.",PRINCE
+3074,5.3.301,Where be these enemies? Capulet! Montague!,PRINCE
+3075,5.3.302,"See, what a scourge is laid upon your hate,",PRINCE
+3076,5.3.303,That heaven finds means to kill your joys with love.,PRINCE
+3077,5.3.304,And I for winking at your discords too,PRINCE
+3078,5.3.305,Have lost a brace of kinsmen: all are punish'd.,PRINCE
+3079,5.3.306,"O brother Montague, give me thy hand:",CAPULET
+3080,5.3.307,"This is my daughter's jointure, for no more",CAPULET
+3081,5.3.308,Can I demand.,CAPULET
+3082,5.3.309,                  But I can give thee more:,MONTAGUE
+3083,5.3.310,For I will raise her statue in pure gold;,MONTAGUE
+3084,5.3.311,"That while Verona by that name is known,",MONTAGUE
+3085,5.3.312,There shall no figure at such rate be set,MONTAGUE
+3086,5.3.313,As that of true and faithful Juliet.,MONTAGUE
+3087,5.3.314,As rich shall Romeo's by his lady's lie;,CAPULET
+3088,5.3.315,Poor sacrifices of our enmity!,CAPULET
+3089,5.3.316,A glooming peace this morning with it brings;,PRINCE
+3090,5.3.317,"The sun, for sorrow, will not show his head:",PRINCE
+3091,5.3.318,"Go hence, to have more talk of these sad things;",PRINCE
+3092,5.3.319,"Some shall be pardon'd, and some punished:",PRINCE
+3093,5.3.320,For never was a story of more woe,PRINCE
+3094,5.3.321,Than this of Juliet and her Romeo.,PRINCE
