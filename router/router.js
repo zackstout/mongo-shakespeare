@@ -18,32 +18,32 @@ function generateDB() {
 
     // Create the play document:
     db.Play.create({ title: file })
-      .then(data => console.log(data))
-      .catch(err => console.log(err.message));
+    .then(data => console.log(data))
+    .catch(err => console.log(err.message));
 
     var csvStream = csv()
     // This fires for every row in the csv:
-        .on("data", function(data){
-             // Create the Line document:
-             db.Line.create({
-               speaker: data[3],
-               text: data[2],
-               line_no: data[1]
-             })
-             .then(line => {
-               // Update the relevant Play document:
-               return db.Play.findOneAndUpdate({ title: file }, { $push: { lines: line._id } }, { new: true });
-             })
-             .then(play => {
-               console.log(play);
-             })
-             .catch(err => {
-               console.log(err.message);
-             });
-        })
-        .on("end", function(){
-             console.log("done");
-        });
+    .on("data", function(data){
+      // Create the Line document:
+      db.Line.create({
+        speaker: data[3],
+        text: data[2],
+        line_no: data[1]
+      })
+      .then(line => {
+        // Update the relevant Play document:
+        return db.Play.findOneAndUpdate({ title: file }, { $push: { lines: line._id } }, { new: true });
+      })
+      .then(play => {
+        console.log(play);
+      })
+      .catch(err => {
+        console.log(err.message);
+      });
+    })
+    .on("end", function(){
+      console.log("done");
+    });
 
     stream.pipe(csvStream);
   });
@@ -59,12 +59,17 @@ function generateDB() {
 //   .then(res => console.log(res))
 //   .catch(err => console.log(err));
 
-  db.Line.find({"speaker": "HERMIONE"})
-    .then(res => console.log(res))
-    .catch(err => console.log(err));
+// db.Line.find({"speaker": "HERMIONE"})
+// .then(res => console.log(res))
+// .catch(err => console.log(err));
 
 
-
+router.post('/word', function(req, res) {
+  // console.log(req.body);
+  db.Line.find({"text": {$regex: `.*${req.body.word}.*`}})
+    .then(data => res.json(data))
+    .catch(err => res.sendStatus(500));
+});
 
 
 module.exports = router;

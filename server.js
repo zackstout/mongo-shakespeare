@@ -3,11 +3,15 @@ var express = require('express');
 var app = express();
 
 var port = process.env.PORT || 7455;
-// var bodyParser = require('body-parser');
+var bodyParser = require('body-parser');
 
 var router = require('./router/router.js');
 
-// app.use(bodyParser.json());
+app.use(bodyParser.json());
+// Needed this!!!:
+app.use(bodyParser.urlencoded({
+  extended: true
+}));
 
 // Can't have a slash here:
 app.use(express.static('public'));
