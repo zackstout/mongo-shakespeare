@@ -36,7 +36,7 @@ $(document).ready(() => {
   // Testing speaker route:
   $.ajax({
     type: 'GET',
-    url: '/speaker/IAGO',
+    url: '/personality',
     success: function(data) {
       console.log(data);
     }

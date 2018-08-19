@@ -61,21 +61,128 @@ function generateDB() {
 
 // ========================================================================================================================
 
+router.get('/personality', (req, res) => {
+  var stream = fs.createReadStream(`OTHELLO.csv`);
+  var stream2 = fs.createReadStream(`IAGO.csv`);
+
+  var result = []; // First row is headings, second row is values
+  var result2 = [];
+
+  var csvStream = csv()
+  // This fires for every row in the csv:
+  .on("data", function(data){
+    // console.log("DATA BE", data);
+    result.push(data);
+  })
+  .on("end", function(){
+    console.log("done");
+    // console.log(result);
+    var csvStream2 = csv()
+    // This fires for every row in the csv:
+    .on("data", function(data){
+      // console.log("DATA BE", data);
+      result2.push(data);
+    })
+    .on("end", function(){
+      console.log("donedone");
+      res.json({
+        "OTHELLO": result,
+        "IAGO": result2
+      });
+      // console.log(result2);
+    });
+    stream2.pipe(csvStream2);
+
+  });
+
+
+
+  stream.pipe(csvStream);
+
+});
+
+
+
 router.get('/speaker/:name', (req, res) => {
   db.Line.find({"speaker":  req.params.name})
   .then(data => {
-    console.log(data);
-    linesToChunksBySpeaker(data);
-    res.json(data);
+    // console.log(data);
+    const chunks = linesToChunksBySpeaker(data);
+    // console.log(chunks);
+    const j_chunks = chunks.map(c => {
+      return {
+        "content": c,
+        "contenttype": "text/plain",
+        "language": "en",
+        "id": Math.floor(Math.random() * 1000000000000).toString(),
+      };
+    });
+
+    // const json_chunks = JSON.parse(j_chunks);
+    // console.log(j_chunks);
+
+    var profileParams = {
+      // Get the content from the JSON file.
+      content: { "contentItems": j_chunks },
+      'content_type': 'application/json',
+      'consumption_preferences': true,
+      'raw_scores': true,
+      'csv_headers': true // Ahh also need this for the csv!
+
+    };
+
+    // personalityInsights.profile(profileParams, function(error, profile) {
+    //   if (error) {
+    //     console.log(error);
+    //   } else {
+    //     console.log(JSON.stringify(profile, null, 2));
+    //   }
+    // });
+
+    personalityInsights.profileAsCsv(profileParams, function(error, profile) {
+      if (error) {
+        console.log(error);
+      } else {
+        var wstream = fs.createWriteStream(`${req.params.name}.csv`);
+        wstream.write(profile);
+        wstream.end();
+      }
+    });
+
+    res.json(j_chunks);
   })
   .catch(err => {
     console.log(err);
   });
 });
 
+function getNextLine(line_no) {
+  const act = line_no.slice(0, 1);
+  const scene = line_no.slice(1+1, 3);
+  const line = line_no.slice(3+1);
+  const next_line_no = `${act}.${scene}.${parseInt(line) + 1}`;
+  return next_line_no;
+}
+
 function linesToChunksBySpeaker(arr) {
   let res = [];
+  let chunk = arr[0].text;
 
+  let next_line_no = getNextLine(arr[0].line_no);
+
+  for (let i=1; i < arr.length; i++) {
+    const line_no = arr[i].line_no;
+    // console.log(line_no, next_line_no);
+    if (line_no == next_line_no) {
+      chunk += ' ' + arr[i].text;
+
+    } else {
+      res.push(chunk);
+      chunk = arr[i].text;
+    }
+
+    next_line_no = getNextLine(line_no);
+  }
   return res;
 }
 
