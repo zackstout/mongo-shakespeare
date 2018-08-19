@@ -4,10 +4,18 @@ var router = express.Router();
 var fs = require('fs');
 var csv = require('fast-csv');
 var allCsvs = require('./allCsvs.js');
-
 var mongoose = require('mongoose');
-
 var db = require('../models');
+
+// WATSON CONFIGURATION:
+var PersonalityInsightsV3 = require('watson-developer-cloud/personality-insights/v3');
+
+var personalityInsights = new PersonalityInsightsV3({
+  version: '2018-08-17',
+  username: '1c3f10b8-21d8-423c-ab57-1073a84c6c35',
+  password: 'Y74Yp5lGFdlO',
+  url: 'https://gateway.watsonplatform.net/personality-insights/api'
+});
 
 // ========================================================================================================================
 
@@ -53,15 +61,23 @@ function generateDB() {
 
 // ========================================================================================================================
 
+router.get('/speaker/:name', (req, res) => {
+  db.Line.find({"speaker":  req.params.name})
+  .then(data => {
+    console.log(data);
+    linesToChunksBySpeaker(data);
+    res.json(data);
+  })
+  .catch(err => {
+    console.log(err);
+  });
+});
 
-// Every time the word "deliver" is used by Shakespeare:
-// db.Line.find({"text": {$regex: ".*deliver.*"}})
-//   .then(res => console.log(res))
-//   .catch(err => console.log(err));
+function linesToChunksBySpeaker(arr) {
+  let res = [];
 
-// db.Line.find({"speaker": "HERMIONE"})
-// .then(res => console.log(res))
-// .catch(err => console.log(err));
+  return res;
+}
 
 
 router.post('/word', function(req, res) {
@@ -77,6 +93,7 @@ router.post('/word', function(req, res) {
   // })
   .catch(err => res.json(err));
 
+  // This seems to be solved -- at least in the database, the plays have Lines:
 
   // Can't quite figure out how to grab all lines from the Plays collection... Would be easier to just add a 'play' field to lines collection...But we should learn this way.
   // I think what we need to do is populate!

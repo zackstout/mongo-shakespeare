@@ -32,4 +32,13 @@ $(document).ready(() => {
       handleSub();
     }
   };
+
+  // Testing speaker route:
+  $.ajax({
+    type: 'GET',
+    url: '/speaker/IAGO',
+    success: function(data) {
+      console.log(data);
+    }
+  });
 });

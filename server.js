@@ -21,7 +21,7 @@ app.use('/', router);
 var mongoose = require('mongoose');
 var databaseUrl = '';
 
-if(process.env.MONGODB_URI) {
+if (process.env.MONGODB_URI) {
     databaseUrl = process.env.MONGODB_URI;
 } else {
     databaseUrl = 'mongodb://localhost:27017/shakin';
