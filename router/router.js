@@ -11,7 +11,7 @@ var db = require('../models');
 
 // ========================================================================================================================
 
-// This seems to work -- takes about 15 minutes:
+// This seems to work -- takes about 15 minutes -- not sure whether because of fast-csv streaming or Mongo, but MUCH easier than with Postgres:
 function generateDB() {
   allCsvs.forEach(file => {
     var stream = fs.createReadStream(`csvs/${file}.csv`);
@@ -65,10 +65,23 @@ function generateDB() {
 
 
 router.post('/word', function(req, res) {
-  // console.log(req.body);
+  // I imagine we have to query the Plays collection if we want info about the title of the play:
   db.Line.find({"text": {$regex: `.*${req.body.word}.*`}})
-    .then(data => res.json(data))
-    .catch(err => res.sendStatus(500));
+  .then(data => {
+    res.json(data);
+  })
+  // db.Play.find({}, {"lines": 1})
+  // // .populate("lines")
+  // .then(data => {
+  //   res.json(data);
+  // })
+  .catch(err => res.json(err));
+
+
+  // Can't quite figure out how to grab all lines from the Plays collection... Would be easier to just add a 'play' field to lines collection...But we should learn this way.
+  // I think what we need to do is populate!
+  // Hmm, but in order to that we need to recreate the DB with the reference to Plays saved in the Lines... Already, with the first relationship, it becomes annoying.
+
 });
 
 

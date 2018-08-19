@@ -1,9 +1,5 @@
 
 function handleSub() {
-  console.log($('#word_search').val());
-
-  $('.output').empty();
-
   $.ajax({
     type: 'POST',
     url: '/word',
@@ -12,30 +8,28 @@ function handleSub() {
     },
     success: function(data) {
       console.log(data);
+      $('.output').empty();
       data.forEach(d => {
-        $('.output').append(`<p>${d.text}</p>`);
-
+        $('.output').append(`<div>
+          <p>${d.line_no}</p>
+          <p>${d.speaker}</p>
+          <p>${d.text}</p>
+          </div>`);
       });
-
       $('#word_search').val('');
       $('#word_search').focus();
-
     }
   });
 }
 
 $(document).ready(() => {
-
   $('#word_search').focus();
-
   $('#word_search_sub').on('click', () => {
     handleSub();
   });
-
   window.onkeydown = function(e) {
     if (e.keyCode == 13) {
       handleSub();
     }
   };
-
 });
