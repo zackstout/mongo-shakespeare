@@ -71,16 +71,15 @@ router.get('/personality', (req, res) => {
   var csvStream = csv()
   // This fires for every row in the csv:
   .on("data", function(data){
-    // console.log("DATA BE", data);
     result.push(data);
   })
   .on("end", function(){
     console.log("done");
-    // console.log(result);
+
+    // Start second stream -- best pratice here?
     var csvStream2 = csv()
     // This fires for every row in the csv:
     .on("data", function(data){
-      // console.log("DATA BE", data);
       result2.push(data);
     })
     .on("end", function(){
@@ -89,16 +88,12 @@ router.get('/personality', (req, res) => {
         "OTHELLO": result,
         "IAGO": result2
       });
-      // console.log(result2);
     });
-    stream2.pipe(csvStream2);
 
+    stream2.pipe(csvStream2);
   });
 
-
-
   stream.pipe(csvStream);
-
 });
 
 
@@ -106,9 +101,7 @@ router.get('/personality', (req, res) => {
 router.get('/speaker/:name', (req, res) => {
   db.Line.find({"speaker":  req.params.name})
   .then(data => {
-    // console.log(data);
     const chunks = linesToChunksBySpeaker(data);
-    // console.log(chunks);
     const j_chunks = chunks.map(c => {
       return {
         "content": c,
@@ -117,9 +110,6 @@ router.get('/speaker/:name', (req, res) => {
         "id": Math.floor(Math.random() * 1000000000000).toString(),
       };
     });
-
-    // const json_chunks = JSON.parse(j_chunks);
-    // console.log(j_chunks);
 
     var profileParams = {
       // Get the content from the JSON file.
@@ -156,6 +146,7 @@ router.get('/speaker/:name', (req, res) => {
   });
 });
 
+
 function getNextLine(line_no) {
   const act = line_no.slice(0, 1);
   const scene = line_no.slice(1+1, 3);
@@ -163,6 +154,7 @@ function getNextLine(line_no) {
   const next_line_no = `${act}.${scene}.${parseInt(line) + 1}`;
   return next_line_no;
 }
+
 
 function linesToChunksBySpeaker(arr) {
   let res = [];
@@ -186,6 +178,18 @@ function linesToChunksBySpeaker(arr) {
   return res;
 }
 
+router.get('/random', function(req, res) {
+  db.Line.find({"text": {'$regex': '.*love.*', '$options': 'i'}})
+  .then(data => {
+    const i = Math.floor(Math.random() * data.length);
+    res.json(data[i]);
+  })
+  .catch(err => {
+    console.log(err);
+    res.json(err);
+  });
+});
+
 
 router.post('/word', function(req, res) {
   // I imagine we have to query the Plays collection if we want info about the title of the play:
@@ -199,13 +203,6 @@ router.post('/word', function(req, res) {
   //   res.json(data);
   // })
   .catch(err => res.json(err));
-
-  // This seems to be solved -- at least in the database, the plays have Lines:
-
-  // Can't quite figure out how to grab all lines from the Plays collection... Would be easier to just add a 'play' field to lines collection...But we should learn this way.
-  // I think what we need to do is populate!
-  // Hmm, but in order to that we need to recreate the DB with the reference to Plays saved in the Lines... Already, with the first relationship, it becomes annoying.
-
 });
 
 
